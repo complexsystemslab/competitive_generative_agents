@@ -10,6 +10,9 @@ Variables:
 !<INPUT 8>! -- Persona's current sector
 
 <commentblockmarker>###</commentblockmarker>
+Decide where !<INPUT 0>! is going. Provide only the location in brackets {}.
+For example:
+---
 Jane Anderson is in kitchen in Jane Anderson's house.
 Jane Anderson is going to Jane Anderson's house that has the following areas: {kitchen,  bedroom, bathroom}
 Stay in the current area if the activity can be done there. Never go into other people's rooms unless necessary.

@@ -17,7 +17,10 @@ from langchain.llms import GPT4All
 from langchain.chat_models import ChatAnthropic
 from langchain.embeddings import GPT4AllEmbeddings
 from langchain.callbacks.manager import CallbackManager
-from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
+# from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler as CallbackHandler
+from langchain.callbacks.streaming_stdout_final_only import FinalStreamingStdOutCallbackHandler as CallbackHandler
+
+from huggingface_hub import hf_hub_download
 
 # ============================================================================
 # ################### [Set LLM] ###################
@@ -33,22 +36,24 @@ llm = OpenAI(temperature=0,model_name="gpt-3.5-turbo-16k")
 llm = ChatAnthropic(model_name="claude-2", temperature=0)
 '''
 
-### *** Llama.cpp (Llama2-13b) ***
+### *** Llama.cpp ***
 '''
-n_gpu_layers = 1  # Metal set to 1 is enough.
-n_batch = 512  # Should be between 1 and n_ctx, consider the amount of RAM of your Apple Silicon Chip.
-callback_manager = CallbackManager([StreamingStdOutCallbackHandler()])
-model_path="/Users/rlm/Desktop/Code/llama.cpp/llama-2-13b-chat.ggmlv3.q4_0.bin"
+model_path = hf_hub_download(repo_id=model_repo, filename=model_filename)
+
+n_gpu_layers = -1
+n_batch = 2048
+callback_manager = CallbackManager([CallbackHandler()])
+
 llm = LlamaCpp(
     model_path=model_path,
     n_gpu_layers=n_gpu_layers,
     n_batch=n_batch,
     n_ctx=4096,
-    f16_kv=True,  # MUST set to True, otherwise you will run into problem after a couple of calls
+    # f16_kv=True,
     callback_manager=callback_manager,
     verbose=True,
 )
-''' 
+'''
 
 ### *** GPT4Alll (nous-hermes-13b) *** 
 ''' 
@@ -58,17 +63,10 @@ llm = GPT4All(
 )
 '''
 
-### *** Ollama (Vicuna-13b-16k) *** 
-''' 
+### *** Ollama ***
 llm = Ollama(base_url="http://localhost:11434",
-              model="vicuna:13b-v1.5-16k-q4_0",
-              callback_manager = CallbackManager([StreamingStdOutCallbackHandler()]))
-'''
-
-### *** Ollama (Llama2-13b) *** 
-llm = Ollama(base_url="http://localhost:11434",
-              model="llama2:13b",
-              callback_manager = CallbackManager([StreamingStdOutCallbackHandler()]))
+              model=ollama_model,
+              callback_manager = CallbackManager([CallbackHandler()]))
 
 def temp_sleep(seconds=0.1):
   time.sleep(seconds)
@@ -239,10 +237,15 @@ def safe_generate_response(prompt,
     curr_gpt_response = GPT_request(prompt, gpt_parameter)
     if func_validate(curr_gpt_response, prompt=prompt): 
       return func_clean_up(curr_gpt_response, prompt=prompt)
+    else:
+      print('==== ERROR IN RESPONSE ====')
+      print(curr_gpt_response)
+      print('~~~~')
     if verbose: 
       print ("---- repeat count: ", i, curr_gpt_response)
       print (curr_gpt_response)
       print ("~~~~")
+  print("==== USING FAILSAFE ====")
   return fail_safe_response
 
 

@@ -11,7 +11,7 @@ Variables:
 !<INPUT 7>! -- Persona first names
 
 <commentblockmarker>###</commentblockmarker>
-Describe subtasks in 5 min increments. 
+Describe subtasks in 5 minute increments.
 ---
 Name: Kelly Bronson
 Age: 35
