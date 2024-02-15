@@ -145,12 +145,14 @@ class ReverieServer:
     # simulation. 
     curr_sim_code = dict()
     curr_sim_code["sim_code"] = self.sim_code
-    with open(f"{fs_temp_storage}/curr_sim_code.json", "w") as outfile: 
+
+    os.makedirs(fs_temp_storage, exist_ok=True)  # create directory if missing
+    with open(f"{fs_temp_storage}/curr_sim_code.json", "w+") as outfile:
       outfile.write(json.dumps(curr_sim_code, indent=2))
     
     curr_step = dict()
     curr_step["step"] = self.step
-    with open(f"{fs_temp_storage}/curr_step.json", "w") as outfile: 
+    with open(f"{fs_temp_storage}/curr_step.json", "w+") as outfile:
       outfile.write(json.dumps(curr_step, indent=2))
 
 
@@ -178,7 +180,7 @@ class ReverieServer:
     reverie_meta["persona_names"] = list(self.personas.keys())
     reverie_meta["step"] = self.step
     reverie_meta_f = f"{sim_folder}/reverie/meta.json"
-    with open(reverie_meta_f, "w") as outfile: 
+    with open(reverie_meta_f, "w") as outfile:
       outfile.write(json.dumps(reverie_meta, indent=2))
 
     # Save the personas.
