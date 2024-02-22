@@ -156,19 +156,23 @@ class ReverieServer:
       outfile.write(json.dumps(curr_step, indent=2))
 
 
-  def save(self): 
+  def save(self, include_datetime=False):
     """
     Save all Reverie progress -- this includes Reverie's global state as well
     as all the personas.  
 
     INPUT
-      None
+      include_datetime: whether to include the datetime in the sim folder name and create a new copy
+      time: time value to insert into sim folder name
     OUTPUT 
       None
       * Saves all relevant data to the designated memory directory
     """
     # <sim_folder> points to the current simulation folder.
     sim_folder = f"{fs_storage}/{self.sim_code}"
+
+    if include_datetime:
+      shutil.copytree(sim_folder, sim_folder := f'{sim_folder}_{self.curr_time.isoformat()}')
 
     # Save Reverie meta information.
     reverie_meta = dict() 
@@ -180,6 +184,7 @@ class ReverieServer:
     reverie_meta["persona_names"] = list(self.personas.keys())
     reverie_meta["step"] = self.step
     reverie_meta_f = f"{sim_folder}/reverie/meta.json"
+
     with open(reverie_meta_f, "w") as outfile:
       outfile.write(json.dumps(reverie_meta, indent=2))
 
@@ -471,6 +476,16 @@ class ReverieServer:
           # Example: run 1000
           int_count = int(sim_command.split()[-1])
           rs.start_server(int_count)
+
+        elif sim_command[:7].lower() == "autorun":
+          # Automatically runs the provided number of steps, saving a new copy occasionally
+          # Example: autorun 1440 60
+          #   with 1-minute steps runs a full day, daving every hour
+          max_steps, save_frequency = tuple(int(n) for n in sim_command.split()[1:])
+          for _ in range(max_steps//save_frequency):
+              rs.start_server(save_frequency)
+              self.save(include_datetime=True)
+
 
         elif ("print persona schedule" 
               in sim_command[:22].lower()): 
