@@ -220,7 +220,15 @@ def run_gpt_prompt_generate_hourly_schedule(persona,
     return prompt_input
 
   def __func_clean_up(gpt_response, prompt=""):
+    # drop hallucinated IDs/activity prefix
+    # e.g., [(ID:bjNTdA) Monday February 13 -- 11:00 AM] Activity:
     cr = gpt_response.split(']')[-1].split('Activity:')[-1].strip()
+
+    # avoid situation where model writes full task instead of completing the sentence
+    # e.g., "Isabella [Rodriguez] is going to the store" instead of just "going to the store" as desired
+    cr = re.split(f'({persona.scratch.get_str_name()}|{persona.scratch.get_str_firstname()}) (is|will) ',  cr, maxsplit=1)[-1]
+
+    # drop period at end of statement
     if cr[-1] == ".":
       cr = cr[:-1]
     return cr
@@ -707,7 +715,9 @@ def run_gpt_prompt_action_arena(action_description,
     cleaned_response = gpt_response.split("}")[0].split("{")[-1].strip()
     return cleaned_response
 
-  def __func_validate(gpt_response, prompt=""): 
+  def __func_validate(gpt_response, prompt=""):
+    if ',' in gpt_response:
+      return False
     if len(gpt_response.strip()) < 1: 
       return False
     if "}" not in gpt_response:
@@ -716,8 +726,17 @@ def run_gpt_prompt_action_arena(action_description,
     #   return False
     return True
   
-  def get_fail_safe(): 
-    fs = ("kitchen")
+  def get_fail_safe():
+    # MAR 11 TEMP
+    accessible_arena_str = persona.s_mem.get_str_accessible_sector_arenas(f"{act_world}:{act_sector}")
+    curr = accessible_arena_str.split(", ")
+
+    fs = None  # if this somehow gets passed, an error WILL occur
+    for location in curr:
+      if "'s room" not in location or persona.scratch.last_name in location:
+        fs = location
+        break
+
     return fs
 
   gpt_param = {"engine": "text-davinci-003", "max_tokens": 15, 
@@ -1574,7 +1593,7 @@ def run_gpt_prompt_create_conversation(persona, target_persona, curr_loc,
     content = re.findall('"([^"]*)"', gpt_response)
 
     speaker_order = []
-    for i in gpt_response.split("\n"): 
+    for i in gpt_response.split("\n"):
       name = i.split(":")[0].strip() 
       if name: 
         speaker_order += [name]
