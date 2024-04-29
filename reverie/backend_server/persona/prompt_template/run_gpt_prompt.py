@@ -368,9 +368,10 @@ def run_gpt_prompt_task_decomp(persona,
     return prompt_input
 
   def __func_clean_up(gpt_response, prompt=""):
-    print ("TOODOOOOOO")
-    print (gpt_response)
-    print ("-==- -==- -==- ")
+    print("TOODOOOOOO")
+    print('PROMPT:\n', prompt)
+    print('RESPONSE:\n', gpt_response)
+    print("-==- -==- -==- ")
 
     # TODO SOMETHING HERE sometimes fails... See screenshot
     temp = [i.strip() for i in gpt_response.split("\n")]
@@ -378,7 +379,7 @@ def run_gpt_prompt_task_decomp(persona,
     cr = []
     for count, i in enumerate(temp): 
       if count != 0: 
-        _cr += [" ".join([j.strip () for j in i.split(" ")][3:])]
+        _cr += [" ".join([j.strip() for j in i.split(" ")][3:])]
       else: 
         _cr += [i]
     for count, i in enumerate(_cr):
@@ -445,14 +446,14 @@ def run_gpt_prompt_task_decomp(persona,
   def __func_validate(gpt_response, prompt=""): 
     # TODO -- this sometimes generates error 
     try: 
-      __func_clean_up(gpt_response)
-    except: 
-      pass
-      # return False
+      __func_clean_up(gpt_response, prompt=prompt)
+    except Exception:
+      print(traceback.format_exc())
+      return False
     return gpt_response
 
   def get_fail_safe(): 
-    fs = ["asleep"]
+    fs = ["asleep", 0]
     return fs
 
   gpt_param = {"engine": "text-davinci-003", "max_tokens": 1000, 

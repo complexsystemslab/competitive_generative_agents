@@ -65,8 +65,8 @@ llm = GPT4All(
 
 ### *** Ollama ***
 llm = Ollama(base_url="http://localhost:11434",
-              model=ollama_model,
-              callback_manager = CallbackManager([CallbackHandler()]))
+             model=ollama_model,
+             callback_manager=CallbackManager([CallbackHandler()]))
 
 def temp_sleep(seconds=0.1):
   time.sleep(seconds)
