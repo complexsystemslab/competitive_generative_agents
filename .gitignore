@@ -1,7 +1,7 @@
 reverie/backend_server/utils.py
 environment/frontend_server/frontend_server/settings/production.py
-environment/frontend_server/storage/
-environment/frontend_server/temp_storage/
+environment/frontend_server/storage/*
+environment/frontend_server/temp_storage/*
 #static_dirs/*
 logs/*
 
