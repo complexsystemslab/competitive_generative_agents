@@ -30,5 +30,5 @@ Answer: {cafe}
 * Stay in the current area if the activity can be done there. 
 * NEVER go into other people's rooms unless necessary.
 
-!<INPUT 3>! is !<INPUT 4>!. For !<INPUT 5>!, !<INPUT 6>! should go to the following area in !<INPUT 7>! (MUST pick ONE of {!<INPUT 8>!}):
+!<INPUT 3>! is !<INPUT 4>!. For !<INPUT 5>!, !<INPUT 6>! should go to the following area in !<INPUT 7>! (Options: {!<INPUT 8>!}, select ONE):
 Answer: {

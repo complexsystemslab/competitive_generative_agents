@@ -24,7 +24,7 @@ Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten
 Personality: sweet, gentle, meticulous
 Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway}.
 Currently: Kelly is a teacher during the school year. She teaches at the school but works on lesson plans at home. She is currently living alone in a single bedroom condo.
-Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.s
+Daily plan requirement: Kelly is planning to teach during the morning and work from home in the afternoon.
 
 Today is Saturday May 10. From 08:00am ~09:00am, Kelly is planning on having breakfast, from 09:00am ~ 12:00pm, Kelly is planning on working on the next day's kindergarten lesson plan, and from 12:00 ~ 13pm, Kelly is planning on taking a break.
 In 5 min increments, list the subtasks Kelly does when Kelly is working on the next day's kindergarten lesson plan from 09:00am ~ 12:00pm (total duration in minutes: 180):
