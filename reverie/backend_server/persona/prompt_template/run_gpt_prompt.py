@@ -3064,11 +3064,11 @@ def run_gpt_end_convo(maze, init_persona, target_persona, retrieved, curr_contex
     return prompt_input
 
   def __func_clean_up(gpt_response, prompt=""):
-    return gpt_response.strip().lower() == 'yes'
+    return gpt_response.strip().lower() in ['yes', 'true']
 
   def __func_validate(gpt_response, prompt=""):
     try:
-      return gpt_response.strip().lower() in ['yes','no']
+      return gpt_response.strip().lower() in ['yes', 'no', 'true', 'false']
     except:
       return False
 
