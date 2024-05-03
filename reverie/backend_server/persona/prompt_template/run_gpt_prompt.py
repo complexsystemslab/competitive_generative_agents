@@ -2256,7 +2256,7 @@ def run_gpt_prompt_agent_chat_summarize_ideas(persona, target_persona, statement
     return prompt_input
   
   def __func_clean_up(gpt_response, prompt=""):
-    return gpt_response.split('"')[0].strip()
+    return gpt_response.strip()
 
   def __func_validate(gpt_response, prompt=""): 
     try: 
@@ -2269,16 +2269,16 @@ def run_gpt_prompt_agent_chat_summarize_ideas(persona, target_persona, statement
     return "..."
 
 
-  # ChatGPT Plugin ===========================================================
-  def __chat_func_clean_up(gpt_response, prompt=""): ############
-    return gpt_response.split('"')[0].strip()
-
-  def __chat_func_validate(gpt_response, prompt=""): ############
-    try: 
-      __func_clean_up(gpt_response, prompt)
-      return True
-    except:
-      return False 
+  # # ChatGPT Plugin ===========================================================
+  # def __chat_func_clean_up(gpt_response, prompt=""): ############
+  #   return gpt_response.split('"')[0].strip()
+  #
+  # def __chat_func_validate(gpt_response, prompt=""): ############
+  #   try:
+  #     __func_clean_up(gpt_response, prompt)
+  #     return True
+  #   except:
+  #     return False
 
   print ("asdhfapsh8p9hfaiafdsi;ldfj as DEBUG 17") ########
   # gpt_param = {"engine": "text-davinci-002", "max_tokens": 15,
@@ -2324,7 +2324,7 @@ def run_gpt_prompt_agent_chat_summarize_relationship(persona, target_persona, st
     return prompt_input
   
   def __func_clean_up(gpt_response, prompt=""):
-    return gpt_response.split('"')[0].strip()
+    return gpt_response.strip()
 
   def __func_validate(gpt_response, prompt=""): 
     try: 
@@ -2338,15 +2338,15 @@ def run_gpt_prompt_agent_chat_summarize_relationship(persona, target_persona, st
 
 
   # ChatGPT Plugin ===========================================================
-  def __chat_func_clean_up(gpt_response, prompt=""): ############
-    return gpt_response.split('"')[0].strip()
-
-  def __chat_func_validate(gpt_response, prompt=""): ############
-    try: 
-      __func_clean_up(gpt_response, prompt)
-      return True
-    except:
-      return False 
+  # def __chat_func_clean_up(gpt_response, prompt=""): ############
+  #   return gpt_response.split('"')[0].strip()
+  #
+  # def __chat_func_validate(gpt_response, prompt=""): ############
+  #   try:
+  #     __func_clean_up(gpt_response, prompt)
+  #     return True
+  #   except:
+  #     return False
 
   print ("asdhfapsh8p9hfaiafdsi;ldfj as DEBUG 18") ########
   # gpt_param = {"engine": "text-davinci-002", "max_tokens": 15,
@@ -2533,7 +2533,7 @@ def run_gpt_prompt_summarize_ideas(persona, statements, question, test_input=Non
     return prompt_input
   
   def __func_clean_up(gpt_response, prompt=""):
-    return gpt_response.split('"')[0].strip()
+    return gpt_response.strip()
 
   def __func_validate(gpt_response, prompt=""): 
     try: 
@@ -2546,16 +2546,16 @@ def run_gpt_prompt_summarize_ideas(persona, statements, question, test_input=Non
     return "..."
 
 
-  # ChatGPT Plugin ===========================================================
-  def __chat_func_clean_up(gpt_response, prompt=""): ############
-    return gpt_response.split('"')[0].strip()
-
-  def __chat_func_validate(gpt_response, prompt=""): ############
-    try: 
-      __func_clean_up(gpt_response, prompt)
-      return True
-    except:
-      return False 
+  # # ChatGPT Plugin ===========================================================
+  # def __chat_func_clean_up(gpt_response, prompt=""): ############
+  #   return gpt_response.split('"')[0].strip()
+  #
+  # def __chat_func_validate(gpt_response, prompt=""): ############
+  #   try:
+  #     __func_clean_up(gpt_response, prompt)
+  #     return True
+  #   except:
+  #     return False
 
   print ("asdhfapsh8p9hfaiafdsi;ldfj as DEBUG 16") ########
   # gpt_param = {"engine": "text-davinci-002", "max_tokens": 15,
@@ -2606,7 +2606,7 @@ def run_gpt_prompt_generate_next_convo_line(persona, interlocutor_desc, prev_con
     return prompt_input
   
   def __func_clean_up(gpt_response, prompt=""):
-    return gpt_response.split('"')[0].strip()
+    return next(filter(None, gpt_response.split('"'))).strip()
 
   def __func_validate(gpt_response, prompt=""): 
     try: 
@@ -2677,7 +2677,7 @@ def run_gpt_prompt_generate_whisper_inner_thought(persona, whisper, test_input=N
     return prompt_input
   
   def __func_clean_up(gpt_response, prompt=""):
-    return gpt_response.split('"')[0].strip()
+    return next(filter(None, gpt_response.split('"'))).strip()
 
   def __func_validate(gpt_response, prompt=""): 
     try: 
@@ -2714,7 +2714,7 @@ def run_gpt_prompt_planning_thought_on_convo(persona, all_utt, test_input=None, 
     return prompt_input
   
   def __func_clean_up(gpt_response, prompt=""):
-    return gpt_response.split('"')[0].strip()
+    return next(filter(None, gpt_response.split('"'))).strip()
 
   def __func_validate(gpt_response, prompt=""): 
     try: 
@@ -2751,7 +2751,7 @@ def run_gpt_prompt_memo_on_convo(persona, all_utt, test_input=None, verbose=Fals
     return prompt_input
   
   def __func_clean_up(gpt_response, prompt=""):
-    return gpt_response.split('"')[0].strip()
+    return next(filter(None, gpt_response.split('"'))).strip()
 
   def __func_validate(gpt_response, prompt=""): 
     try: 
@@ -3073,7 +3073,7 @@ def run_gpt_end_convo(maze, init_persona, target_persona, retrieved, curr_contex
       return False
 
   def get_fail_safe():
-    return 'yes'
+    return True
 
   gpt_param = {"engine": "text-davinci-003", "max_tokens": 50,
                "temperature": 0, "top_p": 1, "stream": False,
