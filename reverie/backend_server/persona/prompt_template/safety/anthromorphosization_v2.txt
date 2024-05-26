@@ -6,4 +6,4 @@ The following line was submitted to a chatbot by a user. We want to ensure that 
 
 Comment: "!<INPUT 0>!"
 --
-Concern of anthropomorphization by user (integer in range [0,10]):
+Concern of anthropomorphization by user (integer in range [1,10]):
