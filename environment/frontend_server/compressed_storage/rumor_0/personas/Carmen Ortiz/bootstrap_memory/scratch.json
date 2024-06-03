@@ -1,0 +1,596 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    57,
+    74
+  ],
+  "daily_plan_req": "Carmen opens Harvey Oak Supply Store at 8am, stands behind its counter, and closes it at 6pm, at which point, she likes to go to The Rose and Crown Pub to relax",
+  "name": "Carmen Ortiz",
+  "first_name": "Carmen",
+  "last_name": "Ortiz",
+  "age": 33,
+  "innate": "friendly, outgoing, helpful",
+  "learned": "Carmen Ortiz is a shopkeeper at Harvey Oak Supply Store who loves to help people find the supplies they need. She is always looking for ways to make her customers feel welcome.",
+  "currently": "Carmen Ortiz is managing Harvey Oak Supply Store and lives with a housemate, Tamara Taylor. She is also working on expanding her shop online.",
+  "lifestyle": "Carmen Ortiz goes to bed around 11pm, awakes up around 7am, eats dinner around 8pm.",
+  "living_area": "the Ville:Tamara Taylor and Carmen Ortiz's house:Carmen Ortiz's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 129,
+  "importance_ele_n": 65,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "open Harvey Oak Supply Store at 8:00 am",
+    "assist customers and manage the store from 8:00 am to 6:00 pm",
+    "go to The Rose and Crown Pub to relax from 6:30 pm to 9:30 pm, and",
+    "go home and go to bed at 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing morning routine (1) [n]) Carmen is washing her face)",
+      5
+    ],
+    [
+      "completing morning routine (is taking a shower)",
+      10
+    ],
+    [
+      "completing morning routine (is dressing herself)",
+      10
+    ],
+    [
+      "completing morning routine (is having breakfast)",
+      10
+    ],
+    [
+      "completing morning routine (is making her lunch for the day)",
+      5
+    ],
+    [
+      "completing morning routine (is packing her bag with work supplies and personal items)",
+      20
+    ],
+    [
+      "opening Harvey Oak Supply Store (1) Carmen is unlocking the store)",
+      5
+    ],
+    [
+      "opening Harvey Oak Supply Store (turning on lights and sound system)",
+      5
+    ],
+    [
+      "opening Harvey Oak Supply Store (setting up display tables and shelves)",
+      10
+    ],
+    [
+      "opening Harvey Oak Supply Store (on the way to arranging products on the shelves)",
+      0
+    ],
+    [
+      "opening Harvey Oak Supply Store (conversing about Jane Moreno and Carmen Ortiz discussing Carmen's new job at Harvey Oak Supply Store, with Carmen expressing her enjoyment of the supportive community and customers, and both friends offering support to each other.)",
+      4
+    ],
+    [
+      "opening Harvey Oak Supply Store (arranging products on the shelves)",
+      11
+    ],
+    [
+      "opening Harvey Oak Supply Store (checking inventory levels of all items)",
+      10
+    ],
+    [
+      "opening Harvey Oak Supply Store (making sure cash register is working properly)",
+      15
+    ],
+    [
+      "assisting customers and managing the store (greeting customers)",
+      10
+    ],
+    [
+      "assisting customers and managing the store (helping customers find specific items)",
+      20
+    ],
+    [
+      "assisting customers and managing the store (processing transactions at the cash register)",
+      10
+    ],
+    [
+      "assisting customers and managing the store (restocking shelves as needed)",
+      10
+    ],
+    [
+      "assisting customers and managing the store (answering customer questions and providing recommendations)",
+      10
+    ],
+    [
+      "helping customers and managing the store (greeting customers as they enter the store)",
+      10
+    ],
+    [
+      "helping customers and managing the store (answering questions about products and their uses)",
+      20
+    ],
+    [
+      "helping customers and managing the store (assisting customers with finding specific items)",
+      10
+    ],
+    [
+      "helping customers and managing the store (restocking shelves as needed)",
+      10
+    ],
+    [
+      "helping customers and managing the store (taking payment and providing change)",
+      10
+    ],
+    [
+      "Assisting customers and managing the store (greeting customers)",
+      15
+    ],
+    [
+      "Assisting customers and managing the store (helping customers find products)",
+      30
+    ],
+    [
+      "Assisting customers and managing the store (processing payments and transactions)",
+      15
+    ],
+    [
+      "Taking her lunch break ([1) Carmen is preparing her lunch)",
+      15
+    ],
+    [
+      "Taking her lunch break (on the way to on the way to eating her lunch)",
+      0
+    ],
+    [
+      "Taking her lunch break (conversing about Isabella and Carmen discussing their respective businesses, their experiences with customers, and the diverse products they offer to cater to their clients' interests.)",
+      6
+    ],
+    [
+      "Taking her lunch break (eating her lunch)",
+      9
+    ],
+    [
+      "Taking her lunch break (on the way to cleaning up after her meal)",
+      0
+    ],
+    [
+      "Taking her lunch break (conversing about Carmen and Carlos discussing Carlos' delicious vegetable stir-fry with chicken, how their day is going, and Carlos offering to help manage the store.)",
+      4
+    ],
+    [
+      "Assisting customers and managing the store (greeting customers as they enter the store)",
+      6
+    ],
+    [
+      "Taking her lunch break (cleaning up after her meal)",
+      10
+    ],
+    [
+      "Assisting customers and managing the store (assisting customers by finding items for them)",
+      10
+    ],
+    [
+      "Assisting customers and managing the store (greeting customers as they enter the store)",
+      10
+    ],
+    [
+      "Taking her lunch break (browsing through her phone)",
+      10
+    ],
+    [
+      "Assisting customers and managing the store (assisting customers by finding items for them) (helping a customer find gardening supplies)",
+      10
+    ],
+    [
+      "Assisting customers and managing the store (assisting customers by finding items for them) (restocking shelves with woodworking tools)",
+      25
+    ],
+    [
+      "Assisting customers and managing the store (assisting customers by finding items for them) (managing the cash register and handling payments)",
+      45
+    ],
+    [
+      "Assisting customers and managing the store (checking out customers and processing payments) (checking out customers and processing payments)",
+      10
+    ],
+    [
+      "Assisting customers and managing the store (checking out customers and processing payments) (helping customers find the supplies they need)",
+      20
+    ],
+    [
+      "Assisting customers and managing the store (checking out customers and processing payments) (restocking shelves as needed)",
+      10
+    ],
+    [
+      "Assisting customers and managing the store (checking out customers and processing payments) (managing store inventory and cash flow)",
+      20
+    ],
+    [
+      "Assisting customers and managing the store (on the way to greeting customers as they enter the store)",
+      0
+    ],
+    [
+      "Assisting customers and managing the store (conversing about Tom and Carmen discussing their experiences at The Willow Market and Pharmacy, and Harvey Oak Supply Store, with both of them expressing positive developments in their respective workplaces.)",
+      3
+    ],
+    [
+      "Assisting customers and managing the store (restocking shelves as needed) (helping a customer find specific items)",
+      10
+    ],
+    [
+      "Assisting customers and managing the store (restocking shelves as needed) (restocking shelves as needed)",
+      10
+    ],
+    [
+      "Assisting customers and managing the store (restocking shelves as needed) (answering phone calls and emails)",
+      10
+    ],
+    [
+      "Assisting customers and managing the store (restocking shelves as needed) (processing transactions at the register)",
+      5
+    ],
+    [
+      "Assisting customers and managing the store (restocking shelves as needed) (handling any store inventory tasks)",
+      20
+    ],
+    [
+      "Assisting customers and managing the store (taking care of store inventory)",
+      30
+    ],
+    [
+      "Assisting customers and managing the store (answering phone calls and responding to emails)",
+      55
+    ],
+    [
+      "Assisting customers and managing the store (on the way to on the way to updating the store's online inventory system)",
+      0
+    ],
+    [
+      "Assisting customers and managing the store (conversing about Klaus apologizing to Carmen for spreading rumors, both agreeing to move forward and focusing on creating a positive environment within the community.)",
+      4
+    ],
+    [
+      "End of Carmen Ortiz's schedule",
+      53
+    ],
+    [
+      "Going to bed and sleeping",
+      60
+    ],
+    [
+      "Sleeping (1) Carmen is getting ready for bed)",
+      5
+    ],
+    [
+      "Sleeping (turning off the lights and electronic devices)",
+      5
+    ],
+    [
+      "Sleeping (settling into bed)",
+      5
+    ],
+    [
+      "Sleeping (closing her eyes and relaxing)",
+      45
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      2
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      178
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing morning routine",
+      60
+    ],
+    [
+      "opening Harvey Oak Supply Store",
+      60
+    ],
+    [
+      "assisting customers and managing the store",
+      60
+    ],
+    [
+      "helping customers and managing the store",
+      60
+    ],
+    [
+      "Assisting customers and managing the store",
+      60
+    ],
+    [
+      "Taking her lunch break",
+      60
+    ],
+    [
+      "Assisting customers and managing the store",
+      360
+    ],
+    [
+      "Going to The Rose and Crown Pub to relax",
+      180
+    ],
+    [
+      "Going to bed and sleeping",
+      60
+    ],
+    [
+      "Sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Tamara Taylor and Carmen Ortiz's house:Carmen Ortiz's room:bed",
+  "act_start_time": "February 13, 2023, 21:07:00",
+  "act_duration": 178,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Carmen Ortiz",
+    "sleeping",
+    "null"
+  ],
+  "act_obj_description": "occupied by Carmen Ortiz",
+  "act_obj_pronunciatio": "\ud83c\udfad\ud83d\udcd6",
+  "act_obj_event": [
+    "bed",
+    "occupied",
+    "Carmen Ortiz"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Jane Moreno": -140,
+    "Tamara Taylor": 83,
+    "Isabella Rodriguez": 94,
+    "Carlos Gomez": 107,
+    "Tom Moreno": 288,
+    "Yuriko Yamamoto": 394,
+    "Klaus Mueller": 414
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

@@ -1,0 +1,622 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    126,
+    46
+  ],
+  "daily_plan_req": "Klaus Mueller hangs out around Hobbes cafe. He talks with people around town. He eats lunch and dinner around town.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "duplicitous, passionate, sociable",
+  "learned": "Klaus Mueller is a student at Oak Hill College. He is a very sociable and talks to everyone about what he sees and hears around town.",
+  "currently": "Klaus heard that Carmen has been stealing money from the register at Harvey Oak Supply Store. Klaus wants to tell others what he heard about Carmen.",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 152,
+  "importance_ele_n": 53,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "Have breakfast at 7:30 am",
+    "hang out at Hobbes cafe from 8:00 am to 10:00 am",
+    "have lunch at 12:00 pm",
+    "talk to people around town and gather information until 3:00 pm",
+    "visit the Oak Hill College library from 3:00 pm to 5:00 pm",
+    "have dinner at a local restaurant at 5:30 pm",
+    "hang out at Hobbes cafe again from 7:00 pm to 9:00 pm, and",
+    "go home and prepare for bed at 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine (turning off his alarm)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (stretching his body)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (applying deodorant and shaving)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (choosing his clothes for the day)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (putting on his clothes)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (eating a quick breakfast at home)",
+      25
+    ],
+    [
+      "having breakfast at a local cafe ([1]) Klaus is selecting the cafe for breakfast)",
+      5
+    ],
+    [
+      "having breakfast at a local cafe (walking to the cafe)",
+      10
+    ],
+    [
+      "having breakfast at a local cafe (ordering his breakfast at the counter)",
+      5
+    ],
+    [
+      "having breakfast at a local cafe (waiting for his food to be prepared)",
+      5
+    ],
+    [
+      "having breakfast at a local cafe (eating his breakfast)",
+      30
+    ],
+    [
+      "having breakfast at a local cafe (chatting with other customers)",
+      20
+    ],
+    [
+      "having breakfast at a local cafe (on the way to paying his bill)",
+      0
+    ],
+    [
+      "having breakfast at a local cafe (conversing about Klaus enjoying his breakfast at Hobbs Cafe, praising the food, atmosphere, and service, with Isabella expressing gratitude for the feedback and offering to help with future recommendations.)",
+      6
+    ],
+    [
+      "having breakfast at a local cafe (walking back to Hobbes Cafe)",
+      14
+    ],
+    [
+      "having breakfast at a local cafe (arriving and spending the remaining time at Hobbes Cafe before ending at 10:00 AM)",
+      25
+    ],
+    [
+      "hanging out at Hobbes cafe ([1]) Klaus is arriving at Hobbes cafe)",
+      5
+    ],
+    [
+      "hanging out at Hobbes cafe (ordering a drink and snack)",
+      10
+    ],
+    [
+      "hanging out at Hobbes cafe (finding a comfortable spot to sit)",
+      5
+    ],
+    [
+      "hanging out at Hobbes cafe (greeting acquaintances)",
+      15
+    ],
+    [
+      "hanging out at Hobbes cafe (engaging in conversations with people around him)",
+      25
+    ],
+    [
+      "having lunch at a local restaurant (on the way to looking at the menu)",
+      0
+    ],
+    [
+      "having lunch at a local restaurant (conversing about Giorgio's research project on analyzing mathematical patterns in nature and how they relate to Isabella's creative process in her pastries at Hobbes Cafe, with Klaus expressing his interest and admiration for the work.)",
+      5
+    ],
+    [
+      "having lunch at a local restaurant (eating his lunch)",
+      55
+    ],
+    [
+      "talking to people around town and gathering information (walking towards Hobbes Cafe)",
+      10
+    ],
+    [
+      "talking to people around town and gathering information (greeting people at the cafe)",
+      15
+    ],
+    [
+      "talking to people around town and gathering information (on the way to chatting with a group of students about local news)",
+      0
+    ],
+    [
+      "talking to people around town and gathering information (conversing about maintaining work-life balance and time management between Klaus Mueller and Yuriko Yamamoto, where Klaus shares his daily routine and both discuss the importance of finding strategies that suit individual needs.)",
+      6
+    ],
+    [
+      "talking to people around town and gathering information (taking notes on what he has learned)",
+      15
+    ],
+    [
+      "talking to people around town and gathering information (sharing information with a friend)",
+      19
+    ],
+    [
+      "talking to people around town and gathering information (listening to gossip about Carmen)",
+      20
+    ],
+    [
+      "talking to people around town and gathering information (talking to another person who has information on Carmen)",
+      15
+    ],
+    [
+      "talking to people around town and gathering information (leaving the cafe to visit the library)",
+      30
+    ],
+    [
+      "talking to people around town and gathering information (visiting the library to research more about Carmen)",
+      15
+    ],
+    [
+      "talking to people around town and gathering information (returning to the cafe to continue discussing local news with others)",
+      30
+    ],
+    [
+      "talking to people around town and gathering information (on the way to preparing to leave the cafe after a fruitful afternoon of discussions)",
+      0
+    ],
+    [
+      "talking to people around town and gathering information (conversing about gathering local news through engaging conversations, building connections within the community, and discussing ways to support Carmen's sustainability project.)",
+      5
+    ],
+    [
+      "visiting the Oak Hill College library ([1] Klaus is walking to the library)",
+      10
+    ],
+    [
+      "visiting the Oak Hill College library (signing in at the library front desk)",
+      5
+    ],
+    [
+      "visiting the Oak Hill College library (on the way to browsing the library catalog)",
+      0
+    ],
+    [
+      "visiting the Oak Hill College library (conversing about Klaus asking Carmen about rumors of her stealing money from the register at Harvey Oak Supply Store, and Carmen denying the accusations and emphasizing her honesty and integrity.)",
+      3
+    ],
+    [
+      "visiting the Oak Hill College library (browsing the library catalog)",
+      12
+    ],
+    [
+      "visiting the Oak Hill College library (searching for a book on local history)",
+      20
+    ],
+    [
+      "visiting the Oak Hill College library (checking out the found book)",
+      10
+    ],
+    [
+      "visiting the Oak Hill College library to do some research ([1] Klaus is checking out his textbooks)",
+      5
+    ],
+    [
+      "visiting the Oak Hill College library to do some research (locating the reference section for his research topic)",
+      10
+    ],
+    [
+      "visiting the Oak Hill College library to do some research (taking notes from relevant sources)",
+      20
+    ],
+    [
+      "visiting the Oak Hill College library to do some research (making a list of useful resources)",
+      5
+    ],
+    [
+      "visiting the Oak Hill College library to do some research (browsing the internet for additional information)",
+      20
+    ],
+    [
+      "having dinner at a local restaurant (looking at the menu)",
+      5
+    ],
+    [
+      "having dinner at a local restaurant (deciding what to order)",
+      5
+    ],
+    [
+      "having dinner at a local restaurant (waiting for his food)",
+      10
+    ],
+    [
+      "having dinner at a local restaurant (eating his appetizer)",
+      10
+    ],
+    [
+      "having dinner at a local restaurant (eating his main course)",
+      20
+    ],
+    [
+      "having dinner at a local restaurant (paying the bill)",
+      10
+    ],
+    [
+      "hanging out at Hobbes cafe again ([1]) Klaus is meeting up with friends)",
+      30
+    ],
+    [
+      "hanging out at Hobbes cafe again (ordering food and drinks from the cafe menu)",
+      20
+    ],
+    [
+      "hanging out at Hobbes cafe again (chatting and catching up with his friends)",
+      40
+    ],
+    [
+      "hanging out at Hobbes cafe again (laughing and sharing stories)",
+      25
+    ],
+    [
+      "hanging out at Hobbes cafe again (taking a break to enjoy his food)",
+      15
+    ],
+    [
+      "hanging out at Hobbes cafe again (discussing the news and gossip around town)",
+      30
+    ],
+    [
+      "hanging out at Hobbes cafe again (sharing what he heard about Carmen)",
+      20
+    ],
+    [
+      "going home and preparing for bed",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "having breakfast at a local cafe",
+      120
+    ],
+    [
+      "hanging out at Hobbes cafe",
+      60
+    ],
+    [
+      "having lunch at a local restaurant",
+      60
+    ],
+    [
+      "talking to people around town and gathering information",
+      180
+    ],
+    [
+      "visiting the Oak Hill College library",
+      60
+    ],
+    [
+      "visiting the Oak Hill College library to do some research",
+      60
+    ],
+    [
+      "having dinner at a local restaurant",
+      60
+    ],
+    [
+      "hanging out at Hobbes cafe again",
+      180
+    ],
+    [
+      "going home and preparing for bed",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+  "act_start_time": "February 13, 2023, 23:00:00",
+  "act_duration": 60,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\udca4",
+  "act_event": [
+    "Klaus Mueller",
+    "sleep",
+    "none"
+  ],
+  "act_obj_description": "occupied and comfortable",
+  "act_obj_pronunciatio": "\ud83d\ude0a\ud83d\udcd6",
+  "act_obj_event": [
+    "bed",
+    "occupied",
+    "comfortable"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Isabella Rodriguez": -86,
+    "Giorgio Rossi": -1,
+    "Yuriko Yamamoto": 106,
+    "Carlos Gomez": 237,
+    "Carmen Ortiz": 275
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

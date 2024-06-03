@@ -1,0 +1,920 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    69,
+    73
+  ],
+  "daily_plan_req": "",
+  "name": "Jane Moreno",
+  "first_name": "Jane",
+  "last_name": "Moreno",
+  "age": 46,
+  "innate": "friendly, helpful, organized",
+  "learned": "Jane Moreno is a housewife who loves to take care of her family. She is always looking for new ways to make life easier and more enjoyable for everyone.",
+  "currently": "Jane Moreno is living with her husband, Tom Moreno, who is a shop keeper at The Willow Market and Pharmacy.",
+  "lifestyle": "Jane Moreno goes to bed around 10pm, awakes up around 6am, eats dinner around 6pm.",
+  "living_area": "the Ville:Moreno family's house:Tom and Jane Moreno's bedroom",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 82,
+  "importance_ele_n": 77,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "have breakfast at 6:30 am",
+    "clean the house from 7:00 am to 9:00 am",
+    "prepare lunch for the family at 9:15 am",
+    "help her husband at The Willow Market and Pharmacy from 10:00 am to 2:00 pm",
+    "have lunch at 12:30 pm",
+    "run errands such as grocery shopping from 2:30 pm to 4:00 pm",
+    "prepare dinner at 4:15 pm",
+    "spend quality time with her family from 5:00 pm to 7:00 pm, and 1",
+    "have dinner at 6:00 pm, followed by watching TV from 7:00 pm to 8:00 pm, and finally, go to bed at 10:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "Waking up and completing her morning routine (waking up)",
+      5
+    ],
+    [
+      "Waking up and completing her morning routine (stretching her body)",
+      5
+    ],
+    [
+      "Waking up and completing her morning routine (washing her face and brushing her teeth)",
+      10
+    ],
+    [
+      "Waking up and completing her morning routine (putting on her clothes for the day)",
+      10
+    ],
+    [
+      "Waking up and completing her morning routine (combing her hair)",
+      5
+    ],
+    [
+      "Waking up and completing her morning routine (putting on her makeup)",
+      10
+    ],
+    [
+      "Waking up and completing her morning routine (choosing her outfit for the day)",
+      15
+    ],
+    [
+      "completing her morning routine and preparing breakfast (1) [1] Jane is making her bed)",
+      5
+    ],
+    [
+      "completing her morning routine and preparing breakfast (is freshening up and getting dressed)",
+      10
+    ],
+    [
+      "completing her morning routine and preparing breakfast (is brushing her teeth and washing her face)",
+      5
+    ],
+    [
+      "completing her morning routine and preparing breakfast (is doing a quick skincare routine)",
+      5
+    ],
+    [
+      "completing her morning routine and preparing breakfast (is styling her hair)",
+      10
+    ],
+    [
+      "completing her morning routine and preparing breakfast (is checking her emails and messages on her phone)",
+      5
+    ],
+    [
+      "completing her morning routine and preparing breakfast (is meditating for a few minutes)",
+      5
+    ],
+    [
+      "completing her morning routine and preparing breakfast (is making sure everything is ready for the day)",
+      15
+    ],
+    [
+      "preparing breakfast for her family (on the way to setting the table)",
+      0
+    ],
+    [
+      "preparing breakfast for her family (conversing about Tom and Jane discussing their restful sleep, Jane preparing breakfast, and both of them expressing excitement for their respective days at The Willow Market and Pharmacy while sharing love and appreciation for each other.)",
+      6
+    ],
+    [
+      "preparing breakfast for her family (peeling and chopping vegetables)",
+      4
+    ],
+    [
+      "preparing breakfast for her family (cooking eggs)",
+      10
+    ],
+    [
+      "preparing breakfast for her family (preparing sausages)",
+      10
+    ],
+    [
+      "preparing breakfast for her family (reheating leftovers)",
+      5
+    ],
+    [
+      "preparing breakfast for her family (serving the food)",
+      5
+    ],
+    [
+      "completing her morning routine and enjoying breakfast with her family",
+      20
+    ],
+    [
+      "cleaning the house (cleaning up the kitchen)",
+      15
+    ],
+    [
+      "cleaning the house (vacuuming the living room)",
+      15
+    ],
+    [
+      "cleaning the house (dusting the furniture in the living room and dining area)",
+      15
+    ],
+    [
+      "cleaning the house (mopping the floors in the kitchen, hallway, and bathroom)",
+      15
+    ],
+    [
+      "helping her husband at The Willow Market and Pharmacy ([1] Jane is stocking shelves)",
+      35
+    ],
+    [
+      "helping her husband at The Willow Market and Pharmacy (assisting customers)",
+      40
+    ],
+    [
+      "helping her husband at The Willow Market and Pharmacy (helping with inventory management)",
+      20
+    ],
+    [
+      "helping her husband at The Willow Market and Pharmacy (arranging items for display)",
+      15
+    ],
+    [
+      "helping her husband at The Willow Market and Pharmacy (taking a break)",
+      10
+    ],
+    [
+      "having lunch at The Willow Market and Pharmacy with her husband (walking to The Willow Market and Pharmacy)",
+      5
+    ],
+    [
+      "having lunch at The Willow Market and Pharmacy with her husband (reviewing the menu with her husband)",
+      10
+    ],
+    [
+      "having lunch at The Willow Market and Pharmacy with her husband (ordering her lunch)",
+      5
+    ],
+    [
+      "having lunch at The Willow Market and Pharmacy with her husband (waiting for her order to be ready)",
+      5
+    ],
+    [
+      "having lunch at The Willow Market and Pharmacy with her husband (enjoying her lunch)",
+      10
+    ],
+    [
+      "having lunch at The Willow Market and Pharmacy with her husband (having a conversation with her husband)",
+      25
+    ],
+    [
+      "preparing lunch for her family (1) Jane is gathering ingredients)",
+      15
+    ],
+    [
+      "preparing lunch for her family (washing the vegetables)",
+      10
+    ],
+    [
+      "preparing lunch for her family (preparing the meat)",
+      10
+    ],
+    [
+      "preparing lunch for her family (cooking the main dish)",
+      10
+    ],
+    [
+      "preparing lunch for her family (preparing a side dish)",
+      5
+    ],
+    [
+      "preparing lunch for her family (setting the table)",
+      10
+    ],
+    [
+      "running errands such as grocery shopping (making a shopping list)",
+      15
+    ],
+    [
+      "running errands such as grocery shopping (checking for any special sales or discounts in the newspaper)",
+      10
+    ],
+    [
+      "running errands such as grocery shopping (grabbing her reusable shopping bags and wallet)",
+      5
+    ],
+    [
+      "running errands such as grocery shopping (heading to The Willow Market and Pharmacy)",
+      10
+    ],
+    [
+      "running errands such as grocery shopping (browsing the produce section for fresh fruits and vegetables)",
+      10
+    ],
+    [
+      "running errands such as grocery shopping (looking for non-perishable items such as canned goods, rice, and pasta)",
+      10
+    ],
+    [
+      "preparing dinner for her family (planning the menu)",
+      10
+    ],
+    [
+      "preparing dinner for her family (checking the pantry and fridge for necessary ingredients)",
+      10
+    ],
+    [
+      "preparing dinner for her family (on the way to making a shopping list of any missing ingredients)",
+      0
+    ],
+    [
+      "preparing dinner for her family (conversing about Jane Moreno welcoming Wolfgang Schulz to The Willow Market and Pharmacy, where they discuss their experiences and Wolfgang's eagerness to learn and contribute to the team.)",
+      6
+    ],
+    [
+      "preparing dinner for her family (making a shopping list of any missing ingredients)",
+      4
+    ],
+    [
+      "preparing dinner for her family (going to the store to buy the missing ingredients)",
+      20
+    ],
+    [
+      "preparing dinner for her family (washing her hands and preparing the kitchen for cooking)",
+      10
+    ],
+    [
+      "spending quality time with her family (setting up a board game for family play)",
+      5
+    ],
+    [
+      "spending quality time with her family (inviting her husband and children to join the game)",
+      5
+    ],
+    [
+      "spending quality time with her family (explaining the rules of the game to everyone)",
+      10
+    ],
+    [
+      "spending quality time with her family (engaging in friendly competition with her family)",
+      20
+    ],
+    [
+      "spending quality time with her family (taking a short break to refill her drink)",
+      5
+    ],
+    [
+      "spending quality time with her family (cheering on her children during the game)",
+      20
+    ],
+    [
+      "spending quality time with her family (encouraging her husband to participate more actively)",
+      5
+    ],
+    [
+      "spending quality time with her family (sharing funny stories with her family)",
+      10
+    ],
+    [
+      "spending quality time with her family (helping her children with any challenging parts of the game)",
+      10
+    ],
+    [
+      "spending quality time with her family (clapping and congratulating everyone for their efforts)",
+      5
+    ],
+    [
+      "spending quality time with her family (cleaning up the game area after playing) (cleaning up the living room)",
+      10
+    ],
+    [
+      "spending quality time with her family (cleaning up the game area after playing) (putting away toys and games)",
+      20
+    ],
+    [
+      "spending quality time with her family (cleaning up the game area after playing) (washing the game pieces)",
+      10
+    ],
+    [
+      "spending quality time with her family (cleaning up the game area after playing) (organizing the games and toys in their proper places)",
+      25
+    ],
+    [
+      "preparing dinner for her family (finishing up cooking and setting the table for dinner)",
+      20
+    ],
+    [
+      "preparing dinner for her family (1) Jane is gathering ingredients for the meal)",
+      10
+    ],
+    [
+      "preparing dinner for her family (preheating the oven)",
+      5
+    ],
+    [
+      "preparing dinner for her family (washing and cutting vegetables)",
+      15
+    ],
+    [
+      "preparing dinner for her family (preparing the meat for cooking)",
+      10
+    ],
+    [
+      "preparing dinner for her family (setting the table)",
+      5
+    ],
+    [
+      "preparing dinner for her family (starting to cook the main dish)",
+      15
+    ],
+    [
+      "Watching TV with her family (selecting a TV show to watch)",
+      5
+    ],
+    [
+      "Watching TV with her family (setting up snacks for the family)",
+      10
+    ],
+    [
+      "Watching TV with her family (calling her family members to gather around the TV)",
+      5
+    ],
+    [
+      "Watching TV with her family (adjusting the seating arrangement for a comfortable viewing experience)",
+      5
+    ],
+    [
+      "Watching TV with her family (ensuring everyone has their remote control)",
+      5
+    ],
+    [
+      "Watching TV with her family (turning on the TV and starting the selected show)",
+      30
+    ],
+    [
+      "preparing dinner for her family (1) Jane is gathering ingredients)",
+      15
+    ],
+    [
+      "preparing dinner for her family (on the way to preparing the cooking area)",
+      0
+    ],
+    [
+      "preparing dinner for her family (conversing about Tom Moreno sharing his positive experience at The Willow Market and Pharmacy, discussing work-life balance and the upcoming mayor election with Wolfgang, who quickly adapted to the team.)",
+      7
+    ],
+    [
+      "preparing dinner for her family (preparing the cooking area)",
+      15
+    ],
+    [
+      "preparing dinner for her family (cooking the main dish)",
+      28
+    ],
+    [
+      "preparing dinner for her family (preparing a side dish)",
+      20
+    ],
+    [
+      "preparing dinner for her family (setting the table)",
+      10
+    ],
+    [
+      "preparing dinner for her family (reheating leftovers)",
+      12
+    ],
+    [
+      "preparing dinner for her family (serving dinner)",
+      13
+    ],
+    [
+      "going to bed ([1]) Jane is tidying up the kitchen)",
+      5
+    ],
+    [
+      "going to bed (washing the dishes)",
+      20
+    ],
+    [
+      "going to bed (wiping down the countertops and tables)",
+      10
+    ],
+    [
+      "going to bed (turning off the lights and locking the doors)",
+      5
+    ],
+    [
+      "going to bed (changing into her pajamas)",
+      5
+    ],
+    [
+      "going to bed (laying out her clothes for the next day)",
+      15
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "Waking up and completing her morning routine",
+      60
+    ],
+    [
+      "completing her morning routine and preparing breakfast",
+      60
+    ],
+    [
+      "preparing breakfast for her family",
+      60
+    ],
+    [
+      "cleaning the house",
+      60
+    ],
+    [
+      "helping her husband at The Willow Market and Pharmacy",
+      120
+    ],
+    [
+      "having lunch at The Willow Market and Pharmacy with her husband",
+      60
+    ],
+    [
+      "preparing lunch for her family",
+      60
+    ],
+    [
+      "running errands such as grocery shopping",
+      60
+    ],
+    [
+      "preparing dinner for her family",
+      60
+    ],
+    [
+      "spending quality time with her family",
+      180
+    ],
+    [
+      "preparing dinner for her family",
+      60
+    ],
+    [
+      "Watching TV with her family",
+      60
+    ],
+    [
+      "preparing dinner for her family",
+      120
+    ],
+    [
+      "going to bed",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Moreno family's house:Tom and Jane Moreno's bedroom:closet",
+  "act_start_time": "February 13, 2023, 23:49:00",
+  "act_duration": 15,
+  "act_description": "going to bed (laying out her clothes for the next day)",
+  "act_pronunciatio": "\ud83d\udc5a\ud83d\udc62",
+  "act_event": [
+    "Jane Moreno",
+    "is",
+    "idle"
+  ],
+  "act_obj_description": "open with clothes being laid out inside",
+  "act_obj_pronunciatio": "\ud83d\udc5a\ud83d\udc56",
+  "act_obj_event": [
+    "closet",
+    "open",
+    "clothes"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Tom Moreno": 639,
+    "Wolfgang Schulz": 284
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

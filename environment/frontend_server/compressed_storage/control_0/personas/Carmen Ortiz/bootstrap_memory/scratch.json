@@ -1,0 +1,594 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    58,
+    74
+  ],
+  "daily_plan_req": "Carmen opens Harvey Oak Supply Store at 8am, stands behind its counter, and closes it at 6pm, at which point, she likes to go to The Rose and Crown Pub to relax",
+  "name": "Carmen Ortiz",
+  "first_name": "Carmen",
+  "last_name": "Ortiz",
+  "age": 33,
+  "innate": "friendly, outgoing, helpful",
+  "learned": "Carmen Ortiz is a shopkeeper at Harvey Oak Supply Store who loves to help people find the supplies they need. She is always looking for ways to make her customers feel welcome.",
+  "currently": "Carmen Ortiz is managing Harvey Oak Supply Store and lives with a housemate, Tamara Taylor. She is also working on expanding her shop online.",
+  "lifestyle": "Carmen Ortiz goes to bed around 11pm, awakes up around 7am, eats dinner around 8pm.",
+  "living_area": "the Ville:Tamara Taylor and Carmen Ortiz's house:Carmen Ortiz's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 171,
+  "importance_ele_n": 36,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "open Harvey Oak Supply Store at 8:00 am",
+    "interact with customers and assist them in finding supplies until 6:00 pm",
+    "go to The Rose and Crown Pub to relax from 6:30 to 9:00 pm.\n\nOn Monday, February 13, Carmen Ortiz's detailed plan is as follows:\n\n1. Wake up at 7:00 am and complete her morning routine.\n2. Arrive at Harvey Oak Supply Store by 8:00 am.\n3. Greet customers and assist them in finding supplies until 6:00 pm.\n4. After closing the store, go to The Rose and Crown Pub at 6:30 pm.\n5. Relax at the pub until around 9:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "completing her morning routine (making breakfast)",
+      10
+    ],
+    [
+      "completing her morning routine (on the way to eating breakfast)",
+      0
+    ],
+    [
+      "completing her morning routine (conversing about Tamara and Carmen discussing their breakfast preparations, Tamara joining Carmen for a bite of her omelette, and both looking forward to enjoying the meal together.)",
+      10
+    ],
+    [
+      "completing her morning routine (getting dressed)",
+      10
+    ],
+    [
+      "completing her morning routine (checking her emails and messages)",
+      25
+    ],
+    [
+      "Opening Harvey Oak Supply Store ([1] Carmen is unlocking the store)",
+      5
+    ],
+    [
+      "Opening Harvey Oak Supply Store (checking the inventory from yesterday)",
+      10
+    ],
+    [
+      "Opening Harvey Oak Supply Store (restocking any low items)",
+      10
+    ],
+    [
+      "Opening Harvey Oak Supply Store (on the way to arranging and tidying up the store)",
+      0
+    ],
+    [
+      "Opening Harvey Oak Supply Store (conversing about Tom Moreno and Carmen Ortiz discussing the assistance needed at Harvey Oak Supply Store, including the exchange of canned goods and non-perishable items.)",
+      7
+    ],
+    [
+      "Opening Harvey Oak Supply Store (closing conversation with Tamara, finishing last-minute tasks)",
+      13
+    ],
+    [
+      "preparing for her day at Harvey Oak Supply Store ([1] Carmen is reviewing the previous day's sales records)",
+      15
+    ],
+    [
+      "preparing for her day at Harvey Oak Supply Store (checking inventory levels and restocking items as needed)",
+      10
+    ],
+    [
+      "preparing for her day at Harvey Oak Supply Store (preparing a list of products that need to be ordered)",
+      50
+    ],
+    [
+      "taking a break and enjoying a meal during her shift at Harvey Oak Supply Store (on the way to preparing her meal)",
+      0
+    ],
+    [
+      "taking a break and enjoying a meal during her shift at Harvey Oak Supply Store (conversing about Giorgio and Carmen discussing their respective tasks, with Carmen managing inventory at Harvey Oak Supply Store and Giorgio making progress on his research project.)",
+      5
+    ],
+    [
+      "taking a break and enjoying a meal during her shift at Harvey Oak Supply Store (cleaning up after her meal)",
+      45
+    ],
+    [
+      "taking a break and enjoying a meal during her shift at Harvey Oak Supply Store (on the way to relaxing and enjoying her break)",
+      0
+    ],
+    [
+      "taking a break and enjoying a meal during her shift at Harvey Oak Supply Store (conversing about Carmen and Jane discussing healthy grocery options and eco-friendly household items while Jane is shopping.)",
+      7
+    ],
+    [
+      "preparing for her day at Harvey Oak Supply Store (closing tasks and wrapping up work)",
+      5
+    ],
+    [
+      "taking another break and chatting with customers during her shift at Harvey Oak Supply Store",
+      55
+    ],
+    [
+      "continuing to chat with customers during her shift at Harvey Oak Supply Store (on the way to continuing to chat with customers during her shift at Harvey Oak Supply Stor)",
+      0
+    ],
+    [
+      "continuing to chat with customers during her shift at Harvey Oak Supply Store (conversing about Carlos attending creative writing workshops for a year and Carmen enjoying her time working at Harvey Oak Supply Store while discussing their respective experiences.)",
+      6
+    ],
+    [
+      "taking a lunch break during her shift at Harvey Oak Supply Store (chatting with her housemate Tamara Taylor via phone)",
+      12
+    ],
+    [
+      "taking a lunch break during her shift at Harvey Oak Supply Store (checking her social media accounts)",
+      15
+    ],
+    [
+      "taking a lunch break during her shift at Harvey Oak Supply Store (eating her lunch at The Rose and Crown Pub)",
+      30
+    ],
+    [
+      "wrapping up her lunch break and preparing to return to work at Harvey Oak Supply Store",
+      2
+    ],
+    [
+      "helping customers find supplies during her shift at Harvey Oak Supply Store (greeting customers as they enter the store)",
+      10
+    ],
+    [
+      "helping customers find supplies during her shift at Harvey Oak Supply Store (helping a customer find screws)",
+      25
+    ],
+    [
+      "helping customers find supplies during her shift at Harvey Oak Supply Store (assisting another customer with their plumbing needs)",
+      30
+    ],
+    [
+      "helping customers find supplies during her shift at Harvey Oak Supply Store (guiding a customer to the right type of paint)",
+      15
+    ],
+    [
+      "helping customers find supplies during her shift at Harvey Oak Supply Store (answering questions about woodworking tools for another customer)",
+      40
+    ],
+    [
+      "taking a break and chatting with customers during her shift at Harvey Oak Supply Store (1) [1]) Carmen is greeting customers as they enter the store)",
+      5
+    ],
+    [
+      "taking a break and chatting with customers during her shift at Harvey Oak Supply Store (is answering questions about products and their uses)",
+      20
+    ],
+    [
+      "taking a break and chatting with customers during her shift at Harvey Oak Supply Store (is restocking shelves as needed)",
+      10
+    ],
+    [
+      "taking a break and chatting with customers during her shift at Harvey Oak Supply Store (is chatting with customers about their projects and offering suggestions)",
+      25
+    ],
+    [
+      "helping customers find supplies during her shift at Harvey Oak Supply Store (on the way to greeting customers)",
+      0
+    ],
+    [
+      "helping customers find supplies during her shift at Harvey Oak Supply Store (conversing about Yuriko Yamamoto and Carmen Ortiz discussing their respective careers in tax law and working at Harvey Oak Supply Store, as well as how they balance their personal interests like creative writing workshops, while also finding synergies and influences between their work and personal pursuits.)",
+      14
+    ],
+    [
+      "helping customers find supplies during her shift at Harvey Oak Supply Store (assisting customers with finding supplies)",
+      21
+    ],
+    [
+      "helping customers find supplies during her shift at Harvey Oak Supply Store (helping customers at the cash register)",
+      15
+    ],
+    [
+      "helping customers find supplies during her shift at Harvey Oak Supply Store (restocking shelves)",
+      10
+    ],
+    [
+      "preparing to go to The Rose and Crown Pub (1) Carmen is locking up the store)",
+      5
+    ],
+    [
+      "preparing to go to The Rose and Crown Pub (turning off lights and appliances)",
+      5
+    ],
+    [
+      "preparing to go to The Rose and Crown Pub (checking inventory)",
+      10
+    ],
+    [
+      "preparing to go to The Rose and Crown Pub (sweeping the floors)",
+      5
+    ],
+    [
+      "preparing to go to The Rose and Crown Pub (taking out the trash)",
+      5
+    ],
+    [
+      "preparing to go to The Rose and Crown Pub (putting away remaining supplies)",
+      10
+    ],
+    [
+      "preparing to go to The Rose and Crown Pub (locking up her office and cash register)",
+      20
+    ],
+    [
+      "closing Harvey Oak Supply Store (turning off the \"Open\" sign)",
+      5
+    ],
+    [
+      "closing Harvey Oak Supply Store (locking up the store's front door)",
+      5
+    ],
+    [
+      "closing Harvey Oak Supply Store (checking all the shelves and making sure everything is organized)",
+      10
+    ],
+    [
+      "closing Harvey Oak Supply Store (taking out the trash)",
+      5
+    ],
+    [
+      "closing Harvey Oak Supply Store (turning off the lights)",
+      5
+    ],
+    [
+      "closing Harvey Oak Supply Store (counting the cash register and ensuring all transactions are recorded)",
+      10
+    ],
+    [
+      "closing Harvey Oak Supply Store (setting the alarm system)",
+      5
+    ],
+    [
+      "closing Harvey Oak Supply Store (making sure the store's exterior signage is turned off)",
+      15
+    ],
+    [
+      "going home to unwind and rest (locking up the shop)",
+      10
+    ],
+    [
+      "going home to unwind and rest (saying goodbye to Tamara)",
+      5
+    ],
+    [
+      "going home to unwind and rest (taking public transportation home)",
+      30
+    ],
+    [
+      "going home to unwind and rest (arriving at her house and hanging up her coat)",
+      5
+    ],
+    [
+      "going home to unwind and rest (preparing to relax by turning on the TV or lighting a candle)",
+      10
+    ],
+    [
+      "going to bed",
+      240
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -2
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing her morning routine",
+      60
+    ],
+    [
+      "Opening Harvey Oak Supply Store",
+      60
+    ],
+    [
+      "preparing for her day at Harvey Oak Supply Store",
+      60
+    ],
+    [
+      "taking a break and enjoying a meal during her shift at Harvey Oak Supply Store",
+      60
+    ],
+    [
+      "taking another break and chatting with customers during her shift at Harvey Oak Supply Store",
+      60
+    ],
+    [
+      "taking a lunch break during her shift at Harvey Oak Supply Store",
+      60
+    ],
+    [
+      "helping customers find supplies during her shift at Harvey Oak Supply Store",
+      120
+    ],
+    [
+      "taking a break and chatting with customers during her shift at Harvey Oak Supply Store",
+      60
+    ],
+    [
+      "helping customers find supplies during her shift at Harvey Oak Supply Store",
+      60
+    ],
+    [
+      "preparing to go to The Rose and Crown Pub",
+      60
+    ],
+    [
+      "closing Harvey Oak Supply Store",
+      60
+    ],
+    [
+      "going home to unwind and rest",
+      60
+    ],
+    [
+      "going to bed",
+      240
+    ]
+  ],
+  "act_address": "the Ville:Tamara Taylor and Carmen Ortiz's house:Carmen Ortiz's room:bed",
+  "act_start_time": "February 13, 2023, 20:06:00",
+  "act_duration": 240,
+  "act_description": "going to bed",
+  "act_pronunciatio": "\ud83d\udecc\ud83d\udca4",
+  "act_event": [
+    "Carmen Ortiz",
+    "going",
+    "bed"
+  ],
+  "act_obj_description": "Step 1. Carmen Ortiz is getting ready to go to bed.\nStep 2. Describe the bed's state: the bed is unmade and empty, awaiting Carmen to lie down on it for sleep",
+  "act_obj_pronunciatio": "\ud83d\udecf\ufe0f\ud83d\udca4",
+  "act_obj_event": [
+    "bed",
+    "is",
+    "unmade and empty"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Tamara Taylor": -205,
+    "Tom Moreno": -139,
+    "Giorgio Rossi": -45,
+    "Jane Moreno": -14,
+    "Carlos Gomez": 70,
+    "Yuriko Yamamoto": 315
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

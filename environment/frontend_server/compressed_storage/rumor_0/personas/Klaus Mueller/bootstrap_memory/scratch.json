@@ -1,0 +1,667 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    127,
+    46
+  ],
+  "daily_plan_req": "Klaus Mueller hangs out around Hobbes cafe. He gossips with people around town. He eats lunch and dinner around town.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "duplicitous, passionate, sociable",
+  "learned": "Klaus Mueller is a student at Oak Hill College. He is a gossip and talks a lot about other people.",
+  "currently": "Klaus doesn't like Carmen Ortiz, and is spreading a rumor to hurt her reputation. Klaus is telling people that Carmen has been stealing money from the register at Harvey Oak Supply Store.",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 242,
+  "importance_ele_n": 7,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "go to Hobbes Cafe at 8:00 am for breakfast and gossip with people",
+    "attend classes at Oak Hill College from 9:00 am to 2:00 pm",
+    "have lunch at a local restaurant around 1:00 pm",
+    "continue spreading rumors about Carmen Ortiz by talking to more people around town",
+    "have dinner at a local eatery around 5:00 pm",
+    "hang out at Hobbes Cafe from 6:00 pm to 7:00 pm, and",
+    "return home and go to bed around 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing his morning routine (1) Klaus is showering)",
+      10
+    ],
+    [
+      "completing his morning routine (brushing his teeth and washing his face)",
+      10
+    ],
+    [
+      "completing his morning routine (combing his hair)",
+      5
+    ],
+    [
+      "completing his morning routine (putting on deodorant and cologne)",
+      5
+    ],
+    [
+      "completing his morning routine (getting dressed)",
+      10
+    ],
+    [
+      "completing his morning routine (making his bed)",
+      5
+    ],
+    [
+      "completing his morning routine (tidying up his room)",
+      15
+    ],
+    [
+      "having breakfast and gossiping at Hobbes Cafe (1) Klaus is arriving at Hobbes Cafe)",
+      5
+    ],
+    [
+      "having breakfast and gossiping at Hobbes Cafe (ordering his breakfast)",
+      5
+    ],
+    [
+      "having breakfast and gossiping at Hobbes Cafe (eating his breakfast)",
+      15
+    ],
+    [
+      "having breakfast and gossiping at Hobbes Cafe (sipping coffee while gossiping with a friend)",
+      20
+    ],
+    [
+      "having breakfast and gossiping at Hobbes Cafe (spreading rumors about Carmen Ortiz)",
+      15
+    ],
+    [
+      "attending classes at Oak Hill College (1) Klaus is arriving at Oak Hill College)",
+      5
+    ],
+    [
+      "attending classes at Oak Hill College (getting his class schedule)",
+      5
+    ],
+    [
+      "attending classes at Oak Hill College (walking to his first class)",
+      10
+    ],
+    [
+      "attending classes at Oak Hill College (attending his first class)",
+      50
+    ],
+    [
+      "attending classes at Oak Hill College (taking notes during the class)",
+      25
+    ],
+    [
+      "attending classes at Oak Hill College (attending his second class)",
+      50
+    ],
+    [
+      "attending classes at Oak Hill College (taking notes during the second class)",
+      25
+    ],
+    [
+      "attending classes at Oak Hill College (walking back to his dormitory after classes)",
+      10
+    ],
+    [
+      "having lunch at a local restaurant (waiting in line to order)",
+      5
+    ],
+    [
+      "having lunch at a local restaurant (choosing his meal)",
+      5
+    ],
+    [
+      "having lunch at a local restaurant (waiting for his food to be prepared)",
+      10
+    ],
+    [
+      "having lunch at a local restaurant (on the way to eating his meal)",
+      0
+    ],
+    [
+      "having lunch at a local restaurant (conversing about Klaus and Wolfgang discussing lunch, a rumor about Carmen Ortiz, and Wolfgang sharing his interest in trying new dishes.)",
+      8
+    ],
+    [
+      "having lunch at a local restaurant (eating his meal)",
+      12
+    ],
+    [
+      "having lunch at a local restaurant (conversing about sharing and trying new recipes between Carlos Gomez and Klaus Mueller, who discuss their favorite dishes and the inspiration behind them.)",
+      15
+    ],
+    [
+      "having lunch at a local restaurant (finishing his drink)",
+      5
+    ],
+    [
+      "continuing to spread rumors about Carmen Ortiz by talking to more people around town ([1) Klaus is finding people to talk to)",
+      15
+    ],
+    [
+      "continuing to spread rumors about Carmen Ortiz by talking to more people around town (starting a conversation with the person)",
+      5
+    ],
+    [
+      "continuing to spread rumors about Carmen Ortiz by talking to more people around town (casually bringing up Carmen Ortiz's rumor)",
+      10
+    ],
+    [
+      "continuing to spread rumors about Carmen Ortiz by talking to more people around town (on the way to listening to their reaction and adding more details if necessary)",
+      0
+    ],
+    [
+      "continuing to spread rumors about Carmen Ortiz by talking to more people around town (conversing about Klaus Mueller asking Jane Moreno about her relationship with Tom and apologizing for spreading rumors about Carmen Ortiz.)",
+      5
+    ],
+    [
+      "continuing to spread rumors about Carmen Ortiz by talking to more people around town (subtly steering the conversation back to the rumor)",
+      5
+    ],
+    [
+      "continuing to spread rumors about Carmen Ortiz by talking to more people around town (ending the conversation politely and moving on to the next person)",
+      20
+    ],
+    [
+      "attending classes at Oak Hill College (1) Klaus is walking to Oak Hill College)",
+      5
+    ],
+    [
+      "attending classes at Oak Hill College (arriving at Oak Hill College)",
+      5
+    ],
+    [
+      "attending classes at Oak Hill College (locating his classrooms)",
+      10
+    ],
+    [
+      "attending classes at Oak Hill College (on the way to attending his first class)",
+      0
+    ],
+    [
+      "attending classes at Oak Hill College (conversing about Giorgio and Tamara's collaborative creative projects in mathematics, with a focus on their individual work exploring mathematical patterns in nature and the benefits of supporting each other.)",
+      6
+    ],
+    [
+      "attending classes at Oak Hill College (leaving the first class)",
+      15
+    ],
+    [
+      "continuing to spread rumors about Carmen Ortiz by talking to more people around town (on the way to 1) Klaus is identifying people he knows who might be receptive to his gossip)",
+      0
+    ],
+    [
+      "continuing to spread rumors about Carmen Ortiz by talking to more people around town (conversing about Tamara Taylor's comic book projects, their themes, and Klaus Mueller's interest in collaborating with her on the creative process.)",
+      22
+    ],
+    [
+      "continuing to spread rumors about Carmen Ortiz by talking to more people around town (finding a suitable place to talk with these individuals, such as a cafe or park bench)",
+      8
+    ],
+    [
+      "continuing to spread rumors about Carmen Ortiz by talking to more people around town (subtly introducing the topic of Carmen Ortiz and her alleged misdeeds)",
+      10
+    ],
+    [
+      "continuing to spread rumors about Carmen Ortiz by talking to more people around town (adding details to his story to make it more convincing)",
+      5
+    ],
+    [
+      "continuing to spread rumors about Carmen Ortiz by talking to more people around town (listening to the reactions and responses of those he talks to)",
+      5
+    ],
+    [
+      "continuing to spread rumors about Carmen Ortiz by talking to more people around town (adapting his story based on the reactions he receives)",
+      5
+    ],
+    [
+      "continuing to spread rumors about Carmen Ortiz by talking to more people around town (on the way to smoothly transitioning out of the topic and into another casual conversation)",
+      0
+    ],
+    [
+      "continuing to spread rumors about Carmen Ortiz by talking to more people around town (conversing about Tom Moreno discussing the new arrivals at The Willow Market and Pharmacy, specifically recommending an artisanal cheese and fruit platter, while also addressing rumors about Carmen Ortiz.)",
+      7
+    ],
+    [
+      "having dinner at a local eatery (choosing a restaurant)",
+      7
+    ],
+    [
+      "having dinner at a local eatery (walking to the chosen restaurant)",
+      15
+    ],
+    [
+      "having dinner at a local eatery (looking at the menu outside the restaurant)",
+      10
+    ],
+    [
+      "having dinner at a local eatery (ordering his meal)",
+      5
+    ],
+    [
+      "having dinner at a local eatery (waiting for his food to arrive)",
+      15
+    ],
+    [
+      "having dinner at a local eatery (eating his meal)",
+      17
+    ],
+    [
+      "having dinner at a local eatery (wrapping up the meal and leaving the restaurant)",
+      11
+    ],
+    [
+      "hanging out at Hobbes Cafe and continuing to spread rumors about Carmen Ortiz (1) Klaus is making a list of people to approach)",
+      5
+    ],
+    [
+      "hanging out at Hobbes Cafe and continuing to spread rumors about Carmen Ortiz (approaching individuals and engaging them in conversation) (approaching individuals)",
+      10
+    ],
+    [
+      "hanging out at Hobbes Cafe and continuing to spread rumors about Carmen Ortiz (approaching individuals and engaging them in conversation) (engaging people in conversation)",
+      20
+    ],
+    [
+      "hanging out at Hobbes Cafe and continuing to spread rumors about Carmen Ortiz (on the way to spreading rumors about Carmen Ortiz)",
+      0
+    ],
+    [
+      "hanging out at Hobbes Cafe and continuing to spread rumors about Carmen Ortiz (conversing about Klaus apologizing to Carmen for spreading rumors, both agreeing to move forward and focusing on creating a positive environment within the community.)",
+      4
+    ],
+    [
+      "hanging out at Hobbes Cafe and continuing to spread rumors about Carmen Ortiz (listening to people's reactions and adjusting his approach)",
+      26
+    ],
+    [
+      "hanging out at Hobbes Cafe and continuing to spread rumors about Carmen Ortiz (subtly mentioning the rumor about Carmen Ortiz)",
+      40
+    ],
+    [
+      "hanging out at Hobbes Cafe and continuing to spread rumors about Carmen Ortiz (repeating the rumor to different people)",
+      20
+    ],
+    [
+      "hanging out at Hobbes Cafe and continuing to spread rumors about Carmen Ortiz (observing the effects of spreading the rumor)",
+      30
+    ],
+    [
+      "hanging out at Hobbes Cafe and continuing to spread rumors about Carmen Ortiz (leaving Hobbes Cafe and moving to his next location)",
+      15
+    ],
+    [
+      "hanging out at Hobbes Cafe and continuing to spread rumors about Carmen Ortiz (conversing about Klaus apologizing to Carmen for spreading rumors, both agreeing to move forward and focusing on creating a positive environment within the community.)",
+      14
+    ],
+    [
+      "attending classes at Oak Hill College",
+      56
+    ],
+    [
+      "sleeping",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      19
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      41
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -3
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing his morning routine",
+      60
+    ],
+    [
+      "having breakfast and gossiping at Hobbes Cafe",
+      60
+    ],
+    [
+      "attending classes at Oak Hill College",
+      180
+    ],
+    [
+      "having lunch at a local restaurant",
+      60
+    ],
+    [
+      "continuing to spread rumors about Carmen Ortiz by talking to more people around town",
+      60
+    ],
+    [
+      "attending classes at Oak Hill College",
+      60
+    ],
+    [
+      "continuing to spread rumors about Carmen Ortiz by talking to more people around town",
+      60
+    ],
+    [
+      "attending classes at Oak Hill College",
+      60
+    ],
+    [
+      "having dinner at a local eatery",
+      60
+    ],
+    [
+      "hanging out at Hobbes Cafe and continuing to spread rumors about Carmen Ortiz",
+      180
+    ],
+    [
+      "attending classes at Oak Hill College",
+      60
+    ],
+    [
+      "sleeping",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+  "act_start_time": "February 13, 2023, 23:34:00",
+  "act_duration": 41,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\udca4",
+  "act_event": [
+    "Klaus Mueller",
+    "sleep",
+    "null"
+  ],
+  "act_obj_description": "being used for sleeping",
+  "act_obj_pronunciatio": "\ud83d\udca4\ud83d\udecf\ufe0f",
+  "act_obj_event": [
+    "bed",
+    "used for",
+    "sleeping"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Wolfgang Schulz": 104,
+    "Carlos Gomez": 127,
+    "Jane Moreno": 168,
+    "Giorgio Rossi": 218,
+    "Tamara Taylor": 253,
+    "Tom Moreno": 299,
+    "Carmen Ortiz": 414
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

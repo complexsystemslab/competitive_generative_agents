@@ -1,0 +1,688 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    73,
+    74
+  ],
+  "daily_plan_req": "Tom Moreno opens The Willow Market and Pharmacy at 8am, stands behind the grocery counter, and goes home afterwards to eat dinner with his wife.",
+  "name": "Tom Moreno",
+  "first_name": "Tom",
+  "last_name": "Moreno",
+  "age": 52,
+  "innate": "rude, aggressive, energetic",
+  "learned": "Tom Moreno is a grocery shop keeper at The Willow Market and Pharmacy who loves interacting with customers. He is always willing to help out and make sure everyone is taken care of.",
+  "currently": "Tom Moreno is living with his wife, Jane Moreno, and is managing the day to day operations at the store and helping out customers with their orders. Tom is also really interested in the local mayor election that is coming up next month. You don't like Sam Moore.",
+  "lifestyle": "Tom Moreno goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Moreno family's house:Tom and Jane Moreno's bedroom",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 70,
+  "importance_ele_n": 67,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "open The Willow Market and Pharmacy at 8:00 am",
+    "stand behind the grocery counter and help customers from 8:00 am to 5:00 pm",
+    "eat dinner with his wife at 5:00 pm, and",
+    "go home after work"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine (1) Tom is turning off his alarm)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (stretching and waking up his body)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth and cleaning up)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (preparing and eating breakfast)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (on the way to checking the news and weather on his phone)",
+      0
+    ],
+    [
+      "waking up and completing his morning routine (conversing about Tom and Jane discussing their restful sleep, Jane preparing breakfast, and both of them expressing excitement for their respective days at The Willow Market and Pharmacy while sharing love and appreciation for each other.)",
+      6
+    ],
+    [
+      "waking up and completing his morning routine (checking the news and weather on his phone)",
+      4
+    ],
+    [
+      "opening The Willow Market and Pharmacy (checking the store's inventory)",
+      20
+    ],
+    [
+      "opening The Willow Market and Pharmacy (on the way to unlocking the doors and turning on lights)",
+      0
+    ],
+    [
+      "opening The Willow Market and Pharmacy (conversing about Tom Moreno and Carmen Ortiz discussing their preparation for opening Oak Supply Store and The Willow Market & Pharmacy, wishing each other good luck and aiming for a successful day for their customers.)",
+      4
+    ],
+    [
+      "opening The Willow Market and Pharmacy (unlocking the doors and turning on lights)",
+      6
+    ],
+    [
+      "opening The Willow Market and Pharmacy (setting up the cash register)",
+      5
+    ],
+    [
+      "opening The Willow Market and Pharmacy (arranging products on shelves)",
+      10
+    ],
+    [
+      "opening The Willow Market and Pharmacy (making sure all displays are presentable)",
+      15
+    ],
+    [
+      "standing behind the grocery counter and helping customers ([1] Tom is greeting customers as they enter)",
+      5
+    ],
+    [
+      "standing behind the grocery counter and helping customers (assisting customers with their orders)",
+      20
+    ],
+    [
+      "standing behind the grocery counter and helping customers (restocking shelves)",
+      15
+    ],
+    [
+      "standing behind the grocery counter and helping customers (answering phone calls and taking orders for pick-up or delivery)",
+      20
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (greeting customers as they enter the store)",
+      5
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (helping customers find products they are looking for) (greeting customers as they enter the store)",
+      5
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (helping customers find products they are looking for) (helping a customer find canned vegetables)",
+      10
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (helping customers find products they are looking for) (assisting another customer with finding a specific brand of cereal)",
+      15
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (helping customers find products they are looking for) (locating a customer's requested item from the storage room)",
+      10
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (helping customers find products they are looking for) (explaining the differences between various types of pasta to a customer)",
+      10
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (on the way to assisting a customer with their purchase at the checkout counter)",
+      0
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (conversing about Yuriko Yamamoto and her team's project that aims to find connections between tax compliance and mathematical patterns found in nature, which could lead to more efficient strategies for managing tax-related matters while appreciating the beauty of natural patterns.)",
+      6
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (on the way to assisting a customer with their purchase at the checkout counter)",
+      0
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (conversing about an interdisciplinary project involving tax compliance, mathematical patterns found in nature, and collaboration between experts from various fields.)",
+      5
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (helping customers find products they are looking for) (assisting a customer with their purchase at the checkout counter)",
+      9
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (helping customers find products they are looking for) (helping another customer find organic fruits and vegetables)",
+      5
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (helping customers find products they are looking for) (answering questions about the store's pharmacy services to a customer)",
+      5
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (helping customers find products they are looking for) (restocking the shelf with canned soups after a customer purchase)",
+      10
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (helping customers find products they are looking for) (helping a customer locate the yogurt section in the store)",
+      5
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (explaining the benefits of local produce to a customer)",
+      10
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (on the way to assisting another customer with their purchase at the checkout counter)",
+      0
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (conversing about Tom and Isabella discussing their positive experiences working at Hobbs Cafe and the grocery store, commending each other's efforts and offering support.)",
+      4
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (answering phone calls and assisting customers with their orders) (answering a call from a customer)",
+      6
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (answering phone calls and assisting customers with their orders) (helping a customer find a specific product)",
+      5
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (answering phone calls and assisting customers with their orders) (checking the stock of an item for another customer)",
+      10
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (answering phone calls and assisting customers with their orders) (explaining the benefits of a certain product to a customer)",
+      5
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (answering phone calls and assisting customers with their orders) (assisting a customer with their order)",
+      10
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (answering phone calls and assisting customers with their orders) (helping another customer find a specific product)",
+      5
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (answering phone calls and assisting customers with their orders) (taking an order over the phone)",
+      5
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (on the way to assisting a customer with their questions about a product)",
+      0
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (conversing about Tom helping Tamara find organic fruits and vegetables for her children's book series while discussing their respective day, and Tom's role in assisting customers.)",
+      7
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (restocking shelves and ensuring products are well-organized)",
+      13
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (taking care of store transactions and handling payments) (preparing to close the store)",
+      50
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (taking care of store transactions and handling payments) (checking the inventory of the grocery items)",
+      30
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (taking care of store transactions and handling payments) (restocking shelves and organizing products)",
+      10
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (taking care of store transactions and handling payments) (cleaning up spills and tidying the store)",
+      30
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (greeting customers as they enter the store)",
+      5
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (assisting customers with their grocery selections and answering questions)",
+      45
+    ],
+    [
+      "still standing behind the grocery counter and helping customers (restocking shelves and ensuring items are well-stocked)",
+      10
+    ],
+    [
+      "eating dinner with his wife (preparing the table for dinner)",
+      5
+    ],
+    [
+      "eating dinner with his wife (helping his wife set up the dishes)",
+      10
+    ],
+    [
+      "eating dinner with his wife (setting the table with the proper utensils and plates)",
+      10
+    ],
+    [
+      "eating dinner with his wife (on the way to discussing the day's events with his wife)",
+      0
+    ],
+    [
+      "eating dinner with his wife (conversing about Tom Moreno and Wolfgang Schulz sharing updates on their productive days, discussing work-life balance, and expressing appreciation for each other's passions and accomplishments.)",
+      5
+    ],
+    [
+      "going home after work (1) [1] Tom is locking up the store)",
+      30
+    ],
+    [
+      "going home after work (is walking to his car)",
+      5
+    ],
+    [
+      "going home after work (is driving home, accounting for the extra time spent during dinner)",
+      15
+    ],
+    [
+      "going home after work (is parking the car in the driveway)",
+      40
+    ],
+    [
+      "relaxing at home (1) Tom is turning on the TV and watching a sports game)",
+      30
+    ],
+    [
+      "relaxing at home (having dinner with his wife, Jane Moreno) (1) [1]) Tom is preparing dinner)",
+      30
+    ],
+    [
+      "relaxing at home (having dinner with his wife, Jane Moreno) (is cooking dinner with his wife, Jane Moreno)",
+      30
+    ],
+    [
+      "relaxing at home (on the way to discussing the local mayor election with his wife)",
+      0
+    ],
+    [
+      "relaxing at home (waiting to start is cooking dinner with his wife, Jane Moreno)",
+      4
+    ],
+    [
+      "relaxing at home (reading a book about local history)",
+      46
+    ],
+    [
+      "relaxing at home (taking a shower)",
+      15
+    ],
+    [
+      "relaxing at home (playing with his dog, Max, in the backyard)",
+      25
+    ],
+    [
+      "relaxing at home (watering his plants and checking on their health)",
+      15
+    ],
+    [
+      "relaxing at home (on the way to watching a movie with Jane Moreno before bedtime)",
+      0
+    ],
+    [
+      "relaxing at home (conversing about Tom Moreno sharing his positive experience at The Willow Market and Pharmacy, discussing work-life balance and the upcoming mayor election with Wolfgang, who quickly adapted to the team.)",
+      7
+    ],
+    [
+      "relaxing at home (watching a movie with Jane Moreno before bedtime)",
+      38
+    ],
+    [
+      "sleeping",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "opening The Willow Market and Pharmacy",
+      60
+    ],
+    [
+      "standing behind the grocery counter and helping customers",
+      60
+    ],
+    [
+      "still standing behind the grocery counter and helping customers",
+      360
+    ],
+    [
+      "eating dinner with his wife",
+      60
+    ],
+    [
+      "going home after work",
+      60
+    ],
+    [
+      "relaxing at home",
+      240
+    ],
+    [
+      "sleeping",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Moreno family's house:Tom and Jane Moreno's bedroom:bed",
+  "act_start_time": "February 13, 2023, 22:04:00",
+  "act_duration": 120,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\udca4",
+  "act_event": [
+    "Tom Moreno",
+    "sleep",
+    "sleeping"
+  ],
+  "act_obj_description": "being used for sleep",
+  "act_obj_pronunciatio": "\ud83d\udca4\ud83c\udf1b",
+  "act_obj_event": [
+    "bed",
+    "used",
+    "sleep"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Jane Moreno": 639,
+    "Carmen Ortiz": -147,
+    "Yuriko Yamamoto": 18,
+    "Klaus Mueller": 23,
+    "Isabella Rodriguez": 70,
+    "Tamara Taylor": 123,
+    "Wolfgang Schulz": 346
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

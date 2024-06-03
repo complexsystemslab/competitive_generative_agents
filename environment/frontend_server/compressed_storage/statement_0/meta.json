@@ -1,0 +1,20 @@
+{
+  "fork_sim_code": "openchat_statement_2023-02-13T21:00:00",
+  "start_date": "February 13, 2023",
+  "curr_time": "February 14, 2023, 00:00:00",
+  "sec_per_step": 60,
+  "maze_name": "the_ville",
+  "persona_names": [
+    "Isabella Rodriguez",
+    "Giorgio Rossi",
+    "Carlos Gomez",
+    "Klaus Mueller",
+    "Wolfgang Schulz",
+    "Tom Moreno",
+    "Jane Moreno",
+    "Tamara Taylor",
+    "Carmen Ortiz",
+    "Yuriko Yamamoto"
+  ],
+  "step": 1440
+}

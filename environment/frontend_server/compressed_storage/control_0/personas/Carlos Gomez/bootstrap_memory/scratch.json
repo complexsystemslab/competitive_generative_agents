@@ -1,0 +1,779 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    93,
+    18
+  ],
+  "daily_plan_req": "",
+  "name": "Carlos Gomez",
+  "first_name": "Carlos",
+  "last_name": "Gomez",
+  "age": 32,
+  "innate": "loud, rude, toxic",
+  "learned": "Carlos Gomez is a poet who loves to explore his inner thoughts and feelings. He is always looking for new ways to express himself.",
+  "currently": "Carlos Gomez is working on a collection of poetry that explores the beauty of the natural world. He is also attending creative writing workshops to hone his skills.",
+  "lifestyle": "Carlos Gomez goes to bed around 10pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Carlos Gomez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 114,
+  "importance_ele_n": 94,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "go for a jog in the park from 8:00 to 9:00 am",
+    "have breakfast at 10:00 am",
+    "attend creative writing workshop from 11:00 am to 1:00 pm",
+    "have lunch at 1:00 pm",
+    "work on his poetry collection from 2:00 to 4:30 pm",
+    "take a break and have dinner at 5:00 pm",
+    "join an online poetry discussion group from 6:00 to 7:00 pm, and",
+    "unwind by watching TV from 7:00 to 8:00 pm before going to bed around 10:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "completing his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "completing his morning routine (shaving)",
+      10
+    ],
+    [
+      "completing his morning routine (eating breakfast)",
+      10
+    ],
+    [
+      "completing his morning routine (drinking a cup of coffee)",
+      20
+    ],
+    [
+      "jogging in the park (preparing his jogging gear)",
+      5
+    ],
+    [
+      "jogging in the park (stretching before jogging)",
+      10
+    ],
+    [
+      "jogging in the park (on the way to jogging at a slow pace)",
+      0
+    ],
+    [
+      "jogging in the park (conversing about Carlos asking Giorgio about the weather, with Giorgio providing the forecast and both discussing their plans for the day.)",
+      2
+    ],
+    [
+      "jogging in the park (jogging at a slow pace)",
+      13
+    ],
+    [
+      "jogging in the park (jogging at a moderate pace)",
+      20
+    ],
+    [
+      "jogging in the park (conversing about Carlos asking Giorgio about the weather, with Giorgio providing the forecast and both discussing their plans for the day.)",
+      2
+    ],
+    [
+      "jogging in the park (stretching after jogging)",
+      8
+    ],
+    [
+      "completing his morning jog ([1] Carlos is warming up)",
+      5
+    ],
+    [
+      "completing his morning jog (jogging at a comfortable pace)",
+      30
+    ],
+    [
+      "completing his morning jog (increasing his speed)",
+      15
+    ],
+    [
+      "completing his morning jog (stretching during the jog)",
+      10
+    ],
+    [
+      "having breakfast at 10:00 am (preparing his meal)",
+      5
+    ],
+    [
+      "having breakfast at 10:00 am (eating his breakfast)",
+      15
+    ],
+    [
+      "having breakfast at 10:00 am (on the way to cleaning up after his meal)",
+      0
+    ],
+    [
+      "having breakfast at 10:00 am (conversing about Yuriko Yamamoto and Carlos Gomez discussing their breakfast choices, the benefits of green tea, and Yuriko's interest in tax law.)",
+      9
+    ],
+    [
+      "having breakfast at 10:00 am (drinking a cup of coffee)",
+      5
+    ],
+    [
+      "having breakfast at 10:00 am (reading a book while enjoying his breakfast)",
+      25
+    ],
+    [
+      "attending a creative writing workshop (arriving at the workshop venue)",
+      10
+    ],
+    [
+      "attending a creative writing workshop (registering for the workshop)",
+      5
+    ],
+    [
+      "attending a creative writing workshop (on the way to finding a seat and setting up his materials)",
+      0
+    ],
+    [
+      "attending a creative writing workshop (conversing about Carlos attending a creative writing workshop, his progress on his projects, and Isabella sharing her experiences working at the cafe.)",
+      6
+    ],
+    [
+      "attending a creative writing workshop (listening to the instructor's introduction)",
+      9
+    ],
+    [
+      "attending a creative writing workshop (on the way to participating in icebreaker activities)",
+      0
+    ],
+    [
+      "attending a creative writing workshop (conversing about Tamara Taylor discussing her new fantasy adventure children's book series, \"The Enchanting Chronicles of Elara,\" and her plans for promoting it.)",
+      6
+    ],
+    [
+      "attending a creative writing workshop (writing during the first exercise)",
+      4
+    ],
+    [
+      "attending a creative writing workshop (sharing his work with the group)",
+      30
+    ],
+    [
+      "attending a creative writing workshop (on the way to receiving feedback from fellow workshop attendees)",
+      0
+    ],
+    [
+      "attending a creative writing workshop (conversing about Carlos attending creative writing workshops for a year and Carmen enjoying her time working at Harvey Oak Supply Store while discussing their respective experiences.)",
+      6
+    ],
+    [
+      "attending a creative writing workshop (taking notes on the feedback received)",
+      19
+    ],
+    [
+      "attending a creative writing workshop (conversing about Carlos attending creative writing workshops for a year and Carmen enjoying her time working at Harvey Oak Supply Store while discussing their respective experiences.)",
+      6
+    ],
+    [
+      "attending a creative writing workshop (packing up his materials and leaving the venue)",
+      9
+    ],
+    [
+      "having lunch at 1:00 pm",
+      20
+    ],
+    [
+      "working on his poetry collection from 2:00 to 4:30 pm (thinking about the themes and emotions he wants to convey)",
+      5
+    ],
+    [
+      "working on his poetry collection from 2:00 to 4:30 pm (on the way to brainstorming ideas for his poems)",
+      0
+    ],
+    [
+      "working on his poetry collection from 2:00 to 4:30 pm (conversing about Carlos Gomez and Tom Moreno discussing their enjoyable and fulfilling experiences of helping others through their respective interests, creative writing workshops and assisting customers at The Willow Market and Pharmacy.)",
+      9
+    ],
+    [
+      "working on his poetry collection from 2:00 to 4:30 pm (drafting a poem about the beauty of nature)",
+      20
+    ],
+    [
+      "working on his poetry collection from 2:00 to 4:30 pm (revising and editing his poem)",
+      5
+    ],
+    [
+      "working on his poetry collection from 2:00 to 4:30 pm (working on another poem inspired by the natural world)",
+      15
+    ],
+    [
+      "taking a break and having dinner at 5:00 pm ([1] Carlos is preparing to have lunch)",
+      5
+    ],
+    [
+      "taking a break and having dinner at 5:00 pm (enjoying his lunch)",
+      10
+    ],
+    [
+      "taking a break and having dinner at 5:00 pm (browsing through social media on his phone during his break)",
+      45
+    ],
+    [
+      "attending an online poetry discussion group from 6:00 to 7:00 pm (1) Carlos is logging into the virtual platform for the discussion group)",
+      5
+    ],
+    [
+      "attending an online poetry discussion group from 6:00 to 7:00 pm (setting up his workspace and camera)",
+      5
+    ],
+    [
+      "attending an online poetry discussion group from 6:00 to 7:00 pm (reviewing the discussion topic and themes)",
+      10
+    ],
+    [
+      "attending an online poetry discussion group from 6:00 to 7:00 pm (preparing notes on his thoughts and opinions for the group)",
+      10
+    ],
+    [
+      "attending an online poetry discussion group from 6:00 to 7:00 pm (waiting for the discussion to begin)",
+      5
+    ],
+    [
+      "attending an online poetry discussion group from 6:00 to 7:00 pm (actively participating in the poetry discussion)",
+      25
+    ],
+    [
+      "attending an open mic event to share his poetry with others ([1]) Carlos is selecting the poems he wants to read)",
+      5
+    ],
+    [
+      "attending an open mic event to share his poetry with others (practicing his reading aloud)",
+      10
+    ],
+    [
+      "attending an open mic event to share his poetry with others (preparing his introduction for the open mic event)",
+      10
+    ],
+    [
+      "attending an open mic event to share his poetry with others (traveling to the venue)",
+      20
+    ],
+    [
+      "attending an open mic event to share his poetry with others (registering at the event and setting up his space)",
+      15
+    ],
+    [
+      "watching TV from 7:00 to 8:00 pm ([n]) Carlos is changing into comfortable clothes)",
+      5
+    ],
+    [
+      "watching TV from 7:00 to 8:00 pm (selecting a TV show to watch)",
+      5
+    ],
+    [
+      "watching TV from 7:00 to 8:00 pm (grabbing a snack)",
+      5
+    ],
+    [
+      "watching TV from 7:00 to 8:00 pm (settling into his favorite spot on the couch)",
+      5
+    ],
+    [
+      "watching TV from 7:00 to 8:00 pm (turning on the TV and browsing channels)",
+      5
+    ],
+    [
+      "watching TV from 7:00 to 8:00 pm (starting to watch a TV show)",
+      20
+    ],
+    [
+      "watching TV from 7:00 to 8:00 pm (taking a short break from watching TV)",
+      5
+    ],
+    [
+      "watching TV from 7:00 to 8:00 pm (continuing to watch the TV show)",
+      10
+    ],
+    [
+      "preparing to go to bed at 10:00 pm ([1] Carlos is turning on the TV)",
+      5
+    ],
+    [
+      "preparing to go to bed at 10:00 pm (browsing through channels)",
+      5
+    ],
+    [
+      "preparing to go to bed at 10:00 pm (watching a sitcom rerun)",
+      10
+    ],
+    [
+      "preparing to go to bed at 10:00 pm (taking short breaks between shows)",
+      5
+    ],
+    [
+      "preparing to go to bed at 10:00 pm (browsing through channels again)",
+      5
+    ],
+    [
+      "preparing to go to bed at 10:00 pm (watching a news program)",
+      5
+    ],
+    [
+      "preparing to go to bed at 10:00 pm (turning off the TV)",
+      5
+    ],
+    [
+      "preparing to go to bed at 10:00 pm (preparing to go to bed by putting away electronics)",
+      20
+    ],
+    [
+      "preparing to complete his daily routine and go to bed at 10:00 pm (putting away electronic devices)",
+      5
+    ],
+    [
+      "preparing to complete his daily routine and go to bed at 10:00 pm (taking a shower)",
+      15
+    ],
+    [
+      "preparing to complete his daily routine and go to bed at 10:00 pm (brushing his teeth and washing his face)",
+      10
+    ],
+    [
+      "preparing to complete his daily routine and go to bed at 10:00 pm (changing into his pajamas)",
+      5
+    ],
+    [
+      "preparing to complete his daily routine and go to bed at 10:00 pm (making sure all the lights are off)",
+      25
+    ],
+    [
+      "completing his daily routine and going to bed at 10:00 pm (1) Carlos is preparing for bed)",
+      5
+    ],
+    [
+      "completing his daily routine and going to bed at 10:00 pm (putting on his pajamas)",
+      55
+    ],
+    [
+      "sleeping",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      1
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      50
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      6
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing his morning routine",
+      60
+    ],
+    [
+      "jogging in the park",
+      60
+    ],
+    [
+      "completing his morning jog",
+      60
+    ],
+    [
+      "having breakfast at 10:00 am",
+      60
+    ],
+    [
+      "attending a creative writing workshop",
+      120
+    ],
+    [
+      "having lunch at 1:00 pm",
+      60
+    ],
+    [
+      "working on his poetry collection from 2:00 to 4:30 pm",
+      60
+    ],
+    [
+      "taking a break and having dinner at 5:00 pm",
+      60
+    ],
+    [
+      "attending an online poetry discussion group from 6:00 to 7:00 pm",
+      60
+    ],
+    [
+      "attending an open mic event to share his poetry with others",
+      60
+    ],
+    [
+      "watching TV from 7:00 to 8:00 pm",
+      60
+    ],
+    [
+      "preparing to go to bed at 10:00 pm",
+      60
+    ],
+    [
+      "preparing to complete his daily routine and go to bed at 10:00 pm",
+      60
+    ],
+    [
+      "completing his daily routine and going to bed at 10:00 pm",
+      60
+    ],
+    [
+      "sleeping",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Carlos Gomez's apartment:main room:bed",
+  "act_start_time": "February 13, 2023, 23:54:00",
+  "act_duration": 6,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\udca4",
+  "act_event": [
+    "Carlos Gomez",
+    "sleep",
+    "blanket"
+  ],
+  "act_obj_description": "being used for sleeping",
+  "act_obj_pronunciatio": "\ud83d\udca4",
+  "act_obj_event": [
+    "bed",
+    "used for",
+    "sleeping"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Giorgio Rossi": -145,
+    "Yuriko Yamamoto": -25,
+    "Isabella Rodriguez": 34,
+    "Tamara Taylor": 44,
+    "Carmen Ortiz": 70,
+    "Tom Moreno": 159
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

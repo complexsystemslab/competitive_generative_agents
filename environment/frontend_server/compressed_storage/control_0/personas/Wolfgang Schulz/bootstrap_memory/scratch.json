@@ -1,0 +1,749 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    116,
+    38
+  ],
+  "daily_plan_req": "Wolfgang Schulz goes for a run at the part in the morning, studies during the day, and exercises at his room at night ",
+  "name": "Wolfgang Schulz",
+  "first_name": "Wolfgang",
+  "last_name": "Schulz",
+  "age": 21,
+  "innate": "Hardworking, passionate, dedicated",
+  "learned": "Wolfgang Schulz is a student at Oak Hill College studying chemistry and a student athlete. He is very dedicated to both his academics and his sport.",
+  "currently": "Wolfgang Schulz is training for his next competition and studying for his exams. He is also looking for ways to make his studies more efficient.",
+  "lifestyle": "Wolfgang Schulz goes to bed around 9pm, awakes up around 5am, eats dinner around 6pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Wolfgang Schulz's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 4,
+  "importance_ele_n": 85,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 5:00 am",
+    "Go for a run at the park from 6:00 am to 7:00 am",
+    "Have breakfast at 7:30 am",
+    "Study from 8:00 am to 1:00 pm",
+    "Take a lunch break at 1:00 pm",
+    "Study again from 2:00 pm to 5:00 pm",
+    "Have dinner at 6:00 pm",
+    "Exercise in his room from 7:00 pm to 8:00 pm, and",
+    "Go to bed at 9:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      300
+    ],
+    [
+      "completing his morning routine and getting ready for his run (washing his face)",
+      5
+    ],
+    [
+      "completing his morning routine and getting ready for his run (taking a shower)",
+      10
+    ],
+    [
+      "completing his morning routine and getting ready for his run (picking out his outfit for the day)",
+      5
+    ],
+    [
+      "completing his morning routine and getting ready for his run (making his bed)",
+      5
+    ],
+    [
+      "completing his morning routine and getting ready for his run (having a light breakfast)",
+      10
+    ],
+    [
+      "completing his morning routine and getting ready for his run (gathering his running gear)",
+      25
+    ],
+    [
+      "running in the park (stretching before his run)",
+      5
+    ],
+    [
+      "running in the park (putting on his running gear)",
+      5
+    ],
+    [
+      "running in the park (warming up with a light jog)",
+      10
+    ],
+    [
+      "running in the park (increasing the intensity of his run)",
+      20
+    ],
+    [
+      "running in the park (cooling down with a slower jog)",
+      20
+    ],
+    [
+      "having breakfast at his home (preparing his breakfast)",
+      15
+    ],
+    [
+      "having breakfast at his home (eating his breakfast)",
+      30
+    ],
+    [
+      "having breakfast at his home (cleaning up after breakfast)",
+      10
+    ],
+    [
+      "having breakfast at his home (having a short break and relaxing)",
+      20
+    ],
+    [
+      "having breakfast at his home (refilling his water bottle)",
+      45
+    ],
+    [
+      "studying for his exams (reviewing his class notes)",
+      15
+    ],
+    [
+      "studying for his exams (creating a study plan for the exams)",
+      30
+    ],
+    [
+      "studying for his exams (studying for each subject individually)",
+      15
+    ],
+    [
+      "taking a lunch break at 10:00 AM (preparing his lunch)",
+      20
+    ],
+    [
+      "taking a lunch break at 10:00 AM (eating his lunch)",
+      20
+    ],
+    [
+      "taking a lunch break at 10:00 AM (relaxing and browsing social media)",
+      10
+    ],
+    [
+      "taking a lunch break at 10:00 AM (drinking water and rehydrating)",
+      10
+    ],
+    [
+      "studying for his exams (reviewing his lecture notes)",
+      25
+    ],
+    [
+      "studying for his exams (creating a study guide)",
+      25
+    ],
+    [
+      "studying for his exams (quizzing himself on the material)",
+      20
+    ],
+    [
+      "studying for his exams (watching relevant lecture videos)",
+      15
+    ],
+    [
+      "studying for his exams (discussing the material with a study group)",
+      25
+    ],
+    [
+      "studying for his exams (reviewing his past exams and quizzes)",
+      10
+    ],
+    [
+      "taking a lunch break at 1:00 PM (preparing his lunch)",
+      15
+    ],
+    [
+      "taking a lunch break at 1:00 PM (eating his lunch)",
+      15
+    ],
+    [
+      "taking a lunch break at 1:00 PM (cleaning up after eating)",
+      10
+    ],
+    [
+      "taking a lunch break at 1:00 PM (relaxing and browsing social media)",
+      20
+    ],
+    [
+      "studying for his exams ([1]) Wolfgang is reviewing lecture notes)",
+      15
+    ],
+    [
+      "studying for his exams (making flashcards)",
+      30
+    ],
+    [
+      "studying for his exams (doing practice problems)",
+      45
+    ],
+    [
+      "studying for his exams (watching educational videos)",
+      20
+    ],
+    [
+      "studying for his exams (taking a short break)",
+      10
+    ],
+    [
+      "studying for his exams (summarizing key concepts)",
+      25
+    ],
+    [
+      "studying for his exams (on the way to quizzing himself on the material)",
+      0
+    ],
+    [
+      "studying for his exams (conversing about Klaus and Wolfgang discussing the challenges of studying material, their respective projects on gentrification, and seeking help from each other to clarify questions on the social dynamics and economic implications of gentrification.)",
+      12
+    ],
+    [
+      "studying for his exams (quizzing himself on the material)",
+      23
+    ],
+    [
+      "preparing dinner ([1]) Wolfgang is making a grocery list)",
+      5
+    ],
+    [
+      "preparing dinner (going to the store to buy ingredients)",
+      20
+    ],
+    [
+      "preparing dinner (planning the dinner menu)",
+      10
+    ],
+    [
+      "preparing dinner (washing his hands and preparing the kitchen)",
+      5
+    ],
+    [
+      "preparing dinner (cooking the main dish)",
+      35
+    ],
+    [
+      "preparing dinner (on the way to preparing a side dish)",
+      0
+    ],
+    [
+      "preparing dinner (conversing about the planning of a Valentine's Day menu between Isabella Rodriguez and Wolfgang Schulz, discussing main dishes, desserts, additional dishes, and teamwork to ensure a memorable event for their customers.)",
+      7
+    ],
+    [
+      "preparing dinner (preparing a side dish)",
+      13
+    ],
+    [
+      "preparing dinner (on the way to setting the table)",
+      0
+    ],
+    [
+      "preparing dinner (conversing about Wolfgang preparing grilled chicken with lemon herb marinade, garlic mashed potatoes, steamed asparagus, and fruit salad for dinner.)",
+      3
+    ],
+    [
+      "preparing dinner (serving the meal and enjoying it)",
+      9
+    ],
+    [
+      "preparing dinner (waiting to start serving the meal and enjoying it)",
+      13
+    ],
+    [
+      "studying for his exams (reviewing his class notes)",
+      15
+    ],
+    [
+      "studying for his exams (creating flashcards for key terms and concepts)",
+      30
+    ],
+    [
+      "studying for his exams (watching educational videos related to his subjects)",
+      40
+    ],
+    [
+      "studying for his exams (practicing problems from his textbook) (1) Wolfgang is reviewing his lecture notes)",
+      15
+    ],
+    [
+      "studying for his exams (practicing problems from his textbook) (solving practice problems from his textbook)",
+      30
+    ],
+    [
+      "studying for his exams (practicing problems from his textbook) (comparing his solutions to the ones provided in the textbook)",
+      15
+    ],
+    [
+      "studying for his exams (taking a short break to relax and clear his mind)",
+      15
+    ],
+    [
+      "studying for his exams (summarizing the main points of each topic in his own words)",
+      30
+    ],
+    [
+      "studying for his exams (reviewing and practicing past exam questions)",
+      50
+    ],
+    [
+      "studying for his exams (doing a quick final review of all the topics he needs to know)",
+      20
+    ],
+    [
+      "studying for his exams (taking some deep breaths and doing some visualization techniques to stay calm before his exam)",
+      10
+    ],
+    [
+      "studying for his exams (packing his bag for the next day's class)",
+      30
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      300
+    ],
+    [
+      "completing his morning routine and getting ready for his run",
+      60
+    ],
+    [
+      "running in the park",
+      60
+    ],
+    [
+      "having breakfast at his home",
+      120
+    ],
+    [
+      "studying for his exams",
+      60
+    ],
+    [
+      "taking a lunch break at 10:00 AM",
+      60
+    ],
+    [
+      "studying for his exams",
+      120
+    ],
+    [
+      "taking a lunch break at 1:00 PM",
+      60
+    ],
+    [
+      "studying for his exams",
+      180
+    ],
+    [
+      "preparing dinner",
+      120
+    ],
+    [
+      "studying for his exams",
+      300
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Wolfgang Schulz's room:desk",
+  "act_start_time": "February 13, 2023, 23:33:00",
+  "act_duration": 30,
+  "act_description": "studying for his exams (packing his bag for the next day's class)",
+  "act_pronunciatio": "\ud83c\udf92\ud83d\udcda",
+  "act_event": [
+    "Wolfgang Schulz",
+    "pack",
+    "bag"
+  ],
+  "act_obj_description": "being used as a study area with books and materials spread out for organization",
+  "act_obj_pronunciatio": "\ud83d\udcda\u270f\ufe0f",
+  "act_obj_event": [
+    "desk",
+    "used as",
+    "study area with books and materials"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": 338,
+    "Isabella Rodriguez": 454,
+    "Tom Moreno": 471
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      116,
+      40
+    ],
+    [
+      116,
+      41
+    ],
+    [
+      116,
+      42
+    ],
+    [
+      116,
+      43
+    ],
+    [
+      116,
+      44
+    ],
+    [
+      116,
+      45
+    ],
+    [
+      117,
+      45
+    ],
+    [
+      117,
+      46
+    ],
+    [
+      117,
+      47
+    ],
+    [
+      117,
+      48
+    ],
+    [
+      117,
+      49
+    ],
+    [
+      117,
+      50
+    ],
+    [
+      117,
+      51
+    ],
+    [
+      116,
+      51
+    ],
+    [
+      115,
+      51
+    ],
+    [
+      114,
+      51
+    ],
+    [
+      114,
+      52
+    ],
+    [
+      114,
+      53
+    ],
+    [
+      113,
+      53
+    ],
+    [
+      113,
+      54
+    ],
+    [
+      112,
+      54
+    ],
+    [
+      111,
+      54
+    ],
+    [
+      110,
+      54
+    ],
+    [
+      109,
+      54
+    ],
+    [
+      108,
+      54
+    ],
+    [
+      108,
+      55
+    ],
+    [
+      108,
+      56
+    ],
+    [
+      108,
+      57
+    ],
+    [
+      107,
+      57
+    ]
+  ]
+}

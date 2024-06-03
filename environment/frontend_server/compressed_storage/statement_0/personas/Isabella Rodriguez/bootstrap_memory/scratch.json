@@ -1,0 +1,807 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    78,
+    14
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez manages operations and serves customers at Hobbs Cafe. She enjoys and tries talking with customers to get the talk around town and share with others.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 56,
+  "importance_ele_n": 63,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "Open Hobbs Cafe at 8:00 am",
+    "work at the counter until 8:00 pm and close the cafe",
+    "have dinner at 9:00 pm, and",
+    "go to bed around 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "completing her morning routine (1) Isabella is waking up)",
+      5
+    ],
+    [
+      "completing her morning routine (stretching and doing light exercise)",
+      10
+    ],
+    [
+      "completing her morning routine (taking a shower)",
+      10
+    ],
+    [
+      "completing her morning routine (getting dressed)",
+      5
+    ],
+    [
+      "completing her morning routine (having breakfast)",
+      10
+    ],
+    [
+      "completing her morning routine (checking her email and messages)",
+      20
+    ],
+    [
+      "preparing and setting up Hobbs Cafe for the day (turning on the lights)",
+      5
+    ],
+    [
+      "preparing and setting up Hobbs Cafe for the day (checking the inventory of supplies)",
+      10
+    ],
+    [
+      "preparing and setting up Hobbs Cafe for the day (brewing coffee and preparing tea)",
+      15
+    ],
+    [
+      "preparing and setting up Hobbs Cafe for the day (setting up pastries and food items)",
+      10
+    ],
+    [
+      "preparing and setting up Hobbs Cafe for the day (checking the cleanliness of the cafe)",
+      20
+    ],
+    [
+      "Opening Hobbs Cafe and greeting customers (turning on the lights)",
+      5
+    ],
+    [
+      "Opening Hobbs Cafe and greeting customers (checking the coffee supplies and restocking if needed)",
+      10
+    ],
+    [
+      "Opening Hobbs Cafe and greeting customers (setting up the counter area with menus and daily specials)",
+      10
+    ],
+    [
+      "Opening Hobbs Cafe and greeting customers (preparing fresh coffee for the morning customers)",
+      15
+    ],
+    [
+      "Opening Hobbs Cafe and greeting customers (greeting customers as they arrive and seating them)",
+      20
+    ],
+    [
+      "brewing fresh coffee and preparing breakfast options for customers (1) Isabella is checking the inventory of coffee beans and supplies)",
+      5
+    ],
+    [
+      "brewing fresh coffee and preparing breakfast options for customers (selecting the best coffee beans for brewing)",
+      5
+    ],
+    [
+      "brewing fresh coffee and preparing breakfast options for customers (setting up the coffee maker and grinding the coffee beans)",
+      10
+    ],
+    [
+      "brewing fresh coffee and preparing breakfast options for customers (preparing breakfast options by cooking eggs and bacon)",
+      20
+    ],
+    [
+      "brewing fresh coffee and preparing breakfast options for customers (setting up the food display and organizing the morning pastries)",
+      20
+    ],
+    [
+      "attending to customers and taking their orders (1) Isabella is setting up the counter for the day)",
+      5
+    ],
+    [
+      "attending to customers and taking their orders (brewing fresh coffee)",
+      10
+    ],
+    [
+      "attending to customers and taking their orders (preparing breakfast options)",
+      20
+    ],
+    [
+      "attending to customers and taking their orders (welcoming customers and taking their orders)",
+      25
+    ],
+    [
+      "assisting customers and chatting with them about their day (greeting customers as they enter)",
+      10
+    ],
+    [
+      "assisting customers and chatting with them about their day (taking customer orders at the counter)",
+      20
+    ],
+    [
+      "assisting customers and chatting with them about their day (assisting customers with seating arrangements)",
+      10
+    ],
+    [
+      "assisting customers and chatting with them about their day (engaging in small talk with customers while taking their orders)",
+      20
+    ],
+    [
+      "interacting with customers and recommending menu items to them (on the way to on the way to greeting customers as they enter)",
+      0
+    ],
+    [
+      "interacting with customers and recommending menu items to them (conversing about the history of mathematics, its impact on various aspects of life, and its connections to other fields of study.)",
+      11
+    ],
+    [
+      "interacting with customers and recommending menu items to them (introducing herself and the cafe to new customers)",
+      19
+    ],
+    [
+      "interacting with customers and recommending menu items to them (recommending popular menu items to customers)",
+      10
+    ],
+    [
+      "interacting with customers and recommending menu items to them (answering questions about ingredients and dietary restrictions)",
+      10
+    ],
+    [
+      "interacting with customers and recommending menu items to them (suggesting coffee pairings for various menu items)",
+      10
+    ],
+    [
+      "taking customers' orders and preparing their food and drinks (greeting customers and taking their orders)",
+      20
+    ],
+    [
+      "taking customers' orders and preparing their food and drinks (preparing food for the customers' orders)",
+      30
+    ],
+    [
+      "taking customers' orders and preparing their food and drinks (making drinks for the customers' orders)",
+      10
+    ],
+    [
+      "interacting with customers and providing recommendations for menu items (greeting customers as they enter the cafe)",
+      10
+    ],
+    [
+      "interacting with customers and providing recommendations for menu items (assisting customers at the counter and answering their questions about the menu)",
+      20
+    ],
+    [
+      "interacting with customers and providing recommendations for menu items (recommending her favorite menu items to customers)",
+      10
+    ],
+    [
+      "interacting with customers and providing recommendations for menu items (suggesting customizations and special requests for the orders)",
+      5
+    ],
+    [
+      "interacting with customers and providing recommendations for menu items (upselling by offering complementary items to enhance their experience)",
+      15
+    ],
+    [
+      "assisting customers with their inquiries and ensuring their satisfaction (greeting customers)",
+      10
+    ],
+    [
+      "assisting customers with their inquiries and ensuring their satisfaction (answering questions about menu items)",
+      20
+    ],
+    [
+      "assisting customers with their inquiries and ensuring their satisfaction (assisting customers with any special requests or dietary needs)",
+      10
+    ],
+    [
+      "assisting customers with their inquiries and ensuring their satisfaction (helping customers find seating and ensuring they are comfortable)",
+      5
+    ],
+    [
+      "assisting customers with their inquiries and ensuring their satisfaction (checking in with customers throughout their visit to ensure satisfaction)",
+      15
+    ],
+    [
+      "chatting with customers and discussing the local happenings (greeting customers)",
+      5
+    ],
+    [
+      "chatting with customers and discussing the local happenings (asking customers about their day)",
+      10
+    ],
+    [
+      "chatting with customers and discussing the local happenings (sharing her own experiences with customers)",
+      15
+    ],
+    [
+      "chatting with customers and discussing the local happenings (discussing local events and news with customers)",
+      30
+    ],
+    [
+      "chatting with customers and sharing stories of their experiences in Hobbs Cafe (greeting customers as they enter the cafe)",
+      5
+    ],
+    [
+      "chatting with customers and sharing stories of their experiences in Hobbs Cafe (engaging in small talk with customers)",
+      10
+    ],
+    [
+      "chatting with customers and sharing stories of their experiences in Hobbs Cafe (sharing her own experiences and stories related to Hobbs Cafe)",
+      15
+    ],
+    [
+      "chatting with customers and sharing stories of their experiences in Hobbs Cafe (asking customers about their day and encouraging them to share their stories)",
+      10
+    ],
+    [
+      "chatting with customers and sharing stories of their experiences in Hobbs Cafe (listening attentively to customer's stories and experiences)",
+      20
+    ],
+    [
+      "chatting with customers and discussing the local happenings (greeting customers as they enter)",
+      10
+    ],
+    [
+      "chatting with customers and discussing the local happenings (asking customers about their day and listening to their stories)",
+      20
+    ],
+    [
+      "chatting with customers and discussing the local happenings (sharing her own experiences and stories with the customers)",
+      10
+    ],
+    [
+      "chatting with customers and discussing the local happenings (encouraging conversations between customers)",
+      5
+    ],
+    [
+      "chatting with customers and discussing the local happenings (answering questions about Hobbs Cafe and its history)",
+      15
+    ],
+    [
+      "cleaning and restocking Hobbs Cafe for the next day (on the way to cleaning tables)",
+      0
+    ],
+    [
+      "cleaning and restocking Hobbs Cafe for the next day (waiting to start encouraging conversations between customers)",
+      18
+    ],
+    [
+      "cleaning and restocking Hobbs Cafe for the next day (wiping down surfaces and counters)",
+      12
+    ],
+    [
+      "cleaning and restocking Hobbs Cafe for the next day (sweeping the floor)",
+      10
+    ],
+    [
+      "cleaning and restocking Hobbs Cafe for the next day (mopping the floor)",
+      10
+    ],
+    [
+      "cleaning and restocking Hobbs Cafe for the next day (restocking supplies such as coffee, pastries, and utensils)",
+      10
+    ],
+    [
+      "preparing to close Hobbs Cafe and engaging in conversation with customers ([1]) Isabella is turning off the outdoor cafe sign)",
+      5
+    ],
+    [
+      "preparing to close Hobbs Cafe and engaging in conversation with customers (checking the cleanliness of the cafe and starting to clean tables)",
+      40
+    ],
+    [
+      "preparing to close Hobbs Cafe and engaging in conversation with customers (restocking the shelves with drinks and snacks)",
+      35
+    ],
+    [
+      "preparing to close Hobbs Cafe and engaging in conversation with customers (turning off all the indoor lights except for ambient lighting)",
+      5
+    ],
+    [
+      "preparing to close Hobbs Cafe and engaging in conversation with customers (adjusting the sound system volume to a low setting)",
+      5
+    ],
+    [
+      "preparing to close Hobbs Cafe and engaging in conversation with customers (making sure all the outdoor furniture is properly stored)",
+      10
+    ],
+    [
+      "preparing to close Hobbs Cafe and engaging in conversation with customers (engaging in conversation with customers as they come in for their last drinks and snacks)",
+      50
+    ],
+    [
+      "preparing to close Hobbs Cafe and engaging in conversation with customers (making sure all the doors are locked)",
+      30
+    ],
+    [
+      "preparing to sleep and relaxing before bedtime (1) Isabella is turning off the cafe lights)",
+      5
+    ],
+    [
+      "preparing to sleep and relaxing before bedtime (locking up the cafe)",
+      5
+    ],
+    [
+      "preparing to sleep and relaxing before bedtime (checking the security system)",
+      5
+    ],
+    [
+      "preparing to sleep and relaxing before bedtime (saying goodbye to customers)",
+      10
+    ],
+    [
+      "preparing to sleep and relaxing before bedtime (cleaning up tables and chairs)",
+      10
+    ],
+    [
+      "preparing to sleep and relaxing before bedtime (wiping down counters)",
+      5
+    ],
+    [
+      "preparing to sleep and relaxing before bedtime (taking out the trash)",
+      5
+    ],
+    [
+      "preparing to sleep and relaxing before bedtime (walking home)",
+      15
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "completing her morning routine",
+      60
+    ],
+    [
+      "preparing and setting up Hobbs Cafe for the day",
+      60
+    ],
+    [
+      "Opening Hobbs Cafe and greeting customers",
+      60
+    ],
+    [
+      "brewing fresh coffee and preparing breakfast options for customers",
+      60
+    ],
+    [
+      "attending to customers and taking their orders",
+      60
+    ],
+    [
+      "assisting customers and chatting with them about their day",
+      60
+    ],
+    [
+      "interacting with customers and recommending menu items to them",
+      60
+    ],
+    [
+      "taking customers' orders and preparing their food and drinks",
+      60
+    ],
+    [
+      "interacting with customers and providing recommendations for menu items",
+      60
+    ],
+    [
+      "assisting customers with their inquiries and ensuring their satisfaction",
+      60
+    ],
+    [
+      "chatting with customers and discussing the local happenings",
+      60
+    ],
+    [
+      "chatting with customers and sharing stories of their experiences in Hobbs Cafe",
+      60
+    ],
+    [
+      "chatting with customers and discussing the local happenings",
+      60
+    ],
+    [
+      "cleaning and restocking Hobbs Cafe for the next day",
+      60
+    ],
+    [
+      "preparing to close Hobbs Cafe and engaging in conversation with customers",
+      180
+    ],
+    [
+      "preparing to sleep and relaxing before bedtime",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:shelf",
+  "act_start_time": "February 13, 2023, 23:47:00",
+  "act_duration": 15,
+  "act_description": "preparing to sleep and relaxing before bedtime (walking home)",
+  "act_pronunciatio": "\ud83c\udfe0\u26c5",
+  "act_event": [
+    "Isabella Rodriguez",
+    "walk",
+    "home"
+  ],
+  "act_obj_description": "empty and unused",
+  "act_obj_pronunciatio": "\ud83d\udd0d",
+  "act_obj_event": [
+    "shelf",
+    "empty",
+    "unused"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": 70,
+    "Giorgio Rossi": 87
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

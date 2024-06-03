@@ -1,0 +1,832 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    87,
+    18
+  ],
+  "daily_plan_req": "",
+  "name": "Giorgio Rossi",
+  "first_name": "Giorgio",
+  "last_name": "Rossi",
+  "age": 41,
+  "innate": "analytical, logical, eccentric",
+  "learned": "Giorgio Rossi is a mathematician who loves to solve challenging problems. He is always looking for ways to apply his analytical skills.",
+  "currently": "Giorgio Rossi is working on a research project to explore mathematical patterns in nature. He is also taking classes to stay up to date on new mathematical theories. Giorgio is also curious about who will be running for the local mayor election next month and he talks about it a lot with others.",
+  "lifestyle": "Giorgio Rossi goes to bed around midnight, awakes up around 7am, eats dinner around 4pm.",
+  "living_area": "the Ville:Giorgio Rossi's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 124,
+  "importance_ele_n": 75,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "go for a run at 8:00 am",
+    "have breakfast at 9:00 am",
+    "start working on the research project at 10:00 am",
+    "take a break and have lunch at 12:00 pm",
+    " continue working on the research project until 4:00 pm (dinner time",
+    "",
+    "discuss local mayor election candidates with friends online from 5:00 pm to 6:00 pm",
+    "attend a math class online from 7:00 pm to 8:00 pm, and",
+    "go to bed around midnight"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "completing his morning routine (taking a shower)",
+      10
+    ],
+    [
+      "completing his morning routine (getting dressed)",
+      5
+    ],
+    [
+      "completing his morning routine (having breakfast)",
+      15
+    ],
+    [
+      "completing his morning routine (checking his email and news)",
+      25
+    ],
+    [
+      "going for a run ([1) Giorgio is putting on his running gear)",
+      5
+    ],
+    [
+      "going for a run (warming up with stretches)",
+      5
+    ],
+    [
+      "going for a run (heading out for his run)",
+      5
+    ],
+    [
+      "going for a run (running at a comfortable pace)",
+      15
+    ],
+    [
+      "going for a run (increasing his speed for a short distance)",
+      5
+    ],
+    [
+      "going for a run (slowing down and cooling down)",
+      5
+    ],
+    [
+      "going for a run (walking back home)",
+      10
+    ],
+    [
+      "going for a run (arriving home from his run)",
+      10
+    ],
+    [
+      "having breakfast (1) Giorgio is boiling water for oatmeal)",
+      5
+    ],
+    [
+      "having breakfast (adding oats and stirring them into the boiling water)",
+      5
+    ],
+    [
+      "having breakfast (waiting for the oatmeal to cook)",
+      10
+    ],
+    [
+      "having breakfast (preparing a side of sliced fruit)",
+      5
+    ],
+    [
+      "having breakfast (setting the table for breakfast)",
+      5
+    ],
+    [
+      "having breakfast (serving the oatmeal and fruit onto his plate)",
+      5
+    ],
+    [
+      "having breakfast (sitting down to eat his breakfast)",
+      5
+    ],
+    [
+      "having breakfast (eating his oatmeal and fruit)",
+      20
+    ],
+    [
+      "starting to work on his research project ([1) Giorgio is reviewing his research notes)",
+      15
+    ],
+    [
+      "starting to work on his research project (organizing his research materials)",
+      15
+    ],
+    [
+      "starting to work on his research project (selecting the mathematical models to use)",
+      15
+    ],
+    [
+      "starting to work on his research project (formulating his research questions)",
+      15
+    ],
+    [
+      "taking a break and having lunch (on the way to checking his emails)",
+      0
+    ],
+    [
+      "taking a break and having lunch (conversing about Giorgio and Carlos discussing their experiences in a creative writing workshop, with Carlos enjoying the experience, and Giorgio sharing his interest in finding mathematical patterns in nature for his research project.)",
+      4
+    ],
+    [
+      "taking a break and having lunch (browsing the latest news articles about the local mayor election candidates)",
+      10
+    ],
+    [
+      "taking a break and having lunch (on the way to making a list of questions to ask his friends about their opinions on the mayoral candidates)",
+      0
+    ],
+    [
+      "taking a break and having lunch (conversing about the importance of collaboration between mayoral election candidates, focusing on their policies and willingness to work together for the betterment of their town.)",
+      9
+    ],
+    [
+      "taking a break and having lunch (on the way to preparing his lunch: a homemade vegetable lasagna and a fresh green salad)",
+      0
+    ],
+    [
+      "taking a break and having lunch (waiting to start conversing about the importance of collaboration between mayoral election candidates, focusing on their policies and willingness to work together for the betterment of their town.)",
+      8
+    ],
+    [
+      "taking a break and having lunch (preparing his lunch: a homemade vegetable lasagna and a fresh green salad)",
+      7
+    ],
+    [
+      "taking a break and having lunch (enjoying his lunch while watching a documentary on the history of mathematics)",
+      15
+    ],
+    [
+      "having lunch (1) Giorgio is preparing his lunch)",
+      15
+    ],
+    [
+      "having lunch (on the way to setting the table for lunch)",
+      0
+    ],
+    [
+      "having lunch (conversing about the history of mathematics, its impact on various aspects of life, and its connections to other fields of study.)",
+      11
+    ],
+    [
+      "having lunch (washing his hands before eating)",
+      5
+    ],
+    [
+      "having lunch (taking a break and eating his lunch)",
+      15
+    ],
+    [
+      "having lunch (on the way to on the way to sipping on some water while eating)",
+      0
+    ],
+    [
+      "having lunch (conversing about the fascinating connections between mathematics and various fields of study, such as nature, art, literature, and architecture, showcasing the interconnectedness of different domains.)",
+      24
+    ],
+    [
+      "having lunch (conversing about Tom Moreno and Giorgio Rossi discussing their recent activities, the upcoming mayor election, and the importance of supporting local businesses.)",
+      10
+    ],
+    [
+      "having lunch (on the way to finishing up his lunch)",
+      0
+    ],
+    [
+      "having lunch (conversing about the various ways mathematics is applied across fields like nature, art, literature, and architecture, with a focus on its interconnectedness and the beauty it brings to these disciplines.)",
+      13
+    ],
+    [
+      "having lunch (cleaning up the table after lunch)",
+      2
+    ],
+    [
+      "working on his research project (1) Giorgio is reviewing his research notes)",
+      20
+    ],
+    [
+      "working on his research project (brainstorming new ideas for the research project)",
+      11
+    ],
+    [
+      "working on his research project (taking a break to stretch and refresh himself)",
+      5
+    ],
+    [
+      "working on his research project (revising the hypothesis of his research project) (reviewing his research notes)",
+      10
+    ],
+    [
+      "working on his research project (revising the hypothesis of his research project) (analyzing the data he has collected so far)",
+      20
+    ],
+    [
+      "working on his research project (revising the hypothesis of his research project) (discussing his findings with his colleagues online)",
+      20
+    ],
+    [
+      "working on his research project (revising the hypothesis of his research project) (revising his research hypothesis based on new insights)",
+      10
+    ],
+    [
+      "having dinner (on the way to having dinne)",
+      59
+    ],
+    [
+      "having dinner (waiting to start having dinne)",
+      13
+    ],
+    [
+      "discussing local mayor election candidates with friends online (checking the latest news on the local mayor election candidates)",
+      10
+    ],
+    [
+      "discussing local mayor election candidates with friends online (inviting friends to join the discussion online)",
+      5
+    ],
+    [
+      "discussing local mayor election candidates with friends online (sharing his thoughts and opinions on the candidates)",
+      15
+    ],
+    [
+      "discussing local mayor election candidates with friends online (responding to friends' comments and questions)",
+      30
+    ],
+    [
+      "attending a math class online (logging into the online platform)",
+      5
+    ],
+    [
+      "attending a math class online (checking the syllabus and course materials)",
+      10
+    ],
+    [
+      "attending a math class online (reviewing the previous lecture's content)",
+      15
+    ],
+    [
+      "attending a math class online (participating in the Q&A session)",
+      30
+    ],
+    [
+      "taking a break and preparing for his math class (1) Giorgio is checking his social media for updates on the local mayor election)",
+      5
+    ],
+    [
+      "taking a break and preparing for his math class (researching more about the candidates online)",
+      10
+    ],
+    [
+      "taking a break and preparing for his math class (discussing the mayoral candidates with his friends in a group chat)",
+      15
+    ],
+    [
+      "taking a break and preparing for his math class (a short break to stretch and relax)",
+      30
+    ],
+    [
+      "discussing local mayor election candidates with friends online (logging into the online platform)",
+      5
+    ],
+    [
+      "discussing local mayor election candidates with friends online (waiting for friends to join)",
+      5
+    ],
+    [
+      "discussing local mayor election candidates with friends online (starting a group chat with his friends)",
+      5
+    ],
+    [
+      "discussing local mayor election candidates with friends online (sharing information about the local mayor election candidates)",
+      15
+    ],
+    [
+      "discussing local mayor election candidates with friends online (discussing his opinions on the candidates with his friends)",
+      20
+    ],
+    [
+      "discussing local mayor election candidates with friends online (thanking his friends for joining and saying goodbye)",
+      10
+    ],
+    [
+      "preparing for bed and reading a mathematical book before going to sleep (1) Giorgio is preparing his sleeping area for a good night's sleep)",
+      5
+    ],
+    [
+      "preparing for bed and reading a mathematical book before going to sleep (setting the room temperature to a comfortable level)",
+      5
+    ],
+    [
+      "preparing for bed and reading a mathematical book before going to sleep (choosing a mathematical book for the evening)",
+      5
+    ],
+    [
+      "preparing for bed and reading a mathematical book before going to sleep (dimming the lights and turning off electronic devices)",
+      5
+    ],
+    [
+      "preparing for bed and reading a mathematical book before going to sleep (putting on his pajamas and slippers)",
+      40
+    ],
+    [
+      "discussing local mayor election candidates with friends online (1) Giorgio is starting the online discussion with friends about local mayor election candidates)",
+      5
+    ],
+    [
+      "discussing local mayor election candidates with friends online (sharing his research on the mathematical patterns in nature and how it relates to different political views)",
+      10
+    ],
+    [
+      "discussing local mayor election candidates with friends online (asking questions about the candidates' stances on local issues)",
+      10
+    ],
+    [
+      "discussing local mayor election candidates with friends online (listening and responding to his friends' opinions on the candidates)",
+      20
+    ],
+    [
+      "discussing local mayor election candidates with friends online (suggesting ways to further research the candidates and their platforms)",
+      15
+    ],
+    [
+      "going to bed and getting ready for a good night's sleep (1) Giorgio is turning off electronic devices)",
+      5
+    ],
+    [
+      "going to bed and getting ready for a good night's sleep (tidying up his workspace)",
+      5
+    ],
+    [
+      "going to bed and getting ready for a good night's sleep (brushing his teeth and washing his face)",
+      10
+    ],
+    [
+      "going to bed and getting ready for a good night's sleep (changing into his pajamas)",
+      5
+    ],
+    [
+      "going to bed and getting ready for a good night's sleep (adjusting his room's temperature for better sleep)",
+      5
+    ],
+    [
+      "going to bed and getting ready for a good night's sleep (setting an alarm clock for the next day)",
+      30
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      1
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      59
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      2
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -13
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing his morning routine",
+      60
+    ],
+    [
+      "going for a run",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "starting to work on his research project",
+      60
+    ],
+    [
+      "taking a break and having lunch",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "taking a break and having lunch",
+      60
+    ],
+    [
+      "working on his research project",
+      120
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "discussing local mayor election candidates with friends online",
+      60
+    ],
+    [
+      "attending a math class online",
+      60
+    ],
+    [
+      "taking a break and preparing for his math class",
+      60
+    ],
+    [
+      "discussing local mayor election candidates with friends online",
+      60
+    ],
+    [
+      "preparing for bed and reading a mathematical book before going to sleep",
+      60
+    ],
+    [
+      "discussing local mayor election candidates with friends online",
+      60
+    ],
+    [
+      "going to bed and getting ready for a good night's sleep",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Giorgio Rossi's apartment:main room:bed",
+  "act_start_time": "February 13, 2023, 23:17:00",
+  "act_duration": 59,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Giorgio Rossi",
+    "sleep",
+    "none"
+  ],
+  "act_obj_description": "Step 1. Giorgio Rossi is using the bed for sleeping.\nStep 2. Describe the bed's state: bed is made up and occupied by someone who is sleeping",
+  "act_obj_pronunciatio": "\ud83d\udecc\ud83d\udecf\ufe0f",
+  "act_obj_event": [
+    "bed",
+    "used for sleeping",
+    "someone"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Carlos Gomez": 8,
+    "Klaus Mueller": 37,
+    "Isabella Rodriguez": 87,
+    "Tom Moreno": 113,
+    "Tamara Taylor": 138,
+    "Yuriko Yamamoto": 155
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

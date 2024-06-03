@@ -1,0 +1,649 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    28,
+    65
+  ],
+  "daily_plan_req": "",
+  "name": "Yuriko Yamamoto",
+  "first_name": "Yuriko",
+  "last_name": "Yamamoto",
+  "age": 28,
+  "innate": "organized, reliable, detail-oriented",
+  "learned": "Yuriko Yamamoto is a tax lawyer who loves to help people navigate the complex world of taxes. She is very organized and detail-oriented when it comes to her work.",
+  "currently": "Yuriko Yamamoto is working on a tax compliance project for a local business. She is also taking classes to stay up to date on new tax laws. Yuriko is also curious about who will be running for the local mayor election next month.",
+  "lifestyle": "Yuriko Yamamoto goes to bed around 11pm, awakes up around 7am, eats dinner around 6pm.",
+  "living_area": "the Ville:Yuriko Yamamoto's house:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 39,
+  "importance_ele_n": 93,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "go to work at 8:00 am",
+    "have lunch at 12:00 pm",
+    "work on tax compliance project from 1:00 pm to 5:00 pm",
+    "attend a tax law class from 6:00 pm to 8:00 pm, and",
+    "watch TV from 9:00 pm to 10:00 pm before going to bed at 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "completing her morning routine (showering)",
+      10
+    ],
+    [
+      "completing her morning routine (getting dressed)",
+      10
+    ],
+    [
+      "completing her morning routine (making breakfast)",
+      10
+    ],
+    [
+      "completing her morning routine (eating breakfast)",
+      10
+    ],
+    [
+      "completing her morning routine (checking the news)",
+      15
+    ],
+    [
+      "going to work (getting dressed)",
+      15
+    ],
+    [
+      "going to work (on the way to packing her work bag)",
+      0
+    ],
+    [
+      "going to work (conversing about Yuriko and Tamara discussing Tamara's light breakfast and Yuriko sharing information on the upcoming mayoral election, with Yuriko offering to help Tamara understand the issues if she has any questions.)",
+      6
+    ],
+    [
+      "going to work (preparing her lunch for the day)",
+      15
+    ],
+    [
+      "going to work (checking her outfit for the day)",
+      5
+    ],
+    [
+      "going to work (leaving her house to go to work)",
+      10
+    ],
+    [
+      "having breakfast and checking her emails (preparing breakfast)",
+      15
+    ],
+    [
+      "having breakfast and checking her emails (eating breakfast)",
+      15
+    ],
+    [
+      "having breakfast and checking her emails (checking her emails on her phone)",
+      10
+    ],
+    [
+      "having breakfast and checking her emails (responding to important emails)",
+      10
+    ],
+    [
+      "having breakfast and checking her emails (skimming through other emails)",
+      10
+    ],
+    [
+      "having a morning meeting with her team at work ([n]) Yuriko is setting up the conference call)",
+      5
+    ],
+    [
+      "having a morning meeting with her team at work (distributing the agenda to her team members)",
+      10
+    ],
+    [
+      "having a morning meeting with her team at work (reviewing the previous meeting's minutes and action items)",
+      10
+    ],
+    [
+      "having a morning meeting with her team at work (leading the discussion on the current project status)",
+      20
+    ],
+    [
+      "having a morning meeting with her team at work (addressing any questions or concerns from team members)",
+      15
+    ],
+    [
+      "working on her tax compliance project (reviewing the client's financial records)",
+      25
+    ],
+    [
+      "working on her tax compliance project (organizing these records in chronological order)",
+      10
+    ],
+    [
+      "working on her tax compliance project (identifying any discrepancies or errors in the records)",
+      10
+    ],
+    [
+      "working on her tax compliance project (discussing her findings with a colleague for clarification)",
+      10
+    ],
+    [
+      "working on her tax compliance project (making notes on her preliminary observations)",
+      5
+    ],
+    [
+      "having lunch and catching up with her colleagues ([1] Yuriko is gathering her materials for the meeting)",
+      5
+    ],
+    [
+      "having lunch and catching up with her colleagues (preparing her presentation slides)",
+      30
+    ],
+    [
+      "having lunch and catching up with her colleagues (on the way to reviewing her colleagues' contributions to the meeting)",
+      0
+    ],
+    [
+      "having lunch and catching up with her colleagues (conversing about Yuriko Yamamoto sharing her project on helping local businesses navigate tax compliance, with Giorgio Rossi expressing interest and asking questions about her approach to creating a case for a specific local business.)",
+      6
+    ],
+    [
+      "having lunch and catching up with her colleagues (having a morning coffee break)",
+      14
+    ],
+    [
+      "having lunch and catching up with her colleagues (discussing strategies with her team for the tax compliance project)",
+      15
+    ],
+    [
+      "having lunch and catching up with her colleagues (summarizing the meeting's decisions and action items)",
+      50
+    ],
+    [
+      "working on her tax compliance project (on the way to working on her tax compliance projec)",
+      0
+    ],
+    [
+      "working on her tax compliance project (conversing about how poets Wordsworth and Whitman have influenced Carlos' writing style, with both participants appreciating their impact on poetry and discussing the importance of staying true to oneself and finding inspiration from various sources.)",
+      6
+    ],
+    [
+      "working on her tax compliance project (adjusting the schedule due to unexpected conversation)",
+      29
+    ],
+    [
+      "taking classes to stay up to date on new tax laws (logging into the online platform)",
+      5
+    ],
+    [
+      "taking classes to stay up to date on new tax laws (going through the introduction of the tax law class)",
+      20
+    ],
+    [
+      "taking classes to stay up to date on new tax laws (taking notes on new tax laws and changes)",
+      40
+    ],
+    [
+      "taking classes to stay up to date on new tax laws (answering quiz questions to test her understanding)",
+      15
+    ],
+    [
+      "taking classes to stay up to date on new tax laws (participating in the discussion forum with fellow students)",
+      40
+    ],
+    [
+      "working on her tax compliance project (reviewing the client's financial documents)",
+      20
+    ],
+    [
+      "working on her tax compliance project (analyzing the client's financial transactions)",
+      25
+    ],
+    [
+      "working on her tax compliance project (identifying potential tax issues and solutions)",
+      15
+    ],
+    [
+      "attending a tax law class (checking her email before the class starts)",
+      5
+    ],
+    [
+      "attending a tax law class (reviewing the course materials provided for the tax law class)",
+      10
+    ],
+    [
+      "attending a tax law class (taking notes during the lecture)",
+      20
+    ],
+    [
+      "attending a tax law class (asking questions about a topic she finds confusing)",
+      5
+    ],
+    [
+      "attending a tax law class (discussing case studies with her classmates)",
+      20
+    ],
+    [
+      "attending a community meeting to discuss the upcoming local mayor election (arriving at the community meeting location)",
+      5
+    ],
+    [
+      "attending a community meeting to discuss the upcoming local mayor election (greeting attendees and introducing herself)",
+      10
+    ],
+    [
+      "attending a community meeting to discuss the upcoming local mayor election (listening to the opening remarks by the community meeting moderator)",
+      10
+    ],
+    [
+      "attending a community meeting to discuss the upcoming local mayor election (taking notes on the key points discussed during the meeting)",
+      15
+    ],
+    [
+      "attending a community meeting to discuss the upcoming local mayor election (participating in a group discussion about the local mayor election candidates)",
+      20
+    ],
+    [
+      "watching TV to unwind before going to bed (choosing a show to watch)",
+      5
+    ],
+    [
+      "watching TV to unwind before going to bed (settling into her favorite spot on the couch)",
+      5
+    ],
+    [
+      "watching TV to unwind before going to bed (turning on the TV and browsing through channels)",
+      5
+    ],
+    [
+      "watching TV to unwind before going to bed (selecting a show to watch)",
+      10
+    ],
+    [
+      "watching TV to unwind before going to bed (watching the show for 5 minutes)",
+      5
+    ],
+    [
+      "watching TV to unwind before going to bed (watching the show for another 5 minutes)",
+      5
+    ],
+    [
+      "watching TV to unwind before going to bed (watching the show for a final 5 minutes)",
+      5
+    ],
+    [
+      "watching TV to unwind before going to bed (turning off the TV and preparing to go to bed)",
+      20
+    ],
+    [
+      "going to bed",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      9
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      35
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -10
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing her morning routine",
+      60
+    ],
+    [
+      "going to work",
+      60
+    ],
+    [
+      "having breakfast and checking her emails",
+      60
+    ],
+    [
+      "having a morning meeting with her team at work",
+      60
+    ],
+    [
+      "working on her tax compliance project",
+      60
+    ],
+    [
+      "having lunch and catching up with her colleagues",
+      120
+    ],
+    [
+      "working on her tax compliance project",
+      60
+    ],
+    [
+      "taking classes to stay up to date on new tax laws",
+      120
+    ],
+    [
+      "working on her tax compliance project",
+      60
+    ],
+    [
+      "attending a tax law class",
+      60
+    ],
+    [
+      "attending a community meeting to discuss the upcoming local mayor election",
+      60
+    ],
+    [
+      "watching TV to unwind before going to bed",
+      60
+    ],
+    [
+      "going to bed",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Yuriko Yamamoto's house:main room:bed",
+  "act_start_time": "February 13, 2023, 23:36:00",
+  "act_duration": 35,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Yuriko Yamamoto",
+    "sleep",
+    "null"
+  ],
+  "act_obj_description": "Step 1. Yuriko Yamamoto is resting on/using the bed. \nStep 2. Describe the bed's state: bed is being used for relaxation and rest",
+  "act_obj_pronunciatio": "\ud83d\udecc\ud83d\udca4",
+  "act_obj_event": [
+    "bed",
+    "used for relaxation and rest",
+    "Yuriko Yamamoto"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Tamara Taylor": -155,
+    "Giorgio Rossi": 83,
+    "Carlos Gomez": 177
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

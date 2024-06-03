@@ -1,0 +1,631 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    107,
+    62
+  ],
+  "daily_plan_req": "Wolfgang Schulz goes for a run at the part in the morning, studies during the day, and exercises at his room at night ",
+  "name": "Wolfgang Schulz",
+  "first_name": "Wolfgang",
+  "last_name": "Schulz",
+  "age": 21,
+  "innate": "Hardworking, passionate, dedicated",
+  "learned": "Wolfgang Schulz is a student at Oak Hill College studying chemistry and a student athlete. He is very dedicated to both his academics and his sport.",
+  "currently": "Wolfgang Schulz is training for his next competition and studying for his exams. He is also looking for ways to make his studies more efficient.",
+  "lifestyle": "Wolfgang Schulz goes to bed around 9pm, awakes up around 5am, eats dinner around 6pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Wolfgang Schulz's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 219,
+  "importance_ele_n": 18,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 5:00 am",
+    "go for a run in the park at 6:00 am",
+    "study from 7:00 am to 1:00 pm with a short break for lunch at 12:00 pm",
+    "exercise in his room from 5:00 pm to 6:00 pm, and",
+    "have dinner at 6:30 pm. After dinner, Wolfgang will spend some time relaxing before going to bed at around 9:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      300
+    ],
+    [
+      "completing his morning routine (taking a shower)",
+      10
+    ],
+    [
+      "completing his morning routine (making breakfast)",
+      10
+    ],
+    [
+      "completing his morning routine (eating breakfast)",
+      10
+    ],
+    [
+      "completing his morning routine (drinking a protein shake)",
+      5
+    ],
+    [
+      "completing his morning routine (checking his daily plan and email)",
+      25
+    ],
+    [
+      "going for a run in the park ([1]) Wolfgang is putting on his running gear)",
+      5
+    ],
+    [
+      "going for a run in the park (stretching before the run)",
+      5
+    ],
+    [
+      "going for a run in the park (warming up with a light jog)",
+      10
+    ],
+    [
+      "going for a run in the park (increasing his pace and intensity)",
+      20
+    ],
+    [
+      "going for a run in the park (cooling down with a slow jog)",
+      10
+    ],
+    [
+      "going for a run in the park (stretching after the run)",
+      10
+    ],
+    [
+      "studying diligently (1) [Wolfgang is reviewing his chemistry notes.])",
+      15
+    ],
+    [
+      "studying diligently (solving practice problems.])",
+      30
+    ],
+    [
+      "studying diligently (watching a lecture video to clarify concepts.])",
+      15
+    ],
+    [
+      "taking a short break for lunch (1) [1] Wolfgang is making himself a sandwich",
+      5
+    ],
+    [
+      "taking a short break for lunch (is washing his dishes from breakfast)",
+      10
+    ],
+    [
+      "taking a short break for lunch (is checking his email and notifications on his phone)",
+      10
+    ],
+    [
+      "taking a short break for lunch (is browsing social media for a few minutes)",
+      5
+    ],
+    [
+      "taking a short break for lunch (is drinking water and stretching his legs to stay refreshed)",
+      30
+    ],
+    [
+      "continuing his diligent studying (conversing about Klaus sharing a gossip about Carmen stealing money, while Wolfgang cautions against spreading unconfirmed rumors.)",
+      3
+    ],
+    [
+      "continuing his diligent studying (is solving practice problems)",
+      12
+    ],
+    [
+      "continuing his diligent studying (is reading through textbook chapters)",
+      45
+    ],
+    [
+      "studying diligently (reviewing his class notes)",
+      15
+    ],
+    [
+      "studying diligently (working on chemistry problems)",
+      45
+    ],
+    [
+      "taking a short break for lunch (preparing his lunch)",
+      20
+    ],
+    [
+      "taking a short break for lunch (eating his lunch)",
+      30
+    ],
+    [
+      "taking a short break for lunch (cleaning up after his meal)",
+      5
+    ],
+    [
+      "taking a short break for lunch (relaxing and reading a book)",
+      25
+    ],
+    [
+      "taking a short break for lunch (checking his emails and messages)",
+      15
+    ],
+    [
+      "taking a short break for lunch (taking a short nap)",
+      15
+    ],
+    [
+      "taking a short break for lunch (reviewing his study notes)",
+      25
+    ],
+    [
+      "taking a short break for lunch (practicing some chemistry problems)",
+      45
+    ],
+    [
+      "exercising in his room (1) [1] Wolfgang is warming up)",
+      5
+    ],
+    [
+      "exercising in his room (is doing push-ups)",
+      10
+    ],
+    [
+      "exercising in his room (is doing squats)",
+      10
+    ],
+    [
+      "exercising in his room (is doing lunges)",
+      10
+    ],
+    [
+      "exercising in his room (is stretching)",
+      5
+    ],
+    [
+      "exercising in his room (is cooling down)",
+      20
+    ],
+    [
+      "taking a short break for lunch (1) [1] Wolfgang is preparing his lunch)",
+      20
+    ],
+    [
+      "taking a short break for lunch (on the way to is eating his lunch)",
+      0
+    ],
+    [
+      "taking a short break for lunch (conversing about Jane Moreno welcoming Wolfgang Schulz to The Willow Market and Pharmacy, where they discuss their experiences and Wolfgang's eagerness to learn and contribute to the team.)",
+      6
+    ],
+    [
+      "taking a short break for lunch (is relaxing and reading a book during his lunch break)",
+      20
+    ],
+    [
+      "taking a short break for dinner (1) Wolfgang is washing his hands)",
+      5
+    ],
+    [
+      "taking a short break for dinner (setting the table)",
+      5
+    ],
+    [
+      "taking a short break for dinner (preparing a healthy meal)",
+      40
+    ],
+    [
+      "taking a short break for dinner (on the way to cooking his meal)",
+      0
+    ],
+    [
+      "taking a short break for dinner (conversing about Tom Moreno and Wolfgang Schulz sharing updates on their productive days, discussing work-life balance, and expressing appreciation for each other's passions and accomplishments.)",
+      5
+    ],
+    [
+      "taking a short break for dinner (sitting down to eat)",
+      20
+    ],
+    [
+      "taking a short break for dinner (cleaning up after dinner)",
+      15
+    ],
+    [
+      "taking a short break for dinner (enjoying a dessert)",
+      15
+    ],
+    [
+      "taking a short break for dinner (drinking some tea)",
+      10
+    ],
+    [
+      "taking a short break for dinner (washing the dishes)",
+      5
+    ],
+    [
+      "relaxing and unwinding before going to bed (taking a hot shower)",
+      15
+    ],
+    [
+      "relaxing and unwinding before going to bed (changing into comfortable clothes)",
+      5
+    ],
+    [
+      "relaxing and unwinding before going to bed (stretching his muscles)",
+      10
+    ],
+    [
+      "relaxing and unwinding before going to bed (meditating to relax his mind)",
+      10
+    ],
+    [
+      "relaxing and unwinding before going to bed (reading a book for leisure)",
+      20
+    ],
+    [
+      "taking a short break for dinner (reflecting on the conversation with Tom Moreno and planning future discussions)",
+      50
+    ],
+    [
+      "relaxing and unwinding before going to bed (on the way to on the way to relaxing and unwinding before going to be)",
+      0
+    ],
+    [
+      "relaxing and unwinding before going to bed (conversing about Isabella and Wolfgang discussing how helpful and insightful their recent conversation with Tom Moreno was, emphasizing the importance of maintaining work-life balance and time management.)",
+      5
+    ],
+    [
+      "relaxing and unwinding before going to bed (conversing about The fascinating insights, examples, and practical applications of mathematical patterns found in nature, human-made structures, store organization, and problem-solving.)",
+      7
+    ],
+    [
+      "going to bed and preparing to start another productive day tomorrow",
+      108
+    ],
+    [
+      "preparing to start another productive day tomorrow",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      14
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      70
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      300
+    ],
+    [
+      "completing his morning routine",
+      60
+    ],
+    [
+      "going for a run in the park",
+      60
+    ],
+    [
+      "studying diligently",
+      60
+    ],
+    [
+      "taking a short break for lunch",
+      60
+    ],
+    [
+      "continuing his diligent studying",
+      60
+    ],
+    [
+      "studying diligently",
+      60
+    ],
+    [
+      "taking a short break for lunch",
+      180
+    ],
+    [
+      "exercising in his room",
+      60
+    ],
+    [
+      "taking a short break for lunch",
+      60
+    ],
+    [
+      "taking a short break for dinner",
+      180
+    ],
+    [
+      "relaxing and unwinding before going to bed",
+      120
+    ],
+    [
+      "going to bed and preparing to start another productive day tomorrow",
+      120
+    ],
+    [
+      "preparing to start another productive day tomorrow",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Wolfgang Schulz's room:bed",
+  "act_start_time": "February 13, 2023, 22:59:00",
+  "act_duration": 70,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\udca4\ud83c\udf1b",
+  "act_event": [
+    "Wolfgang Schulz",
+    "sleep",
+    "none"
+  ],
+  "act_obj_description": "Step 2. Describe the bed's state: bed is being used for sleeping",
+  "act_obj_pronunciatio": "\ud83d\udecc\u2668\ufe0f",
+  "act_obj_event": [
+    "bed",
+    "used",
+    "sleeping"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": -127,
+    "Jane Moreno": 284,
+    "Tom Moreno": 346,
+    "Carlos Gomez": 500,
+    "Giorgio Rossi": 516,
+    "Isabella Rodriguez": 521
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

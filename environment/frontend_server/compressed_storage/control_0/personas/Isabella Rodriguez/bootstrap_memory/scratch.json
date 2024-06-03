@@ -1,0 +1,795 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    82,
+    16
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and stands at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on *February 14th, 2023, from 5pm to 7pm*.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 224,
+  "importance_ele_n": 19,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "Open Hobbs Cafe at 8:00 am",
+    "manage the cafe until 5:00 pm",
+    "prepare for the Valentine's Day party by gathering party materials and confirming with suppliers",
+    "have dinner at 7:30 pm",
+    "go over the final plans for the Valentine's Day party, and",
+    "go to bed at 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "completing her morning routine and preparing to open Hobbs Cafe (1) [1]) Isabella is waking up)",
+      5
+    ],
+    [
+      "completing her morning routine and preparing to open Hobbs Cafe (is stretching and doing light exercises)",
+      10
+    ],
+    [
+      "completing her morning routine and preparing to open Hobbs Cafe (is taking a shower)",
+      10
+    ],
+    [
+      "completing her morning routine and preparing to open Hobbs Cafe (is getting dressed)",
+      5
+    ],
+    [
+      "completing her morning routine and preparing to open Hobbs Cafe (is doing her skincare routine)",
+      5
+    ],
+    [
+      "completing her morning routine and preparing to open Hobbs Cafe (is brushing her teeth and washing her face)",
+      5
+    ],
+    [
+      "completing her morning routine and preparing to open Hobbs Cafe (is having breakfast)",
+      10
+    ],
+    [
+      "completing her morning routine and preparing to open Hobbs Cafe (is drinking a cup of coffee to wake up)",
+      10
+    ],
+    [
+      "preparing breakfast items and setting up Hobbs Cafe for the day ([1]) Isabella is turning on the cafe lights)",
+      5
+    ],
+    [
+      "preparing breakfast items and setting up Hobbs Cafe for the day (placing a \"Happy Valentine's Day\" sign outside Hobbs Cafe)",
+      5
+    ],
+    [
+      "preparing breakfast items and setting up Hobbs Cafe for the day (setting up tables and chairs for the special Valentine's Day event)",
+      10
+    ],
+    [
+      "preparing breakfast items and setting up Hobbs Cafe for the day (preparing coffee, tea, and hot chocolate)",
+      10
+    ],
+    [
+      "preparing breakfast items and setting up Hobbs Cafe for the day (arranging the breakfast items on the counter)",
+      30
+    ],
+    [
+      "opening Hobbs Cafe and welcoming customers (20:35 PM] Isabella is preparing breakfast items)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and welcoming customers (setting up Hobbs Cafe for the day)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and welcoming customers (opening Hobbs Cafe and welcoming customers)",
+      40
+    ],
+    [
+      "managing the cafe and assisting customers with their orders (welcoming customers as they enter)",
+      5
+    ],
+    [
+      "managing the cafe and assisting customers with their orders (taking orders from customers at the counter)",
+      25
+    ],
+    [
+      "managing the cafe and assisting customers with their orders (assisting customers with seating and answering questions about menu items)",
+      30
+    ],
+    [
+      "assisting customers and preparing lunch items for the cafe (greeting customers as they enter the cafe)",
+      5
+    ],
+    [
+      "assisting customers and preparing lunch items for the cafe (assisting customers by taking their orders)",
+      20
+    ],
+    [
+      "assisting customers and preparing lunch items for the cafe (preparing lunch items for the cafe)",
+      35
+    ],
+    [
+      "managing the cafe and assisting customers with their orders (on the way to greeting customers as they enter)",
+      0
+    ],
+    [
+      "managing the cafe and assisting customers with their orders (conversing about Isabella Rodriguez helping Tamara Taylor with her lunch order, discussing Tamara's new children's book series, and Isabella sharing her experience working at the cafe.)",
+      8
+    ],
+    [
+      "assisting customers and preparing lunch items for the cafe (preparing lunch items for the cafe)",
+      17
+    ],
+    [
+      "managing the cafe and assisting customers with their orders (on the way to managing the cafe's seating area)",
+      0
+    ],
+    [
+      "managing the cafe and assisting customers with their orders (conversing about Carlos attending a creative writing workshop, his progress on his projects, and Isabella sharing her experiences working at the cafe.)",
+      6
+    ],
+    [
+      "managing the cafe and assisting customers with their orders (checking on customers to ensure they are enjoying their meals)",
+      4
+    ],
+    [
+      "assisting customers and preparing lunch items for the cafe (1) [1]) Isabella is greeting customers as they enter the cafe)",
+      25
+    ],
+    [
+      "assisting customers and preparing lunch items for the cafe (is taking orders from customers)",
+      5
+    ],
+    [
+      "assisting customers and preparing lunch items for the cafe (is preparing lunch items for the cafe)",
+      10
+    ],
+    [
+      "assisting customers and preparing lunch items for the cafe (is helping customers find seats and assisting them with their needs)",
+      15
+    ],
+    [
+      "assisting customers and preparing lunch items for the cafe (is cleaning tables and maintaining the cafe's cleanliness)",
+      10
+    ],
+    [
+      "assisting customers and preparing lunch items for the cafe (on the way to is greeting customers and answering their inquiries)",
+      0
+    ],
+    [
+      "assisting customers and preparing lunch items for the cafe (conversing about Klaus Mueller's research on gentrification, and how it has affected the neighborhood around Hobbs Cafe, from the perspective of Isabella Rodriguez, the cafe owner.)",
+      8
+    ],
+    [
+      "assisting customers and preparing lunch items for the cafe (is tidying up the seating area and ensuring customer satisfaction)",
+      12
+    ],
+    [
+      "managing the cafe and assisting customers with their orders (on the way to greeting customers as they enter)",
+      0
+    ],
+    [
+      "managing the cafe and assisting customers with their orders (conversing about Giorgio and Isabella discussing mathematical patterns in nature, their applications, and how they can be applied to different aspects of life, including running a cafe and improving customer experiences.)",
+      9
+    ],
+    [
+      "managing the cafe and assisting customers with their orders (taking orders from customers at the counter)",
+      16
+    ],
+    [
+      "managing the cafe and assisting customers with their orders (on the way to preparing food and drinks for customers)",
+      0
+    ],
+    [
+      "managing the cafe and assisting customers with their orders (conversing about the application of mathematical patterns found in nature, such as the Fibonacci sequence and golden ratio, in enhancing customer experiences at a cafe through design, layout, and menu organization.)",
+      15
+    ],
+    [
+      "managing the cafe and assisting customers with their orders (on the way to handing out orders to customers)",
+      0
+    ],
+    [
+      "managing the cafe and assisting customers with their orders (conversing about applying mathematical patterns, such as the Fibonacci sequence and golden ratio, to enhance customer experiences at Hobbs Cafe by organizing menu items, cafe layout, and seating arrangements.)",
+      7
+    ],
+    [
+      "preparing for the Valentine's Day party by making decorations and arrangements for the cafe ([1]) Isabella is creating a decoration plan)",
+      13
+    ],
+    [
+      "preparing for the Valentine's Day party by making decorations and arrangements for the cafe (ordering Valentine's Day themed decorations)",
+      15
+    ],
+    [
+      "preparing for the Valentine's Day party by making decorations and arrangements for the cafe (setting up the cafe's decorations)",
+      15
+    ],
+    [
+      "managing the cafe and assisting customers with their orders (cleaning up the counter area)",
+      30
+    ],
+    [
+      "preparing for the Valentine's Day party by gathering party materials and confirming with suppliers (calling the flower supplier to order roses and decorative flowers)",
+      20
+    ],
+    [
+      "preparing for the Valentine's Day party by gathering party materials and confirming with suppliers (on the way to confirming with a local bakery for Valentine's themed pastries)",
+      0
+    ],
+    [
+      "preparing for the Valentine's Day party by gathering party materials and confirming with suppliers (conversing about Jane complimenting Isabella on her Valentine's Day party preparations, discussing decorations, seating arrangements, flowers, and the delicious menu.)",
+      4
+    ],
+    [
+      "preparing for the Valentine's Day party by gathering party materials and confirming with suppliers (purchasing tablecloths and tableware for the event)",
+      11
+    ],
+    [
+      "preparing for the Valentine's Day party by gathering party materials and confirming with suppliers (arranging delivery times for all materials to arrive at the cafe)",
+      10
+    ],
+    [
+      "preparing for the Valentine's Day party by creating a menu and selecting appropriate treats for the cafe (brainstorming ideas for the Valentine's Day menu)",
+      15
+    ],
+    [
+      "preparing for the Valentine's Day party by creating a menu and selecting appropriate treats for the cafe (making a list of potential treat options for the cafe)",
+      15
+    ],
+    [
+      "preparing for the Valentine's Day party by creating a menu and selecting appropriate treats for the cafe (contacting suppliers to confirm treat availability)",
+      20
+    ],
+    [
+      "preparing for the Valentine's Day party by creating a menu and selecting appropriate treats for the cafe (deciding on a final menu and treat selection)",
+      25
+    ],
+    [
+      "preparing for the Valentine's Day party by creating a menu and selecting appropriate treats for the cafe (making a shopping list for ingredients needed)",
+      15
+    ],
+    [
+      "preparing for the Valentine's Day party by creating a menu and selecting appropriate treats for the cafe (creating a pricing structure for the Valentine's Day menu)",
+      45
+    ],
+    [
+      "preparing dinner and discussing the Valentine's Day party plans with her staff (1) Isabella is selecting appropriate treats for the cafe)",
+      15
+    ],
+    [
+      "preparing dinner and discussing the Valentine's Day party plans with her staff (on the way to creating a menu for the Valentine's Day party)",
+      0
+    ],
+    [
+      "preparing dinner and discussing the Valentine's Day party plans with her staff (conversing about the planning of a Valentine's Day menu between Isabella Rodriguez and Wolfgang Schulz, discussing main dishes, desserts, additional dishes, and teamwork to ensure a memorable event for their customers.)",
+      7
+    ],
+    [
+      "preparing dinner and discussing the Valentine's Day party plans with her staff (discussing the Valentine's Day party menu with her staff)",
+      23
+    ],
+    [
+      "preparing dinner and discussing the Valentine's Day party plans with her staff (finalizing the Valentine's Day party decorations)",
+      30
+    ],
+    [
+      "preparing dinner and discussing the Valentine's Day party plans with her staff (discussing the Valentine's Day party logistics with her staff)",
+      15
+    ],
+    [
+      "preparing dinner and discussing the Valentine's Day party plans with her staff (conversing about the planning of a Valentine's Day menu between Isabella Rodriguez and Wolfgang Schulz, discussing main dishes, desserts, additional dishes, and teamwork to ensure a memorable event for their customers.)",
+      30
+    ],
+    [
+      "closing Hobbs Cafe for the day (turning off lights)",
+      5
+    ],
+    [
+      "closing Hobbs Cafe for the day (locking the doors)",
+      5
+    ],
+    [
+      "closing Hobbs Cafe for the day (checking the cash register and ensuring all money is secure)",
+      10
+    ],
+    [
+      "closing Hobbs Cafe for the day (counting the inventory of coffee beans and other supplies)",
+      10
+    ],
+    [
+      "closing Hobbs Cafe for the day (cleaning up any mess in the cafe)",
+      30
+    ],
+    [
+      "discussing the Valentine's Day party plans with her staff and finalizing the preparations ([1) Isabella is discussing the theme of the Valentine's Day party with her staff)",
+      5
+    ],
+    [
+      "discussing the Valentine's Day party plans with her staff and finalizing the preparations (asking for input from her staff on what decorations they think would best fit the theme)",
+      10
+    ],
+    [
+      "discussing the Valentine's Day party plans with her staff and finalizing the preparations (finalizing the party menu with her kitchen staff)",
+      15
+    ],
+    [
+      "discussing the Valentine's Day party plans with her staff and finalizing the preparations (organizing the tasks for each staff member to help prepare for the party)",
+      10
+    ],
+    [
+      "discussing the Valentine's Day party plans with her staff and finalizing the preparations (discussing any special requests from customers with her staff)",
+      20
+    ],
+    [
+      "planning and organizing her Valentine's Day party decorations and arrangements (discussing the party theme with her staff)",
+      5
+    ],
+    [
+      "planning and organizing her Valentine's Day party decorations and arrangements (selecting appropriate decorations for the party theme)",
+      10
+    ],
+    [
+      "planning and organizing her Valentine's Day party decorations and arrangements (making a list of necessary materials and equipment for decorating the cafe)",
+      10
+    ],
+    [
+      "planning and organizing her Valentine's Day party decorations and arrangements (assigning tasks to her staff for decorating the cafe)",
+      5
+    ],
+    [
+      "planning and organizing her Valentine's Day party decorations and arrangements (preparing and organizing the necessary materials for decorating the cafe)",
+      10
+    ],
+    [
+      "planning and organizing her Valentine's Day party decorations and arrangements (setting up the Valentine's Day party decorations at Hobbs Cafe)",
+      20
+    ],
+    [
+      "completing her evening routine and preparing for a good night's sleep (1) Isabella is turning off all electronics and dimming the lights)",
+      5
+    ],
+    [
+      "completing her evening routine and preparing for a good night's sleep (taking a relaxing bath to unwind)",
+      10
+    ],
+    [
+      "completing her evening routine and preparing for a good night's sleep (doing her skincare routine)",
+      10
+    ],
+    [
+      "completing her evening routine and preparing for a good night's sleep (arranging her clothes and accessories for the next day)",
+      5
+    ],
+    [
+      "completing her evening routine and preparing for a good night's sleep (brushing her teeth and washing her face)",
+      30
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "completing her morning routine and preparing to open Hobbs Cafe",
+      60
+    ],
+    [
+      "preparing breakfast items and setting up Hobbs Cafe for the day",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and welcoming customers",
+      60
+    ],
+    [
+      "managing the cafe and assisting customers with their orders",
+      60
+    ],
+    [
+      "assisting customers and preparing lunch items for the cafe",
+      60
+    ],
+    [
+      "managing the cafe and assisting customers with their orders",
+      60
+    ],
+    [
+      "assisting customers and preparing lunch items for the cafe",
+      60
+    ],
+    [
+      "managing the cafe and assisting customers with their orders",
+      60
+    ],
+    [
+      "preparing for the Valentine's Day party by making decorations and arrangements for the cafe",
+      60
+    ],
+    [
+      "preparing for the Valentine's Day party by gathering party materials and confirming with suppliers",
+      60
+    ],
+    [
+      "preparing for the Valentine's Day party by creating a menu and selecting appropriate treats for the cafe",
+      120
+    ],
+    [
+      "preparing dinner and discussing the Valentine's Day party plans with her staff",
+      120
+    ],
+    [
+      "closing Hobbs Cafe for the day",
+      60
+    ],
+    [
+      "discussing the Valentine's Day party plans with her staff and finalizing the preparations",
+      60
+    ],
+    [
+      "planning and organizing her Valentine's Day party decorations and arrangements",
+      60
+    ],
+    [
+      "completing her evening routine and preparing for a good night's sleep",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:bathroom:bathroom sink",
+  "act_start_time": "February 13, 2023, 23:32:00",
+  "act_duration": 30,
+  "act_description": "completing her evening routine and preparing for a good night's sleep (brushing her teeth and washing her face)",
+  "act_pronunciatio": "\ud83e\uddb7\ud83e\udd64",
+  "act_event": [
+    "Isabella Rodriguez",
+    "brush",
+    "teeth"
+  ],
+  "act_obj_description": "Step 1. Isabella Rodriguez is at/using the completing her evening routine and preparing for a good night's sleep (brushing her teeth and washing her face).\nStep 2. Describe the bathroom sink's state: bathroom sink is being used to rinse toothpaste and facial cleanser, with water running and being drained",
+  "act_obj_pronunciatio": "\ud83e\uddb7\ud83d\udca7",
+  "act_obj_event": [
+    "bathroom sink",
+    "used for rinsing",
+    "toothpaste and facial cleanser"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Tamara Taylor": 22,
+    "Carlos Gomez": 34,
+    "Klaus Mueller": 119,
+    "Giorgio Rossi": 146,
+    "Yuriko Yamamoto": 166,
+    "Tom Moreno": 182,
+    "Jane Moreno": 279,
+    "Wolfgang Schulz": 454
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

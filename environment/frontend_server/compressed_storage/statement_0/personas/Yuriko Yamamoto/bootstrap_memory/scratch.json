@@ -1,0 +1,672 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    28,
+    65
+  ],
+  "daily_plan_req": "",
+  "name": "Yuriko Yamamoto",
+  "first_name": "Yuriko",
+  "last_name": "Yamamoto",
+  "age": 28,
+  "innate": "organized, reliable, detail-oriented",
+  "learned": "Yuriko Yamamoto is a tax lawyer who loves to help people navigate the complex world of taxes. She is very organized and detail-oriented when it comes to her work.",
+  "currently": "Yuriko Yamamoto is working on a tax compliance project for a local business. She is also taking classes to stay up to date on new tax laws. Yuriko is also curious about who will be running for the local mayor election next month.",
+  "lifestyle": "Yuriko Yamamoto goes to bed around 11pm, awakes up around 7am, eats dinner around 6pm.",
+  "living_area": "the Ville:Yuriko Yamamoto's house:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 106,
+  "importance_ele_n": 97,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "",
+    "have breakfast at 8:00 am",
+    "start work on the tax compliance project for the local business at 9:00 am",
+    "take a lunch break at 12:00 pm",
+    "attend classes to stay up to date on new tax laws from 1:00 pm to 3:00 pm",
+    "work on the tax compliance project again from 3:00 pm to 5:00 pm",
+    "have dinner at 6:00 pm",
+    "relax and watch TV from 7:00 pm to 8:00 pm",
+    "research information about the local mayor election candidates from 8:00 pm to 9:00 pm, and finally, 1",
+    "go to bed at 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing her morning routine (1) Yuriko is washing her face)",
+      5
+    ],
+    [
+      "completing her morning routine (showering)",
+      10
+    ],
+    [
+      "completing her morning routine (doing a quick skincare routine)",
+      5
+    ],
+    [
+      "completing her morning routine (getting dressed)",
+      5
+    ],
+    [
+      "completing her morning routine (doing a quick tidy up of her room)",
+      35
+    ],
+    [
+      "having breakfast (brewing coffee)",
+      5
+    ],
+    [
+      "having breakfast (preparing a healthy breakfast)",
+      10
+    ],
+    [
+      "having breakfast (setting the table)",
+      5
+    ],
+    [
+      "having breakfast (enjoying her breakfast)",
+      20
+    ],
+    [
+      "having breakfast (cleaning up after breakfast)",
+      20
+    ],
+    [
+      "working on the tax compliance project for the local business (1) Yuriko is reviewing the tax compliance requirements for the local business)",
+      15
+    ],
+    [
+      "working on the tax compliance project for the local business (researching the necessary documentation and forms required)",
+      30
+    ],
+    [
+      "working on the tax compliance project for the local business (organizing her working materials and notes)",
+      15
+    ],
+    [
+      "attending classes to stay up to date on new tax laws (1) Yuriko is logging into the online class)",
+      5
+    ],
+    [
+      "attending classes to stay up to date on new tax laws (taking notes on the new tax laws discussed)",
+      30
+    ],
+    [
+      "attending classes to stay up to date on new tax laws (on the way to participating in the discussion by asking questions and sharing her thoughts)",
+      0
+    ],
+    [
+      "attending classes to stay up to date on new tax laws (conversing about Yuriko invites Tamara to join her for a tax law class, which could be helpful for both understanding the impact of tax changes on characters or businesses in Tamara's children's book project and for Tamara personally as an author running a small business.)",
+      6
+    ],
+    [
+      "attending classes to stay up to date on new tax laws (continuing the discussion by asking questions and sharing her thoughts)",
+      19
+    ],
+    [
+      "taking a lunch break (1) Yuriko is ordering her favorite sushi for takeout",
+      10
+    ],
+    [
+      "taking a lunch break (waiting for the food to be ready)",
+      5
+    ],
+    [
+      "taking a lunch break (eating her sushi while catching up on news articles)",
+      20
+    ],
+    [
+      "taking a lunch break (taking a short walk around the block to clear her mind)",
+      15
+    ],
+    [
+      "taking a lunch break (relaxing and enjoying a dessert from a nearby bakery)",
+      10
+    ],
+    [
+      "taking a lunch break (responding to work-related emails on her phone)",
+      10
+    ],
+    [
+      "taking a lunch break (on the way to making plans for the evening with friends and conversing about Yuriko Yamamoto and Klaus Mueller discussing the importance of local elections, their observations on candidates' priorities, and how staying informed and participating in these events can contribute to the growth and prosperity of their town.)",
+      40
+    ],
+    [
+      "taking a lunch break (on the way to finalizing plans for the evening with friends)",
+      10
+    ],
+    [
+      "taking a lunch break (conversing about Yuriko and Tom discussing their interest in the local mayoral election, attending candidate forums, events, and seeking information to make an informed decision on which candidate to support.)",
+      8
+    ],
+    [
+      "working on the tax compliance project for the local business (on the way to reviewing the client's financial documents)",
+      0
+    ],
+    [
+      "working on the tax compliance project for the local business (conversing about the various ways mathematics is applied across fields like nature, art, literature, and architecture, with a focus on its interconnectedness and the beauty it brings to these disciplines.)",
+      13
+    ],
+    [
+      "working on the tax compliance project for the local business (1) Yuriko is reviewing the client's financial documents",
+      7
+    ],
+    [
+      "working on the tax compliance project for the local business (reviewing the client's financial documents and making notes)",
+      40
+    ],
+    [
+      "working on the tax compliance project for the local business (organizing the documents and taking notes)",
+      50
+    ],
+    [
+      "working on the tax compliance project for the local business (researching relevant tax laws and regulations)",
+      45
+    ],
+    [
+      "working on the tax compliance project for the local business (analyzing the client's financial transactions for tax implications) (reviewing the client's financial transactions)",
+      15
+    ],
+    [
+      "working on the tax compliance project for the local business (analyzing the client's financial transactions for tax implications) (categorizing the transactions based on tax implications)",
+      30
+    ],
+    [
+      "working on the tax compliance project for the local business (analyzing the client's financial transactions for tax implications) (analyzing the categories for potential tax savings or liabilities)",
+      15
+    ],
+    [
+      "working on the tax compliance project for the local business (drafting the tax compliance report) (1) Yuriko is gathering all the necessary documents for the tax compliance project)",
+      20
+    ],
+    [
+      "working on the tax compliance project for the local business (drafting the tax compliance report) (organizing the documents into categories)",
+      15
+    ],
+    [
+      "working on the tax compliance project for the local business (on the way to reviewing the documents for accuracy and completeness)",
+      0
+    ],
+    [
+      "working on the tax compliance project for the local business (conversing about tax compliance and the importance of ensuring local businesses remain compliant with tax laws, with Yuriko discussing her enjoyment in organizing the project.)",
+      6
+    ],
+    [
+      "working on the tax compliance project for the local business (drafting the tax compliance report) (drafting the tax compliance report)",
+      14
+    ],
+    [
+      "working on the tax compliance project for the local business (conversing about tax compliance and the importance of ensuring local businesses remain compliant with tax laws, with Yuriko discussing her enjoyment in organizing the project.)",
+      22
+    ],
+    [
+      "having dinner (1) Yuriko is selecting a recipe for dinner)",
+      5
+    ],
+    [
+      "having dinner (gathering ingredients and utensils needed for cooking)",
+      10
+    ],
+    [
+      "having dinner (preparing the ingredients for the dish)",
+      15
+    ],
+    [
+      "having dinner (cooking the meal)",
+      20
+    ],
+    [
+      "having dinner (setting the table and getting ready to eat)",
+      10
+    ],
+    [
+      "relaxing and watching TV (2) Yuriko is selecting a TV show to watch)",
+      5
+    ],
+    [
+      "relaxing and watching TV (watching the TV show)",
+      20
+    ],
+    [
+      "relaxing and watching TV (taking short breaks between episodes)",
+      10
+    ],
+    [
+      "relaxing and watching TV (reflecting on her day while relaxing)",
+      25
+    ],
+    [
+      "researching information about the local mayor election candidates (searching for information about the local mayor election candidates)",
+      15
+    ],
+    [
+      "researching information about the local mayor election candidates (comparing the platforms of different candidates)",
+      30
+    ],
+    [
+      "researching information about the local mayor election candidates (taking notes on each candidate's stance on key issues)",
+      15
+    ],
+    [
+      "taking a relaxing bath before bedtime (1) Yuriko is turning on the bath water)",
+      5
+    ],
+    [
+      "taking a relaxing bath before bedtime (adding bath salts for relaxation)",
+      5
+    ],
+    [
+      "taking a relaxing bath before bedtime (adjusting the water temperature)",
+      5
+    ],
+    [
+      "taking a relaxing bath before bedtime (filling up the bathtub)",
+      10
+    ],
+    [
+      "taking a relaxing bath before bedtime (undressing and getting ready to enter the bathtub)",
+      5
+    ],
+    [
+      "taking a relaxing bath before bedtime (entering the bathtub and relaxing)",
+      30
+    ],
+    [
+      "preparing for bed and reading a book (1) Yuriko is turning down the lights)",
+      5
+    ],
+    [
+      "preparing for bed and reading a book (putting away electronic devices)",
+      5
+    ],
+    [
+      "preparing for bed and reading a book (choosing a book to read)",
+      5
+    ],
+    [
+      "preparing for bed and reading a book (setting her alarm clock)",
+      5
+    ],
+    [
+      "preparing for bed and reading a book (making sure her room is comfortable for sleep)",
+      10
+    ],
+    [
+      "preparing for bed and reading a book (brushing her teeth and washing her face)",
+      10
+    ],
+    [
+      "preparing for bed and reading a book (putting on her pajamas)",
+      5
+    ],
+    [
+      "preparing for bed and reading a book (getting into bed)",
+      15
+    ],
+    [
+      "asleep",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -8
+    ],
+    [
+      "sleeping",
+      8
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing her morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "working on the tax compliance project for the local business",
+      60
+    ],
+    [
+      "attending classes to stay up to date on new tax laws",
+      60
+    ],
+    [
+      "taking a lunch break",
+      120
+    ],
+    [
+      "working on the tax compliance project for the local business",
+      300
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "relaxing and watching TV",
+      60
+    ],
+    [
+      "researching information about the local mayor election candidates",
+      60
+    ],
+    [
+      "taking a relaxing bath before bedtime",
+      60
+    ],
+    [
+      "preparing for bed and reading a book",
+      60
+    ],
+    [
+      "asleep",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Yuriko Yamamoto's house:main room:bed",
+  "act_start_time": "February 13, 2023, 23:00:00",
+  "act_duration": 60,
+  "act_description": "asleep",
+  "act_pronunciatio": "\ud83d\udca4",
+  "act_event": [
+    "Yuriko Yamamoto",
+    "asleep",
+    "null"
+  ],
+  "act_obj_description": "making is being used for sleeping",
+  "act_obj_pronunciatio": "\ud83d\udca4",
+  "act_obj_event": [
+    "bed",
+    "used for",
+    "sleeping"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Tamara Taylor": -17,
+    "Klaus Mueller": 125,
+    "Tom Moreno": 142,
+    "Giorgio Rossi": 155,
+    "Jane Moreno": 389
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

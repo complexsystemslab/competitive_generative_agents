@@ -1,0 +1,1114 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    76,
+    31
+  ],
+  "daily_plan_req": "",
+  "name": "Yuriko Yamamoto",
+  "first_name": "Yuriko",
+  "last_name": "Yamamoto",
+  "age": 28,
+  "innate": "organized, reliable, detail-oriented",
+  "learned": "Yuriko Yamamoto is a tax lawyer who loves to help people navigate the complex world of taxes. She is very organized and detail-oriented when it comes to her work.",
+  "currently": "Yuriko Yamamoto is working on a tax compliance project for a local business. She is also taking classes to stay up to date on new tax laws. Yuriko is also curious about who will be running for the local mayor election next month.",
+  "lifestyle": "Yuriko Yamamoto goes to bed around 11pm, awakes up around 7am, eats dinner around 6pm.",
+  "living_area": "the Ville:Yuriko Yamamoto's house:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 27,
+  "importance_ele_n": 118,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "",
+    "eat breakfast at 8:00 am",
+    "start work on the tax compliance project for the local business at 9:00 am",
+    "take a short break and have a coffee at 10:30 am",
+    "continue working on the tax compliance project until lunch at 12:00 pm",
+    "eat lunch at 1:00 pm",
+    "attend a tax law class from 2:00 pm to 4:00 pm to stay up to date on new tax laws",
+    "research information about the local mayor election candidates in the evening from 5:00 pm to 6:00 pm, and",
+    "have dinner at 6:00 pm. Finally, Yuriko will unwind by watching TV from 7:00 pm to 8:00 pm before going to bed at her usual time of 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing her morning routine and preparing to start her day (washing her face)",
+      5
+    ],
+    [
+      "completing her morning routine and preparing to start her day (taking a quick shower)",
+      10
+    ],
+    [
+      "completing her morning routine and preparing to start her day (drying off and putting on her robe)",
+      5
+    ],
+    [
+      "completing her morning routine and preparing to start her day (making her bed)",
+      5
+    ],
+    [
+      "completing her morning routine and preparing to start her day (picking out her outfit for the day)",
+      10
+    ],
+    [
+      "completing her morning routine and preparing to start her day (putting on her outfit and accessories)",
+      5
+    ],
+    [
+      "completing her morning routine and preparing to start her day (grabbing her work bag and lunch)",
+      5
+    ],
+    [
+      "completing her morning routine and preparing to start her day (checking the weather and preparing any necessary items for the day)",
+      15
+    ],
+    [
+      "eating breakfast (washing her hands)",
+      5
+    ],
+    [
+      "eating breakfast (setting the table)",
+      5
+    ],
+    [
+      "eating breakfast (preparing her breakfast)",
+      15
+    ],
+    [
+      "eating breakfast (sitting down to eat)",
+      5
+    ],
+    [
+      "eating breakfast (eating her meal)",
+      20
+    ],
+    [
+      "eating breakfast (cleaning up the table)",
+      10
+    ],
+    [
+      "working on the tax compliance project for the local business (reading through the provided financial documents)",
+      25
+    ],
+    [
+      "working on the tax compliance project for the local business (organizing the financial data into categories)",
+      15
+    ],
+    [
+      "working on the tax compliance project for the local business (researching relevant tax laws and regulations)",
+      10
+    ],
+    [
+      "working on the tax compliance project for the local business (analyzing the data to identify potential tax compliance issues)",
+      10
+    ],
+    [
+      "taking a short break and having a coffee (making a cup of coffee)",
+      5
+    ],
+    [
+      "taking a short break and having a coffee (checking her social media on her phone)",
+      10
+    ],
+    [
+      "taking a short break and having a coffee (on the way to taking a short walk around the block)",
+      0
+    ],
+    [
+      "taking a short break and having a coffee (conversing about Yuriko Yamamoto and Carlos Gomez discussing their breakfast choices, the benefits of green tea, and Yuriko's interest in tax law.)",
+      9
+    ],
+    [
+      "taking a short break and having a coffee (taking a short walk around the block)",
+      6
+    ],
+    [
+      "taking a short break and having a coffee (sitting down and enjoying her coffee)",
+      30
+    ],
+    [
+      "working on her tax compliance project for the local business (1) Yuriko is reviewing the client's financial records)",
+      15
+    ],
+    [
+      "working on her tax compliance project for the local business (on the way to analyzing the tax implications of various transactions)",
+      0
+    ],
+    [
+      "working on her tax compliance project for the local business (conversing about Giorgio and Yuriko discussing their respective projects, with both finding them rewarding despite facing challenges, and acknowledging the interdisciplinary applications of their work.)",
+      8
+    ],
+    [
+      "working on her tax compliance project for the local business (analyzing the tax implications of various transactions)",
+      22
+    ],
+    [
+      "working on her tax compliance project for the local business (organizing her thoughts and creating an outline for the compliance report)",
+      15
+    ],
+    [
+      "eating lunch (checking her email)",
+      5
+    ],
+    [
+      "eating lunch (looking through her lunch options)",
+      5
+    ],
+    [
+      "eating lunch (preparing her lunch)",
+      10
+    ],
+    [
+      "eating lunch (eating her lunch)",
+      20
+    ],
+    [
+      "eating lunch (on the way to cleaning up after herself)",
+      0
+    ],
+    [
+      "eating lunch (conversing about The conversation between Tamara Taylor and Yuriko Yamamoto revolves around their busy schedules, maintaining work-life balance, sharing favorite books and authors, and discussing the impact of certain books on their outlook and personal growth.)",
+      16
+    ],
+    [
+      "attending a tax law class from 2:00 pm to 4:00 pm to stay up to date on new tax laws (on the way to preparing her notes for the class)",
+      0
+    ],
+    [
+      "attending a tax law class from 2:00 pm to 4:00 pm to stay up to date on new tax laws (conversing about Klaus and Yuriko discussing their favorite books and authors that have inspired them, focusing on themes such as individualism, self-reliance, personal finance, and finding purpose.)",
+      4
+    ],
+    [
+      "attending a tax law class from 2:00 pm to 4:00 pm to stay up to date on new tax laws (preparing her notes for the class)",
+      5
+    ],
+    [
+      "attending a tax law class from 2:00 pm to 4:00 pm to stay up to date on new tax laws (on the way to checking her email for any updates on the class topic)",
+      0
+    ],
+    [
+      "attending a tax law class from 2:00 pm to 4:00 pm to stay up to date on new tax laws (conversing about work-life balance, personal finance, and the impact of various books on their outlook.)",
+      6
+    ],
+    [
+      "revised schedule ends here.",
+      49
+    ],
+    [
+      "researching information about the local mayor election candidates (on the way to 1) Yuriko is searching for reliable sources on the local mayor election candidates)",
+      0
+    ],
+    [
+      "researching information about the local mayor election candidates (conversing about the application of mathematical patterns found in nature, such as the Fibonacci sequence and golden ratio, in enhancing customer experiences at a cafe through design, layout, and menu organization.)",
+      15
+    ],
+    [
+      "researching information about the local mayor election candidates (compiling a list of the main candidates and their platforms)",
+      15
+    ],
+    [
+      "researching information about the local mayor election candidates (researching each candidate's background and past achievements)",
+      15
+    ],
+    [
+      "researching information about the local mayor election candidates (comparing the candidates based on their proposed solutions for local issues)",
+      15
+    ],
+    [
+      "working on her tax compliance project for the local business ([1]) Yuriko is reviewing the client's financial records)",
+      15
+    ],
+    [
+      "working on her tax compliance project for the local business (organizing the data into categories)",
+      15
+    ],
+    [
+      "working on her tax compliance project for the local business (analyzing the client's tax liabilities)",
+      15
+    ],
+    [
+      "working on her tax compliance project for the local business (on the way to drafting a tax compliance report)",
+      0
+    ],
+    [
+      "working on her tax compliance project for the local business (conversing about Yuriko Yamamoto and Carmen Ortiz discussing their respective careers in tax law and working at Harvey Oak Supply Store, as well as how they balance their personal interests like creative writing workshops, while also finding synergies and influences between their work and personal pursuits.)",
+      14
+    ],
+    [
+      "attending a tax law class from 4:00 pm to 6:00 pm to stay up to date on new tax laws (1) Yuriko is setting up her study area for the class)",
+      5
+    ],
+    [
+      "attending a tax law class from 4:00 pm to 6:00 pm to stay up to date on new tax laws (logging into the online platform for the tax law class)",
+      5
+    ],
+    [
+      "attending a tax law class from 4:00 pm to 6:00 pm to stay up to date on new tax laws (reviewing the course materials before the class starts)",
+      10
+    ],
+    [
+      "attending a tax law class from 4:00 pm to 6:00 pm to stay up to date on new tax laws (law class begins and Yuriko is listening to the lecture)",
+      25
+    ],
+    [
+      "attending a tax law class from 4:00 pm to 6:00 pm to stay up to date on new tax laws (taking notes during the lecture)",
+      15
+    ],
+    [
+      "preparing dinner and eating it around 6pm (planning what to cook for dinner)",
+      15
+    ],
+    [
+      "preparing dinner and eating it around 6pm (gathering ingredients and utensils needed for the meal)",
+      10
+    ],
+    [
+      "preparing dinner and eating it around 6pm (cooking the meal)",
+      20
+    ],
+    [
+      "preparing dinner and eating it around 6pm (setting the table)",
+      5
+    ],
+    [
+      "preparing dinner and eating it around 6pm (serving the meal)",
+      10
+    ],
+    [
+      "watching TV before going to bed at her usual time of 11:00 pm (switching on the TV)",
+      5
+    ],
+    [
+      "watching TV before going to bed at her usual time of 11:00 pm (browsing through channels to find a show she likes)",
+      10
+    ],
+    [
+      "watching TV before going to bed at her usual time of 11:00 pm (making herself comfortable on the couch)",
+      5
+    ],
+    [
+      "watching TV before going to bed at her usual time of 11:00 pm (watching her chosen TV show)",
+      20
+    ],
+    [
+      "watching TV before going to bed at her usual time of 11:00 pm (snacking while watching TV)",
+      10
+    ],
+    [
+      "watching TV before going to bed at her usual time of 11:00 pm (turning off the TV and preparing for bed)",
+      10
+    ],
+    [
+      "preparing dinner and eating it around 6pm (1) Yuriko is selecting a recipe to cook)",
+      10
+    ],
+    [
+      "preparing dinner and eating it around 6pm (gathering ingredients and necessary kitchen tools)",
+      10
+    ],
+    [
+      "preparing dinner and eating it around 6pm (cooking the main dish)",
+      15
+    ],
+    [
+      "preparing dinner and eating it around 6pm (setting the table)",
+      5
+    ],
+    [
+      "preparing dinner and eating it around 6pm (serving the food)",
+      20
+    ],
+    [
+      "working on her tax compliance project for the local business (reading the client's financial statements)",
+      15
+    ],
+    [
+      "working on her tax compliance project for the local business (identifying any discrepancies or errors)",
+      30
+    ],
+    [
+      "working on her tax compliance project for the local business (researching the correct tax laws and regulations)",
+      30
+    ],
+    [
+      "working on her tax compliance project for the local business (analyzing the client's transactions and deductions)",
+      30
+    ],
+    [
+      "working on her tax compliance project for the local business (drafting her analysis and recommendations)",
+      15
+    ],
+    [
+      "preparing dinner and eating it around 6pm (1) [12)] Yuriko is deciding what to cook for dinner)",
+      5
+    ],
+    [
+      "preparing dinner and eating it around 6pm (is checking her fridge and pantry for available ingredients)",
+      5
+    ],
+    [
+      "preparing dinner and eating it around 6pm (is planning the meal according to the ingredients she has)",
+      10
+    ],
+    [
+      "preparing dinner and eating it around 6pm (is preparing the ingredients for the chosen recipe)",
+      40
+    ],
+    [
+      "going to bed at her usual time (cleaning up the kitchen)",
+      10
+    ],
+    [
+      "going to bed at her usual time (preparing her dinner)",
+      30
+    ],
+    [
+      "going to bed at her usual time (eating her dinner)",
+      20
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      1
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing her morning routine and preparing to start her day",
+      60
+    ],
+    [
+      "eating breakfast",
+      60
+    ],
+    [
+      "working on the tax compliance project for the local business",
+      60
+    ],
+    [
+      "taking a short break and having a coffee",
+      60
+    ],
+    [
+      "working on her tax compliance project for the local business",
+      60
+    ],
+    [
+      "eating lunch",
+      60
+    ],
+    [
+      "attending a tax law class from 2:00 pm to 4:00 pm to stay up to date on new tax laws",
+      60
+    ],
+    [
+      "researching information about the local mayor election candidates",
+      60
+    ],
+    [
+      "working on her tax compliance project for the local business",
+      60
+    ],
+    [
+      "attending a tax law class from 4:00 pm to 6:00 pm to stay up to date on new tax laws",
+      60
+    ],
+    [
+      "preparing dinner and eating it around 6pm",
+      60
+    ],
+    [
+      "watching TV before going to bed at her usual time of 11:00 pm",
+      60
+    ],
+    [
+      "preparing dinner and eating it around 6pm",
+      60
+    ],
+    [
+      "working on her tax compliance project for the local business",
+      120
+    ],
+    [
+      "preparing dinner and eating it around 6pm",
+      60
+    ],
+    [
+      "going to bed at her usual time",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Yuriko Yamamoto's house:main room:bed",
+  "act_start_time": "February 13, 2023, 23:59:00",
+  "act_duration": 1,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\ude34\ud83d\udca4",
+  "act_event": [
+    "Yuriko Yamamoto",
+    "sleep",
+    "sleeping"
+  ],
+  "act_obj_description": "Step 2. Describe the bed's state: bed is being used for sleeping",
+  "act_obj_pronunciatio": "\ud83d\udecf\ufe0f\ud83d\udca4",
+  "act_obj_event": [
+    "bed",
+    "state",
+    "used for sleeping"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Carlos Gomez": -25,
+    "Giorgio Rossi": 28,
+    "Tamara Taylor": 120,
+    "Klaus Mueller": 136,
+    "Tom Moreno": 145,
+    "Isabella Rodriguez": 166,
+    "Carmen Ortiz": 315
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      74,
+      31
+    ],
+    [
+      73,
+      31
+    ],
+    [
+      72,
+      31
+    ],
+    [
+      71,
+      31
+    ],
+    [
+      70,
+      31
+    ],
+    [
+      69,
+      31
+    ],
+    [
+      68,
+      31
+    ],
+    [
+      67,
+      31
+    ],
+    [
+      66,
+      31
+    ],
+    [
+      65,
+      31
+    ],
+    [
+      64,
+      31
+    ],
+    [
+      63,
+      31
+    ],
+    [
+      62,
+      31
+    ],
+    [
+      61,
+      31
+    ],
+    [
+      60,
+      31
+    ],
+    [
+      59,
+      31
+    ],
+    [
+      58,
+      31
+    ],
+    [
+      57,
+      31
+    ],
+    [
+      56,
+      31
+    ],
+    [
+      55,
+      31
+    ],
+    [
+      54,
+      31
+    ],
+    [
+      53,
+      31
+    ],
+    [
+      52,
+      31
+    ],
+    [
+      51,
+      31
+    ],
+    [
+      50,
+      31
+    ],
+    [
+      49,
+      31
+    ],
+    [
+      48,
+      31
+    ],
+    [
+      47,
+      31
+    ],
+    [
+      46,
+      31
+    ],
+    [
+      45,
+      31
+    ],
+    [
+      44,
+      31
+    ],
+    [
+      44,
+      32
+    ],
+    [
+      43,
+      32
+    ],
+    [
+      42,
+      32
+    ],
+    [
+      41,
+      32
+    ],
+    [
+      41,
+      33
+    ],
+    [
+      41,
+      34
+    ],
+    [
+      41,
+      35
+    ],
+    [
+      41,
+      36
+    ],
+    [
+      40,
+      36
+    ],
+    [
+      39,
+      36
+    ],
+    [
+      38,
+      36
+    ],
+    [
+      38,
+      37
+    ],
+    [
+      38,
+      38
+    ],
+    [
+      38,
+      39
+    ],
+    [
+      38,
+      40
+    ],
+    [
+      38,
+      41
+    ],
+    [
+      38,
+      42
+    ],
+    [
+      38,
+      43
+    ],
+    [
+      38,
+      44
+    ],
+    [
+      37,
+      44
+    ],
+    [
+      36,
+      44
+    ],
+    [
+      36,
+      45
+    ],
+    [
+      35,
+      45
+    ],
+    [
+      34,
+      45
+    ],
+    [
+      33,
+      45
+    ],
+    [
+      33,
+      46
+    ],
+    [
+      33,
+      47
+    ],
+    [
+      33,
+      48
+    ],
+    [
+      33,
+      49
+    ],
+    [
+      32,
+      49
+    ],
+    [
+      31,
+      49
+    ],
+    [
+      30,
+      49
+    ],
+    [
+      30,
+      50
+    ],
+    [
+      30,
+      51
+    ],
+    [
+      30,
+      52
+    ],
+    [
+      30,
+      53
+    ],
+    [
+      30,
+      54
+    ],
+    [
+      30,
+      55
+    ],
+    [
+      30,
+      56
+    ],
+    [
+      30,
+      57
+    ],
+    [
+      30,
+      58
+    ],
+    [
+      30,
+      59
+    ],
+    [
+      30,
+      60
+    ],
+    [
+      30,
+      61
+    ],
+    [
+      30,
+      62
+    ],
+    [
+      30,
+      63
+    ],
+    [
+      30,
+      64
+    ],
+    [
+      30,
+      65
+    ],
+    [
+      29,
+      65
+    ]
+  ]
+}

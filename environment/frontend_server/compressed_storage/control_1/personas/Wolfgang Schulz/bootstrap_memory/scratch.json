@@ -1,0 +1,640 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    107,
+    57
+  ],
+  "daily_plan_req": "Wolfgang Schulz goes for a run at the part in the morning, studies during the day, and exercises at his room at night ",
+  "name": "Wolfgang Schulz",
+  "first_name": "Wolfgang",
+  "last_name": "Schulz",
+  "age": 21,
+  "innate": "Hardworking, passionate, dedicated",
+  "learned": "Wolfgang Schulz is a student at Oak Hill College studying chemistry and a student athlete. He is very dedicated to both his academics and his sport.",
+  "currently": "Wolfgang Schulz is training for his next competition and studying for his exams. He is also looking for ways to make his studies more efficient.",
+  "lifestyle": "Wolfgang Schulz goes to bed around 9pm, awakes up around 5am, eats dinner around 6pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Wolfgang Schulz's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 90,
+  "importance_ele_n": 65,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 5:00 am",
+    "go for a run at 6:00 am",
+    "study until lunch at 12:00 pm",
+    "have lunch at 12:30 pm",
+    "continue studying until dinner at 6:00 pm",
+    "exercise in his room from 7:00 to 8:00 pm, and",
+    "go to bed at 9:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      300
+    ],
+    [
+      "completing his morning routine (showering)",
+      5
+    ],
+    [
+      "completing his morning routine (dressing up)",
+      5
+    ],
+    [
+      "completing his morning routine (preparing breakfast)",
+      5
+    ],
+    [
+      "completing his morning routine (eating breakfast)",
+      45
+    ],
+    [
+      "going for a run at Oak Hill Park (putting on his running gear)",
+      5
+    ],
+    [
+      "going for a run at Oak Hill Park (stretching before the run)",
+      5
+    ],
+    [
+      "going for a run at Oak Hill Park (warming up with a light jog)",
+      10
+    ],
+    [
+      "going for a run at Oak Hill Park (increasing his pace for cardio exercise)",
+      15
+    ],
+    [
+      "going for a run at Oak Hill Park (cooling down with a slow jog)",
+      5
+    ],
+    [
+      "going for a run at Oak Hill Park (stretching again after the run)",
+      5
+    ],
+    [
+      "going for a run at Oak Hill Park (hydrating and refueling with a snack)",
+      15
+    ],
+    [
+      "studying (reviewing his class notes)",
+      5
+    ],
+    [
+      "studying (doing practice problems from the textbook)",
+      15
+    ],
+    [
+      "studying (watching lecture videos to reinforce concepts)",
+      20
+    ],
+    [
+      "studying (summarizing his understanding of the material in a study guide)",
+      20
+    ],
+    [
+      "having breakfast (getting his ingredients and utensils ready)",
+      5
+    ],
+    [
+      "having breakfast (cooking his breakfast meal)",
+      10
+    ],
+    [
+      "having breakfast (eating his breakfast meal)",
+      20
+    ],
+    [
+      "having breakfast (cleaning up after his meal)",
+      25
+    ],
+    [
+      "studying ([n]) Wolfgang is reviewing his notes)",
+      15
+    ],
+    [
+      "studying (working on chemistry problems)",
+      30
+    ],
+    [
+      "studying (reading the textbook)",
+      30
+    ],
+    [
+      "studying (taking notes while watching lecture videos)",
+      30
+    ],
+    [
+      "studying (reviewing past exams)",
+      25
+    ],
+    [
+      "studying (practicing flashcards)",
+      15
+    ],
+    [
+      "studying (summarizing his notes from the day)",
+      10
+    ],
+    [
+      "studying (doing a quick online quiz)",
+      5
+    ],
+    [
+      "studying (reviewing his study plan for the week)",
+      20
+    ],
+    [
+      "having lunch at Oak Hill Dining Hall (walking to the Oak Hill Dining Hall)",
+      5
+    ],
+    [
+      "having lunch at Oak Hill Dining Hall (waiting in line at the dining hall)",
+      5
+    ],
+    [
+      "having lunch at Oak Hill Dining Hall (selecting his meal at the serving stations)",
+      10
+    ],
+    [
+      "having lunch at Oak Hill Dining Hall (eating his lunch)",
+      20
+    ],
+    [
+      "having lunch at Oak Hill Dining Hall (finishing up his meal and clearing his table)",
+      5
+    ],
+    [
+      "having lunch at Oak Hill Dining Hall (on the way to walking back to his room after lunch)",
+      0
+    ],
+    [
+      "having lunch at Oak Hill Dining Hall (conversing about Klaus Mueller and Wolfgang Schulz discussing their experiences and activities at Oak Hill College, including academics, sports, research, and extracurricular involvement.)",
+      10
+    ],
+    [
+      "studying (reviewing his lecture notes)",
+      5
+    ],
+    [
+      "studying (making flashcards to help memorize key concepts)",
+      15
+    ],
+    [
+      "studying (working on chemistry problems from his textbook)",
+      30
+    ],
+    [
+      "studying (watching a video lecture to supplement his understanding)",
+      45
+    ],
+    [
+      "studying (taking a short break to stretch and relax)",
+      20
+    ],
+    [
+      "studying (revisiting difficult concepts from the textbook)",
+      30
+    ],
+    [
+      "studying (practicing past exam questions to improve his test-taking skills)",
+      50
+    ],
+    [
+      "studying (reviewing his notes from the previous day's lecture)",
+      20
+    ],
+    [
+      "studying (summarizing his understanding of the chapter in his own words) (reading the first few pages of the chapter)",
+      5
+    ],
+    [
+      "studying (summarizing his understanding of the chapter in his own words) (taking notes on the main points)",
+      20
+    ],
+    [
+      "studying (summarizing his understanding of the chapter in his own words) (summarizing the chapter in his own words)",
+      15
+    ],
+    [
+      "studying (summarizing his understanding of the chapter in his own words) (reviewing and revising his summary)",
+      15
+    ],
+    [
+      "studying (summarizing his understanding of the chapter in his own words) (reflecting on how this chapter relates to the material he's already learned)",
+      35
+    ],
+    [
+      "having dinner at Oak Hill Dining Hall (1) Wolfgang is walking to the Oak Hill Dining Hall)",
+      5
+    ],
+    [
+      "having dinner at Oak Hill Dining Hall (waiting in line for his meal)",
+      5
+    ],
+    [
+      "having dinner at Oak Hill Dining Hall (choosing his meal options)",
+      10
+    ],
+    [
+      "having dinner at Oak Hill Dining Hall (paying for his meal)",
+      5
+    ],
+    [
+      "having dinner at Oak Hill Dining Hall (finding a seat to eat)",
+      5
+    ],
+    [
+      "having dinner at Oak Hill Dining Hall (enjoying his dinner)",
+      30
+    ],
+    [
+      "studying (reviewing his lecture notes)",
+      15
+    ],
+    [
+      "studying (making flashcards for memorization)",
+      30
+    ],
+    [
+      "studying (watching a video lecture to reinforce understanding)",
+      45
+    ],
+    [
+      "studying (working on practice problems for chemistry) (1) Wolfgang is reviewing his notes from class)",
+      15
+    ],
+    [
+      "studying (working on practice problems for chemistry) (solving practice problems for chemistry)",
+      30
+    ],
+    [
+      "studying (working on practice problems for chemistry) (checking his answers to the practice problems)",
+      15
+    ],
+    [
+      "studying (taking a short break to stretch and relax)",
+      15
+    ],
+    [
+      "studying (reading a textbook chapter for deeper understanding)",
+      45
+    ],
+    [
+      "studying (summarizing the main points of the textbook chapter)",
+      30
+    ],
+    [
+      "studying (reviewing his flashcards for memorization)",
+      20
+    ],
+    [
+      "studying (reflecting on the day's learning and planning for tomorrow)",
+      10
+    ],
+    [
+      "studying (putting away his study materials)",
+      30
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      300
+    ],
+    [
+      "completing his morning routine",
+      60
+    ],
+    [
+      "going for a run at Oak Hill Park",
+      60
+    ],
+    [
+      "studying",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "studying",
+      180
+    ],
+    [
+      "having lunch at Oak Hill Dining Hall",
+      60
+    ],
+    [
+      "studying",
+      300
+    ],
+    [
+      "having dinner at Oak Hill Dining Hall",
+      60
+    ],
+    [
+      "studying",
+      300
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Wolfgang Schulz's room:desk",
+  "act_start_time": "February 13, 2023, 23:30:00",
+  "act_duration": 30,
+  "act_description": "studying (putting away his study materials)",
+  "act_pronunciatio": "\ud83d\udcda\ud83d\uddc4\ufe0f",
+  "act_event": [
+    "Wolfgang Schulz",
+    "put away",
+    "study materials"
+  ],
+  "act_obj_description": "clear and organized with study materials neatly put away",
+  "act_obj_pronunciatio": "\ud83d\udcda\ud83d\udd01",
+  "act_obj_event": [
+    "desk",
+    "clear",
+    "study materials"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": 130
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

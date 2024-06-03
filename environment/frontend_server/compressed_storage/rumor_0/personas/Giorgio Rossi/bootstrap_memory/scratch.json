@@ -1,0 +1,751 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    87,
+    21
+  ],
+  "daily_plan_req": "",
+  "name": "Giorgio Rossi",
+  "first_name": "Giorgio",
+  "last_name": "Rossi",
+  "age": 41,
+  "innate": "analytical, logical, eccentric",
+  "learned": "Giorgio Rossi is a mathematician who loves to solve challenging problems. He is always looking for ways to apply his analytical skills.",
+  "currently": "Giorgio Rossi is working on a research project to explore mathematical patterns in nature. He is also taking classes to stay up to date on new mathematical theories. Giorgio is also curious about who will be running for the local mayor election next month and he talks about it a lot with others.",
+  "lifestyle": "Giorgio Rossi goes to bed around midnight, awakes up around 7am, eats dinner around 4pm.",
+  "living_area": "the Ville:Giorgio Rossi's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 103,
+  "importance_ele_n": 73,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "go for a jog around the park from 8:00 to 9:00 am",
+    "arrive home and have breakfast at 9:30 am",
+    "start working on his research project at 10:00 am",
+    "take a break and have lunch at 12:00 pm",
+    "continue working on his research project until 3:30 pm",
+    "take a short break and have dinner at 4:00 pm",
+    " engage in leisure activities (reading a mathematics book or watching documentaries about mathematical patterns",
+    "from 5:00 to 7:00 pm",
+    "join a discussion group via video call about potential mayoral candidates at 7:30 pm,\n1",
+    "relax and watch TV from 8:30 to 9:30 pm,\n1",
+    "prepare for bed and go to sleep around midnight"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "Giorgio completes his morning routine (taking a shower)",
+      10
+    ],
+    [
+      "Giorgio completes his morning routine (having breakfast)",
+      10
+    ],
+    [
+      "Giorgio completes his morning routine (checking his emails and notifications)",
+      5
+    ],
+    [
+      "Giorgio completes his morning routine (putting on his clothes for the day)",
+      35
+    ],
+    [
+      "going for a jog around the park (putting on his running shoes)",
+      5
+    ],
+    [
+      "going for a jog around the park (stretching his muscles)",
+      10
+    ],
+    [
+      "going for a jog around the park (warming up by jogging slowly)",
+      10
+    ],
+    [
+      "going for a jog around the park (increasing his speed and maintaining it)",
+      20
+    ],
+    [
+      "going for a jog around the park (on the way to cooling down by gradually reducing his speed)",
+      0
+    ],
+    [
+      "going for a jog around the park (conversing about effective study strategies, with Giorgio Rossi sharing his experience of combining physical activity with studying and offering tips on balancing both aspects for better focus and time management.)",
+      6
+    ],
+    [
+      "arriving home and having breakfast (1) Giorgio is returning home from the park)",
+      9
+    ],
+    [
+      "arriving home and having breakfast (taking a shower to refresh himself)",
+      15
+    ],
+    [
+      "arriving home and having breakfast (preparing his breakfast)",
+      15
+    ],
+    [
+      "arriving home and having breakfast (eating his breakfast)",
+      30
+    ],
+    [
+      "starting to work on his research project (1) Giorgio is opening his computer and checking emails)",
+      5
+    ],
+    [
+      "starting to work on his research project (reviewing his research notes)",
+      15
+    ],
+    [
+      "starting to work on his research project (making a list of tasks to complete for the day)",
+      20
+    ],
+    [
+      "starting to work on his research project (setting up his work area and gathering materials)",
+      20
+    ],
+    [
+      "taking a break and having lunch (on the way to on the way to 1) Giorgio is gathering his lunch items)",
+      0
+    ],
+    [
+      "taking a break and having lunch (conversing about Jane and Giorgio discussing their respective work fields, with Jane managing The Willow Market and Pharmacy for six years and Giorgio working on a research project exploring mathematical patterns in nature.)",
+      8
+    ],
+    [
+      "starting to work on his research project (1) Giorgio is opening his computer and checking emails)",
+      12
+    ],
+    [
+      "starting to work on his research project (reviewing his research notes)",
+      20
+    ],
+    [
+      "starting to work on his research project (on the way to making a list of tasks to complete for the day)",
+      0
+    ],
+    [
+      "starting to work on his research project (conversing about Giorgio Rossi discussing his research project on mathematical patterns in nature and seeking Tom Moreno's help with daily operations at The Willow Market and Pharmacy.)",
+      6
+    ],
+    [
+      "starting to work on his research project (making a list of tasks to complete for the day)",
+      14
+    ],
+    [
+      "starting to work on his research project (setting up his work area and gathering materials)",
+      20
+    ],
+    [
+      "taking a break and having lunch (1) Giorgio is preparing his lunch) (preparing his lunch)",
+      30
+    ],
+    [
+      "taking a break and having lunch (1) Giorgio is preparing his lunch) (cooking his lunch)",
+      15
+    ],
+    [
+      "taking a break and having lunch (1) Giorgio is preparing his lunch) (setting the table for lunch)",
+      10
+    ],
+    [
+      "taking a break and having lunch (1) Giorgio is preparing his lunch) (eating his lunch)",
+      5
+    ],
+    [
+      "taking a break and having lunch (eating his lunch and browsing the news about local elections)",
+      45
+    ],
+    [
+      "taking a break and having lunch (on the way to on the way to taking a short walk and checking his emails)",
+      0
+    ],
+    [
+      "taking a break and having lunch (conversing about Giorgio and Tamara discussing their respective creative pursuits, sharing experiences, and expressing support for each other's projects.)",
+      11
+    ],
+    [
+      "Giorgio Rossi's revised schedule ends at 16:00 PM. (on the way to 1) Giorgio is preparing his sleeping environmen)",
+      0
+    ],
+    [
+      "Giorgio Rossi's revised schedule ends at 16:00 PM. (conversing about Giorgio and Tamara's collaborative creative projects in mathematics, with a focus on their individual work exploring mathematical patterns in nature and the benefits of supporting each other.)",
+      6
+    ],
+    [
+      "Giorgio Rossi's revised schedule ends at 16:00 PM. (turning off the lights and devices)",
+      5
+    ],
+    [
+      "Giorgio Rossi's revised schedule ends at 16:00 PM. (meditating to relax)",
+      10
+    ],
+    [
+      "Giorgio Rossi's revised schedule ends at 16:00 PM. (lying down in bed)",
+      83
+    ],
+    [
+      "preparing for bed and going to sleep",
+      60
+    ],
+    [
+      "reading a mathematics book about mathematical patterns ([1]) Giorgio is choosing a mathematics book about mathematical patterns)",
+      5
+    ],
+    [
+      "reading a mathematics book about mathematical patterns (setting up his reading area)",
+      5
+    ],
+    [
+      "reading a mathematics book about mathematical patterns (skimming through the table of contents and index)",
+      5
+    ],
+    [
+      "reading a mathematics book about mathematical patterns (starting to read the introduction)",
+      10
+    ],
+    [
+      "reading a mathematics book about mathematical patterns (reading the first chapter about mathematical patterns in nature)",
+      20
+    ],
+    [
+      "reading a mathematics book about mathematical patterns (taking notes while reading the book)",
+      5
+    ],
+    [
+      "reading a mathematics book about mathematical patterns (summarizing the main points of the chapter)",
+      10
+    ],
+    [
+      "joining a discussion group via video call about potential mayoral candidates ([1) Giorgio is joining the video call)",
+      5
+    ],
+    [
+      "joining a discussion group via video call about potential mayoral candidates (greeting and introducing himself to the group)",
+      5
+    ],
+    [
+      "joining a discussion group via video call about potential mayoral candidates (listening to the discussion about potential mayoral candidates)",
+      30
+    ],
+    [
+      "joining a discussion group via video call about potential mayoral candidates (sharing his thoughts and opinions on the candidates)",
+      20
+    ],
+    [
+      "watching documentaries about mathematical patterns (selecting a documentary about mathematical patterns)",
+      5
+    ],
+    [
+      "watching documentaries about mathematical patterns (setting up his streaming platform to watch the documentary)",
+      5
+    ],
+    [
+      "watching documentaries about mathematical patterns (watching the introductory part of the documentary)",
+      10
+    ],
+    [
+      "watching documentaries about mathematical patterns (taking notes on interesting points from the documentary)",
+      20
+    ],
+    [
+      "watching documentaries about mathematical patterns (discussing his thoughts about the documentary with friends on a group chat)",
+      20
+    ],
+    [
+      "engaging in leisure activities, such as reading a mathematics book or watching documentaries about mathematical patterns (1) Giorgio is searching for a mathematics book to read)",
+      5
+    ],
+    [
+      "engaging in leisure activities, such as reading a mathematics book or watching documentaries about mathematical patterns (browsing through the book's content)",
+      10
+    ],
+    [
+      "engaging in leisure activities, such as reading a mathematics book or watching documentaries about mathematical patterns (reading an article about a mathematical pattern in nature)",
+      15
+    ],
+    [
+      "engaging in leisure activities, such as reading a mathematics book or watching documentaries about mathematical patterns (taking notes on the article)",
+      5
+    ],
+    [
+      "engaging in leisure activities, such as reading a mathematics book or watching documentaries about mathematical patterns (watching a documentary about mathematical patterns)",
+      25
+    ],
+    [
+      "watching documentaries about mathematical patterns (1) Giorgio is turning on the TV and searching for documentaries about mathematical patterns)",
+      5
+    ],
+    [
+      "watching documentaries about mathematical patterns (browsing through the available documentaries)",
+      5
+    ],
+    [
+      "watching documentaries about mathematical patterns (selecting a documentary about mathematical patterns)",
+      5
+    ],
+    [
+      "watching documentaries about mathematical patterns (watching the documentary and taking notes)",
+      20
+    ],
+    [
+      "watching documentaries about mathematical patterns (pausing the documentary to discuss an interesting point with his roommate)",
+      5
+    ],
+    [
+      "watching documentaries about mathematical patterns (resuming the documentary and continuing to watch it)",
+      10
+    ],
+    [
+      "watching documentaries about mathematical patterns (turning off the TV as the documentary ends)",
+      10
+    ],
+    [
+      "engaging in leisure activities, such as reading a mathematics book or watching documentaries about mathematical patterns (1) Giorgio is choosing a mathematics book to read)",
+      5
+    ],
+    [
+      "engaging in leisure activities, such as reading a mathematics book or watching documentaries about mathematical patterns (starting to read the mathematics book)",
+      15
+    ],
+    [
+      "engaging in leisure activities, such as reading a mathematics book or watching documentaries about mathematical patterns (taking notes on interesting concepts)",
+      10
+    ],
+    [
+      "engaging in leisure activities, such as reading a mathematics book or watching documentaries about mathematical patterns (browsing through documentaries about mathematical patterns)",
+      5
+    ],
+    [
+      "engaging in leisure activities, such as reading a mathematics book or watching documentaries about mathematical patterns (starting to watch the documentary)",
+      25
+    ],
+    [
+      "reading a mathematics book about mathematical patterns (preparing a comfortable reading environment)",
+      5
+    ],
+    [
+      "reading a mathematics book about mathematical patterns (selecting a mathematics book to read)",
+      5
+    ],
+    [
+      "reading a mathematics book about mathematical patterns (finding the chapter on mathematical patterns)",
+      5
+    ],
+    [
+      "reading a mathematics book about mathematical patterns (starting to read the chapter on mathematical patterns)",
+      20
+    ],
+    [
+      "reading a mathematics book about mathematical patterns (taking notes on interesting concepts)",
+      10
+    ],
+    [
+      "reading a mathematics book about mathematical patterns (pondering over a complex problem in the book)",
+      15
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "Giorgio completes his morning routine",
+      60
+    ],
+    [
+      "going for a jog around the park",
+      60
+    ],
+    [
+      "arriving home and having breakfast",
+      60
+    ],
+    [
+      "starting to work on his research project",
+      60
+    ],
+    [
+      "taking a break and having lunch",
+      300
+    ],
+    [
+      "preparing for bed and going to sleep",
+      60
+    ],
+    [
+      "reading a mathematics book about mathematical patterns",
+      60
+    ],
+    [
+      "joining a discussion group via video call about potential mayoral candidates",
+      60
+    ],
+    [
+      "watching documentaries about mathematical patterns",
+      60
+    ],
+    [
+      "engaging in leisure activities, such as reading a mathematics book or watching documentaries about mathematical patterns",
+      60
+    ],
+    [
+      "watching documentaries about mathematical patterns",
+      60
+    ],
+    [
+      "engaging in leisure activities, such as reading a mathematics book or watching documentaries about mathematical patterns",
+      60
+    ],
+    [
+      "reading a mathematics book about mathematical patterns",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Giorgio Rossi's apartment:main room:desk",
+  "act_start_time": "February 13, 2023, 23:47:00",
+  "act_duration": 15,
+  "act_description": "reading a mathematics book about mathematical patterns (pondering over a complex problem in the book)",
+  "act_pronunciatio": "\ud83d\udcda\ud83e\udd14",
+  "act_event": [
+    "Giorgio Rossi",
+    "ponder",
+    "complex problem"
+  ],
+  "act_obj_description": "cluttered with books and notes, reflecting Giorgio's intense focus on the mathematical problem",
+  "act_obj_pronunciatio": "\ud83d\udcda\u270d\ufe0f",
+  "act_obj_event": [
+    "desk",
+    "cluttered",
+    "books and notes"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Wolfgang Schulz": -123,
+    "Carlos Gomez": 14,
+    "Jane Moreno": 25,
+    "Tom Moreno": 49,
+    "Isabella Rodriguez": 173,
+    "Tamara Taylor": 211,
+    "Klaus Mueller": 218
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

@@ -1,0 +1,704 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    107,
+    62
+  ],
+  "daily_plan_req": "Wolfgang Schulz goes for a run at the part in the morning, studies during the day, and exercises at his room at night ",
+  "name": "Wolfgang Schulz",
+  "first_name": "Wolfgang",
+  "last_name": "Schulz",
+  "age": 21,
+  "innate": "Hardworking, passionate, dedicated",
+  "learned": "Wolfgang Schulz is a student at Oak Hill College studying chemistry and a student athlete. He is very dedicated to both his academics and his sport.",
+  "currently": "Wolfgang Schulz is training for his next competition and studying for his exams. He is also looking for ways to make his studies more efficient.",
+  "lifestyle": "Wolfgang Schulz goes to bed around 9pm, awakes up around 5am, eats dinner around 6pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Wolfgang Schulz's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 226,
+  "importance_ele_n": 15,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 5:00 am",
+    "go for a run in the park at 6:00 am",
+    "study and attend classes from 8:00 am to 5:00 pm",
+    "have lunch at 12:00 pm",
+    "take a break and relax from 5:00 pm to 6:00 pm",
+    "exercise in his room from 6:00 pm to 7:00 pm, and",
+    "go to bed at 9:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      300
+    ],
+    [
+      "completing morning routine (showering)",
+      10
+    ],
+    [
+      "completing morning routine (getting dressed)",
+      5
+    ],
+    [
+      "completing morning routine (eating breakfast)",
+      10
+    ],
+    [
+      "completing morning routine (making his bed)",
+      35
+    ],
+    [
+      "going for a run in the park (putting on his running shoes)",
+      5
+    ],
+    [
+      "going for a run in the park (stretching before his run)",
+      5
+    ],
+    [
+      "going for a run in the park (warming up with a light jog)",
+      10
+    ],
+    [
+      "going for a run in the park (increasing his speed during the run)",
+      20
+    ],
+    [
+      "going for a run in the park (cooling down with a slow jog)",
+      5
+    ],
+    [
+      "going for a run in the park (stretching after his run)",
+      15
+    ],
+    [
+      "completing his morning run (stretching before the run)",
+      5
+    ],
+    [
+      "completing his morning run (putting on his running gear)",
+      5
+    ],
+    [
+      "completing his morning run (checking the weather for the run)",
+      5
+    ],
+    [
+      "completing his morning run (heading to the park)",
+      10
+    ],
+    [
+      "completing his morning run (warming up with a light jog)",
+      10
+    ],
+    [
+      "completing his morning run (completing his morning run)",
+      25
+    ],
+    [
+      "attending classes at Oak Hill College (checking his schedule)",
+      5
+    ],
+    [
+      "attending classes at Oak Hill College (arriving at Oak Hill College)",
+      10
+    ],
+    [
+      "attending classes at Oak Hill College (settling into class)",
+      5
+    ],
+    [
+      "attending classes at Oak Hill College (taking notes in his first class)",
+      45
+    ],
+    [
+      "attending classes at Oak Hill College (attending his second class)",
+      30
+    ],
+    [
+      "attending classes at Oak Hill College (taking notes in his second class)",
+      45
+    ],
+    [
+      "attending classes at Oak Hill College (attending his third class)",
+      40
+    ],
+    [
+      "studying in class at Oak Hill College (reviewing his notes for the upcoming lecture)",
+      15
+    ],
+    [
+      "studying in class at Oak Hill College (organizing his study materials for better focus)",
+      10
+    ],
+    [
+      "studying in class at Oak Hill College (setting up his workspace to optimize his studying environment)",
+      5
+    ],
+    [
+      "studying in class at Oak Hill College (taking a quick break to stretch and maintain focus)",
+      5
+    ],
+    [
+      "studying in class at Oak Hill College (reviewing the chapter summaries provided by his professor)",
+      25
+    ],
+    [
+      "having lunch (1) Wolfgang is choosing a place to eat his lunch)",
+      5
+    ],
+    [
+      "having lunch (selecting a meal from the cafeteria menu)",
+      5
+    ],
+    [
+      "having lunch (finding a seat in the cafeteria)",
+      5
+    ],
+    [
+      "having lunch (eating his lunch)",
+      20
+    ],
+    [
+      "having lunch (enjoying a beverage with his meal)",
+      10
+    ],
+    [
+      "having lunch (on the way to engaging in small talk with fellow students)",
+      0
+    ],
+    [
+      "having lunch (conversing about two friends discussing their enjoyable experiences at Hobbes Cafe, recommending dishes and desserts to each other.)",
+      6
+    ],
+    [
+      "taking a break and relaxing (on the way to watching his favorite TV show)",
+      0
+    ],
+    [
+      "taking a break and relaxing (conversing about Wolfgang's recent experience at Hobbes Cafe, The Willow Market and Pharmacy's smooth operations, and the upcoming local mayor election.)",
+      5
+    ],
+    [
+      "taking a break and relaxing (on the way to resting on the couch)",
+      0
+    ],
+    [
+      "taking a break and relaxing (conversing about Isabella discussing the day's lunch menu with Wolfgang, who decides to order the grilled vegetable panini, creamy tomato basil soup, and an iced green tea.)",
+      5
+    ],
+    [
+      "taking a break and relaxing (checking his social media)",
+      14
+    ],
+    [
+      "having lunch (engaging in small talk with fellow students)",
+      45
+    ],
+    [
+      "studying for his exams and preparing for his next competition (1) Wolfgang is reviewing his class notes)",
+      15
+    ],
+    [
+      "studying for his exams and preparing for his next competition (on the way to working on practice problems)",
+      0
+    ],
+    [
+      "studying for his exams and preparing for his next competition (conversing about balancing responsibilities, taking breaks for recharging, and providing encouragement and support for each other's projects and upcoming competitions.)",
+      7
+    ],
+    [
+      "studying for his exams and preparing for his next competition (on the way to working on practice problems)",
+      0
+    ],
+    [
+      "studying for his exams and preparing for his next competition (conversing about Giorgio and Wolfgang discussing their thoughts on the upcoming local mayor election, emphasizing the importance of candidates who prioritize education and sustainable development.)",
+      8
+    ],
+    [
+      "studying for his exams and preparing for his next competition (working on practice problems)",
+      15
+    ],
+    [
+      "studying for his exams and preparing for his next competition (creating a study schedule for the week)",
+      15
+    ],
+    [
+      "studying for his exams and preparing for his next competition (reviewing his previous exams and quizzes)",
+      20
+    ],
+    [
+      "studying for his exams and preparing for his next competition (taking a break)",
+      10
+    ],
+    [
+      "studying for his exams and preparing for his next competition (watching lecture videos to refresh his knowledge)",
+      30
+    ],
+    [
+      "exercising in his room (warming up)",
+      5
+    ],
+    [
+      "exercising in his room (doing bodyweight exercises)",
+      25
+    ],
+    [
+      "exercising in his room (practicing his sport-specific skills)",
+      15
+    ],
+    [
+      "exercising in his room (stretching and cooling down)",
+      15
+    ],
+    [
+      "attending classes at Oak Hill College (1) Wolfgang is traveling to the college)",
+      10
+    ],
+    [
+      "attending classes at Oak Hill College (arriving at the college)",
+      5
+    ],
+    [
+      "attending classes at Oak Hill College (attending his chemistry class)",
+      45
+    ],
+    [
+      "having dinner (preparing his dinner)",
+      25
+    ],
+    [
+      "having dinner (eating his dinner)",
+      15
+    ],
+    [
+      "having dinner (cleaning up after dinner)",
+      20
+    ],
+    [
+      "studying for his exams and preparing for his next competition (reviewing his class notes)",
+      30
+    ],
+    [
+      "studying for his exams and preparing for his next competition (creating a study plan for each subject)",
+      45
+    ],
+    [
+      "studying for his exams and preparing for his next competition (studying for the chemistry exam)",
+      45
+    ],
+    [
+      "preparing for bed and winding down (1) [1]) Wolfgang is turning off electronic devices)",
+      5
+    ],
+    [
+      "preparing for bed and winding down (is dimming the lights)",
+      5
+    ],
+    [
+      "preparing for bed and winding down (is doing a quick clean up of his room)",
+      10
+    ],
+    [
+      "preparing for bed and winding down (is taking a warm shower)",
+      10
+    ],
+    [
+      "preparing for bed and winding down (is practicing relaxation techniques)",
+      5
+    ],
+    [
+      "preparing for bed and winding down (is changing into his pajamas)",
+      5
+    ],
+    [
+      "preparing for bed and winding down (is brushing his teeth and washing his face)",
+      5
+    ],
+    [
+      "preparing for bed and winding down (is setting the alarm for the next day)",
+      15
+    ],
+    [
+      "sleeping",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      300
+    ],
+    [
+      "completing morning routine",
+      60
+    ],
+    [
+      "going for a run in the park",
+      60
+    ],
+    [
+      "completing his morning run",
+      60
+    ],
+    [
+      "attending classes at Oak Hill College",
+      180
+    ],
+    [
+      "studying in class at Oak Hill College",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "taking a break and relaxing",
+      60
+    ],
+    [
+      "studying for his exams and preparing for his next competition",
+      120
+    ],
+    [
+      "exercising in his room",
+      60
+    ],
+    [
+      "attending classes at Oak Hill College",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "studying for his exams and preparing for his next competition",
+      120
+    ],
+    [
+      "preparing for bed and winding down",
+      60
+    ],
+    [
+      "sleeping",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Wolfgang Schulz's room:bed",
+  "act_start_time": "February 13, 2023, 22:00:00",
+  "act_duration": 120,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\udca4\ud83c\udf10",
+  "act_event": [
+    "Wolfgang Schulz",
+    "sleep",
+    "none"
+  ],
+  "act_obj_description": "occupied and comfortable for sleeping",
+  "act_obj_pronunciatio": "\ud83d\ude34\ud83d\udecc",
+  "act_obj_event": [
+    "bed",
+    "occupied",
+    "comfortable"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": 127,
+    "Tom Moreno": 132,
+    "Isabella Rodriguez": 139,
+    "Carlos Gomez": 219,
+    "Giorgio Rossi": 227
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

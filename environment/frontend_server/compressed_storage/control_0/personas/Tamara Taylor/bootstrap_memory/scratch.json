@@ -1,0 +1,983 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    55,
+    59
+  ],
+  "daily_plan_req": "",
+  "name": "Tamara Taylor",
+  "first_name": "Tamara",
+  "last_name": "Taylor",
+  "age": 30,
+  "innate": "imaginative, patient, kind",
+  "learned": "Tamara Taylor is a children's book author who loves to create stories that capture the imaginations of young readers. She is very patient and kind when it comes to her work.",
+  "currently": "Tamara Taylor lives with a housemate, Carmen Ortiz, and is working on a new series of children's books. She is also working on a comic book series for adults.",
+  "lifestyle": "Tamara Taylor goes to bed around 10pm, awakes up around 6am, eats dinner around 6pm.",
+  "living_area": "the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 35,
+  "importance_ele_n": 106,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "",
+    "Have breakfast at 7:00 am",
+    "Begin working on the new children's book series at 8:00 am",
+    "Take a short break and have lunch at 12:00 pm",
+    "Continue working on the comic book series for adults at 1:00 pm",
+    "Take another short break and have dinner at 6:00 pm",
+    "Spend some time with her housemate, Carmen Ortiz, from 7:00 to 8:00 pm",
+    "Engage in relaxation activities such as reading or watching TV from 8:00 to 9:30 pm",
+    "Go to bed at 10:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine ([1]) Tamara is waking up)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (stretching her body)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face and using mouthwash)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (putting on her clothes)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (making her bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (preparing her breakfast)",
+      30
+    ],
+    [
+      "having breakfast (washing her hands before cooking)",
+      5
+    ],
+    [
+      "having breakfast (making herself a breakfast of scrambled eggs and toast)",
+      10
+    ],
+    [
+      "having breakfast (on the way to setting the table and getting her utensils ready to eat)",
+      0
+    ],
+    [
+      "having breakfast (conversing about Tamara and Carmen discussing their breakfast preparations, Tamara joining Carmen for a bite of her omelette, and both looking forward to enjoying the meal together.)",
+      10
+    ],
+    [
+      "having breakfast (setting the table and getting her utensils ready to eat)",
+      5
+    ],
+    [
+      "having breakfast (sitting down at the table to enjoy her breakfast)",
+      5
+    ],
+    [
+      "having breakfast (drinking a glass of water while she eats)",
+      5
+    ],
+    [
+      "having breakfast (reading a book while she enjoys her breakfast)",
+      5
+    ],
+    [
+      "having breakfast (cleaning up the table and washing her dishes after breakfast)",
+      15
+    ],
+    [
+      "Beginning to work on the new children's book series ([1] Tamara is brainstorming ideas for the story)",
+      15
+    ],
+    [
+      "Beginning to work on the new children's book series (creating a rough outline of the story)",
+      30
+    ],
+    [
+      "Beginning to work on the new children's book series (developing characters and their backstories)",
+      15
+    ],
+    [
+      "continuing to work on the new children's book series (brainstorming ideas for the characters and plot)",
+      25
+    ],
+    [
+      "continuing to work on the new children's book series (on the way to sketching initial character designs)",
+      0
+    ],
+    [
+      "continuing to work on the new children's book series (conversing about Jane preparing breakfast for her family while discussing Tamara's progress on her children's book series and seeking ideas for character development.)",
+      10
+    ],
+    [
+      "continuing to work on the new children's book series (sketching initial character designs)",
+      10
+    ],
+    [
+      "continuing to work on the new children's book series (creating a storyboard outline for the first chapter)",
+      15
+    ],
+    [
+      "taking a short break and having lunch (preparing her lunch)",
+      20
+    ],
+    [
+      "taking a short break and having lunch (eating her lunch)",
+      20
+    ],
+    [
+      "taking a short break and having lunch (reading a book during her break)",
+      10
+    ],
+    [
+      "taking a short break and having lunch (on the way to chatting with her housemate Carmen for a few minutes)",
+      0
+    ],
+    [
+      "taking a short break and having lunch (conversing about Tamara and Tom discussing Tom's 10 years of experience working at The Willow Market and Pharmacy, his dedication to customer service, and the possibility of Tamara considering a grocery store job in the future.)",
+      8
+    ],
+    [
+      "continuing to work on the new children's book series (on the way to 1) [1]) Tamara is brainstorming ideas for the story)",
+      0
+    ],
+    [
+      "continuing to work on the new children's book series (conversing about Isabella Rodriguez helping Tamara Taylor with her lunch order, discussing Tamara's new children's book series, and Isabella sharing her experience working at the cafe.)",
+      8
+    ],
+    [
+      "taking a short break and having lunch (conversing about Isabella Rodriguez helping Tamara Taylor with her lunch order, discussing Tamara's new children's book series, and Isabella sharing her experience working at the cafe.)",
+      19
+    ],
+    [
+      "continuing to work on the new children's book series (on the way to Tamara is sketching out character concepts)",
+      0
+    ],
+    [
+      "continuing to work on the new children's book series (conversing about Tamara Taylor discussing her new fantasy adventure children's book series, \"The Enchanting Chronicles of Elara,\" and her plans for promoting it.)",
+      6
+    ],
+    [
+      "continuing to work on the new children's book series (Tamara is creating a rough outline of the storyline)",
+      15
+    ],
+    [
+      "continuing to work on the new children's book series (on the way to Tamara is writing the first chapter of the story)",
+      0
+    ],
+    [
+      "continuing to work on the new children's book series (conversing about the local mayor election where Tamara asks Giorgio for his thoughts on the candidates and how residents can get involved in the election process, emphasizing the importance of staying informed, engaging in discussions, attending local events, and making their voices heard.)",
+      12
+    ],
+    [
+      "Taking a short break and having lunch (on the way to washing her hands)",
+      0
+    ],
+    [
+      "Taking a short break and having lunch (conversing about Klaus and Tamara discussing their passion for reading, with Klaus expressing his love for literature and Tamara sharing her inspiration behind writing a children's book series called 'The Enchanting Chronicles of Elara'.)",
+      4
+    ],
+    [
+      "Taking a short break and having lunch (selecting a recipe for lunch)",
+      6
+    ],
+    [
+      "Taking a short break and having lunch (preparing her lunch)",
+      5
+    ],
+    [
+      "Taking a short break and having lunch (setting the table)",
+      15
+    ],
+    [
+      "Taking a short break and having lunch (on the way to eating her lunch)",
+      0
+    ],
+    [
+      "Taking a short break and having lunch (conversing about The conversation between Tamara Taylor and Yuriko Yamamoto revolves around their busy schedules, maintaining work-life balance, sharing favorite books and authors, and discussing the impact of certain books on their outlook and personal growth.)",
+      16
+    ],
+    [
+      "continuing to work on the new children's book series (conversing about the local mayor election where Tamara asks Giorgio for his thoughts on the candidates and how residents can get involved in the election process, emphasizing the importance of staying informed, engaging in discussions, attending local events, and making their voices heard.)",
+      24
+    ],
+    [
+      "continuing to work on the new children's book series (tamara is sketching out character concepts)",
+      15
+    ],
+    [
+      "continuing to work on the new children's book series (conversing about Tamara Taylor discussing her new fantasy adventure children's book series, \"The Enchanting Chronicles of Elara,\" and her plans for promoting it.)",
+      15
+    ],
+    [
+      "continuing to work on the new children's book series (Tamara is writing the first chapter of the story)",
+      24
+    ],
+    [
+      "Taking a short break and having dinner at 6:00 pm (preparing her meal)",
+      20
+    ],
+    [
+      "Taking a short break and having dinner at 6:00 pm (setting the table)",
+      5
+    ],
+    [
+      "Taking a short break and having dinner at 6:00 pm (eating her dinner)",
+      15
+    ],
+    [
+      "Taking a short break and having dinner at 6:00 pm (cleaning up after dinner)",
+      20
+    ],
+    [
+      "Continuing to work on the comic book series for adults ([1]) Tamara is reviewing her previous work on the comic book series)",
+      15
+    ],
+    [
+      "Continuing to work on the comic book series for adults (brainstorming ideas for new storylines and characters)",
+      15
+    ],
+    [
+      "Continuing to work on the comic book series for adults (sketching out preliminary designs for the comic book panels)",
+      15
+    ],
+    [
+      "Continuing to work on the comic book series for adults (creating a detailed outline of the story)",
+      15
+    ],
+    [
+      "Taking another short break and having dinner at 6:00 pm (preparing the ingredients for dinner)",
+      25
+    ],
+    [
+      "Taking another short break and having dinner at 6:00 pm (cooking her dinner)",
+      30
+    ],
+    [
+      "Taking another short break and having dinner at 6:00 pm (setting the table for dinner)",
+      10
+    ],
+    [
+      "Taking another short break and having dinner at 6:00 pm (taking a break before eating)",
+      10
+    ],
+    [
+      "Taking another short break and having dinner at 6:00 pm (having her dinner)",
+      20
+    ],
+    [
+      "Taking another short break and having dinner at 6:00 pm (cleaning up after dinner) (setting the table for dinner)",
+      5
+    ],
+    [
+      "Taking another short break and having dinner at 6:00 pm (cleaning up after dinner) (preparing her favorite dish, pasta with vegetables)",
+      30
+    ],
+    [
+      "Taking another short break and having dinner at 6:00 pm (cleaning up after dinner) (cooking the pasta and vegetables)",
+      15
+    ],
+    [
+      "Taking another short break and having dinner at 6:00 pm (cleaning up after dinner) (setting out dinner plates and utensils)",
+      35
+    ],
+    [
+      "Spending time with her housemate, Carmen Ortiz (preparing dinner)",
+      30
+    ],
+    [
+      "Spending time with her housemate, Carmen Ortiz (Carmen are eating dinner together)",
+      15
+    ],
+    [
+      "Spending time with her housemate, Carmen Ortiz (Carmen are discussing their day)",
+      15
+    ],
+    [
+      "Spending time with her housemate, Carmen Ortiz, and engaging in relaxation activities such as reading or watching TV ([1] Tamara is inviting Carmen to join her for relaxation activities)",
+      5
+    ],
+    [
+      "Spending time with her housemate, Carmen Ortiz, and engaging in relaxation activities such as reading or watching TV (Carmen are watching a TV show together)",
+      30
+    ],
+    [
+      "Spending time with her housemate, Carmen Ortiz, and engaging in relaxation activities such as reading or watching TV (Carmen are discussing their day)",
+      20
+    ],
+    [
+      "Spending time with her housemate, Carmen Ortiz, and engaging in relaxation activities such as reading or watching TV (reading a book while Carmen watches TV)",
+      30
+    ],
+    [
+      "Spending time with her housemate, Carmen Ortiz, and engaging in relaxation activities such as reading or watching TV (taking a short break to make some tea)",
+      35
+    ],
+    [
+      "Going to bed and completing her evening routine ([1]) Tamara is brushing her teeth)",
+      5
+    ],
+    [
+      "Going to bed and completing her evening routine (washing her face)",
+      5
+    ],
+    [
+      "Going to bed and completing her evening routine (applying lotion on her skin)",
+      5
+    ],
+    [
+      "Going to bed and completing her evening routine (putting on her pajamas)",
+      5
+    ],
+    [
+      "Going to bed and completing her evening routine (brushing her hair)",
+      5
+    ],
+    [
+      "Going to bed and completing her evening routine (turning off the lights and setting the alarm)",
+      35
+    ],
+    [
+      "Sleeping ([1]) Tamara is brushing her teeth)",
+      5
+    ],
+    [
+      "Sleeping (changing into her pajamas)",
+      5
+    ],
+    [
+      "Sleeping (reading a book before bed)",
+      15
+    ],
+    [
+      "Sleeping (setting her alarm for the next day)",
+      5
+    ],
+    [
+      "Sleeping (turning off the lights and getting into bed)",
+      5
+    ],
+    [
+      "Sleeping (taking deep breaths to relax her mind and body)",
+      25
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -6
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      4
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "Beginning to work on the new children's book series",
+      60
+    ],
+    [
+      "continuing to work on the new children's book series",
+      60
+    ],
+    [
+      "taking a short break and having lunch",
+      60
+    ],
+    [
+      "continuing to work on the new children's book series",
+      60
+    ],
+    [
+      "Taking a short break and having lunch",
+      120
+    ],
+    [
+      "Taking a short break and having dinner at 6:00 pm",
+      60
+    ],
+    [
+      "Continuing to work on the comic book series for adults",
+      60
+    ],
+    [
+      "Taking another short break and having dinner at 6:00 pm",
+      180
+    ],
+    [
+      "Spending time with her housemate, Carmen Ortiz",
+      60
+    ],
+    [
+      "Spending time with her housemate, Carmen Ortiz, and engaging in relaxation activities such as reading or watching TV",
+      120
+    ],
+    [
+      "Going to bed and completing her evening routine",
+      60
+    ],
+    [
+      "Sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Ryan Park's apartment:main room:computer desk",
+  "act_start_time": "February 13, 2023, 23:39:00",
+  "act_duration": 25,
+  "act_description": "Sleeping (taking deep breaths to relax her mind and body)",
+  "act_pronunciatio": "\ud83d\udca8\ud83d\ude4f",
+  "act_event": [
+    "Tamara Taylor",
+    "take deep breaths",
+    "relax"
+  ],
+  "act_obj_description": "Step 2. clean and empty, with no items on it except for a notebook and a pen",
+  "act_obj_pronunciatio": "\ud83d\udcdd\u270f\ufe0f",
+  "act_obj_event": [
+    "computer desk",
+    "be",
+    "clean and empty"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Carmen Ortiz": -205,
+    "Jane Moreno": -69,
+    "Tom Moreno": 14,
+    "Isabella Rodriguez": 22,
+    "Carlos Gomez": 44,
+    "Giorgio Rossi": 63,
+    "Klaus Mueller": 78,
+    "Yuriko Yamamoto": 120
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      55,
+      57
+    ],
+    [
+      55,
+      56
+    ],
+    [
+      56,
+      56
+    ],
+    [
+      57,
+      56
+    ],
+    [
+      58,
+      56
+    ],
+    [
+      59,
+      56
+    ],
+    [
+      60,
+      56
+    ],
+    [
+      61,
+      56
+    ],
+    [
+      62,
+      56
+    ],
+    [
+      63,
+      56
+    ],
+    [
+      64,
+      56
+    ],
+    [
+      65,
+      56
+    ],
+    [
+      66,
+      56
+    ],
+    [
+      67,
+      56
+    ],
+    [
+      67,
+      55
+    ],
+    [
+      67,
+      54
+    ],
+    [
+      67,
+      53
+    ],
+    [
+      66,
+      53
+    ],
+    [
+      65,
+      53
+    ],
+    [
+      65,
+      52
+    ],
+    [
+      65,
+      51
+    ],
+    [
+      65,
+      50
+    ],
+    [
+      65,
+      49
+    ],
+    [
+      65,
+      48
+    ],
+    [
+      65,
+      47
+    ],
+    [
+      65,
+      46
+    ],
+    [
+      65,
+      45
+    ],
+    [
+      65,
+      44
+    ],
+    [
+      65,
+      43
+    ],
+    [
+      65,
+      42
+    ],
+    [
+      65,
+      41
+    ],
+    [
+      65,
+      40
+    ],
+    [
+      65,
+      39
+    ],
+    [
+      65,
+      38
+    ],
+    [
+      65,
+      37
+    ],
+    [
+      65,
+      36
+    ],
+    [
+      65,
+      35
+    ],
+    [
+      65,
+      34
+    ],
+    [
+      65,
+      33
+    ],
+    [
+      65,
+      32
+    ],
+    [
+      65,
+      31
+    ],
+    [
+      65,
+      30
+    ],
+    [
+      66,
+      30
+    ],
+    [
+      66,
+      29
+    ],
+    [
+      66,
+      28
+    ],
+    [
+      66,
+      27
+    ],
+    [
+      66,
+      26
+    ],
+    [
+      67,
+      26
+    ],
+    [
+      67,
+      25
+    ],
+    [
+      67,
+      24
+    ],
+    [
+      66,
+      24
+    ]
+  ]
+}

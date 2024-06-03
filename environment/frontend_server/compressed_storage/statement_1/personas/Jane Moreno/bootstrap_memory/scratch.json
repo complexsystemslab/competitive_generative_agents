@@ -1,0 +1,725 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    72,
+    74
+  ],
+  "daily_plan_req": "",
+  "name": "Jane Moreno",
+  "first_name": "Jane",
+  "last_name": "Moreno",
+  "age": 46,
+  "innate": "friendly, helpful, organized",
+  "learned": "Jane Moreno is a housewife who loves to take care of her family. She is always looking for new ways to make life easier and more enjoyable for everyone.",
+  "currently": "Jane Moreno is living with her husband, Tom Moreno, who is a shop keeper at The Willow Market and Pharmacy.",
+  "lifestyle": "Jane Moreno goes to bed around 10pm, awakes up around 6am, eats dinner around 6pm.",
+  "living_area": "the Ville:Moreno family's house:Tom and Jane Moreno's bedroom",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 190,
+  "importance_ele_n": 38,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "prepare breakfast for her family at 6:30 am",
+    "help her husband Tom with any errands or chores that need to be done around the house or store from 7:00 am to 9:00 am",
+    "have a lunch break at 12:00 pm",
+    "prepare and serve an afternoon snack for her children at 3:00 pm",
+    "assist with homework or any after-school activities with her kids from 4:00 pm to 5:00 pm",
+    "have dinner as a family at 6:00 pm",
+    "spend quality time with her husband Tom and children from 7:00 pm to 9:00 pm, and",
+    "prepare for bedtime routines and go to sleep by 10:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine (waking up)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (stretching and doing some light exercise)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (making her bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth and doing her morning skincare routine)",
+      20
+    ],
+    [
+      "preparing breakfast for her family (setting the table)",
+      5
+    ],
+    [
+      "preparing breakfast for her family (preparing the ingredients for the meal)",
+      15
+    ],
+    [
+      "preparing breakfast for her family (cooking the breakfast meal)",
+      20
+    ],
+    [
+      "preparing breakfast for her family (serving the breakfast meal to her family)",
+      20
+    ],
+    [
+      "helping her husband Tom with any errands or chores that need to be done around the house or store (making a list of tasks and errands)",
+      5
+    ],
+    [
+      "helping her husband Tom with any errands or chores that need to be done around the house or store (assisting Tom with arranging the store items)",
+      10
+    ],
+    [
+      "helping her husband Tom with any errands or chores that need to be done around the house or store (on the way to restocking shelves and organizing products)",
+      0
+    ],
+    [
+      "helping her husband Tom with any errands or chores that need to be done around the house or store (conversing about Tom Moreno discussing his day at the store with Jane Moreno, updating her on inventory levels and requesting help with arranging the store items.)",
+      4
+    ],
+    [
+      "helping her husband Tom with any errands or chores that need to be done around the house or store (helping Tom with customer service, answering questions and assisting where needed)",
+      11
+    ],
+    [
+      "helping her husband Tom with any errands or chores that need to be done around the house or store (helping Tom with customer service, answering questions and assisting where needed)",
+      30
+    ],
+    [
+      "completing her morning errands and chores with her husband Tom ([1]) Jane is preparing a list of tasks for the day)",
+      5
+    ],
+    [
+      "completing her morning errands and chores with her husband Tom (helping Tom with the groceries and organizing them in the pantry)",
+      10
+    ],
+    [
+      "completing her morning errands and chores with her husband Tom (assisting Tom with restocking items at The Willow Market and Pharmacy)",
+      20
+    ],
+    [
+      "completing her morning errands and chores with her husband Tom (watering the plants and checking on their condition)",
+      5
+    ],
+    [
+      "completing her morning errands and chores with her husband Tom (cleaning up any mess made during the previous day's activities)",
+      20
+    ],
+    [
+      "helping her husband Tom with any errands or chores that need to be done around the house or store (assisting Tom in organizing inventory at The Willow Market)",
+      15
+    ],
+    [
+      "helping her husband Tom with any errands or chores that need to be done around the house or store (helping Tom restock shelves with new items)",
+      20
+    ],
+    [
+      "helping her husband Tom with any errands or chores that need to be done around the house or store (helping Tom clean and sanitize the store)",
+      25
+    ],
+    [
+      "taking a mid-morning break to relax and enjoy some downtime before helping with lunch preparations (on the way to resting on the couch)",
+      0
+    ],
+    [
+      "taking a mid-morning break to relax and enjoy some downtime before helping with lunch preparations (conversing about maintaining work-life balance and effective time management between personal life and helping out at the store, with both parties discussing their strategies and support for each other.)",
+      5
+    ],
+    [
+      "taking a mid-morning break to relax and enjoy some downtime before helping with lunch preparations (reading a book)",
+      30
+    ],
+    [
+      "taking a mid-morning break to relax and enjoy some downtime before helping with lunch preparations (browsing through her favorite magazines)",
+      25
+    ],
+    [
+      "taking a mid-morning break to relax and enjoy some downtime before helping with lunch preparations (listening to music)",
+      15
+    ],
+    [
+      "taking a mid-morning break to relax and enjoy some downtime before helping with lunch preparations (taking a short walk around the neighborhood)",
+      45
+    ],
+    [
+      "preparing and serving an afternoon snack for her children (1) Jane is gathering ingredients for the afternoon snack)",
+      5
+    ],
+    [
+      "preparing and serving an afternoon snack for her children (washing fruits and vegetables)",
+      10
+    ],
+    [
+      "preparing and serving an afternoon snack for her children (preparing a fruit salad)",
+      15
+    ],
+    [
+      "preparing and serving an afternoon snack for her children (setting the table for the snack)",
+      5
+    ],
+    [
+      "preparing and serving an afternoon snack for her children (calling her children to come to the table)",
+      5
+    ],
+    [
+      "preparing and serving an afternoon snack for her children (serving the fruit salad and drinks)",
+      10
+    ],
+    [
+      "preparing and serving an afternoon snack for her children (ensuring everyone has what they need)",
+      10
+    ],
+    [
+      "preparing and serving dinner for her family (on the way to [1) Jane is gathering ingredients)",
+      0
+    ],
+    [
+      "preparing and serving dinner for her family (conversing about balancing work and family life, emphasizing effective time management, prioritizing tasks, setting clear boundaries, and communication as key strategies for success.)",
+      12
+    ],
+    [
+      "preparing and serving dinner for her family (preparing the main dish)",
+      25
+    ],
+    [
+      "preparing and serving dinner for her family (preparing a side dish)",
+      15
+    ],
+    [
+      "preparing and serving dinner for her family (setting the table)",
+      5
+    ],
+    [
+      "preparing and serving dinner for her family (serving dinner)",
+      3
+    ],
+    [
+      "Assisting with homework or any after-school activities with her kids (setting up a study area for the children)",
+      5
+    ],
+    [
+      "Assisting with homework or any after-school activities with her kids (helping her eldest child with their math homework)",
+      20
+    ],
+    [
+      "Assisting with homework or any after-school activities with her kids (assisting her middle child with their reading assignment)",
+      15
+    ],
+    [
+      "Assisting with homework or any after-school activities with her kids (reviewing her youngest child's science project)",
+      20
+    ],
+    [
+      "spending quality time with her husband Tom and children, enjoying family bonding time ([1]) Jane is setting up a family game night)",
+      5
+    ],
+    [
+      "spending quality time with her husband Tom and children, enjoying family bonding time (inviting her husband and children to participate in the game)",
+      5
+    ],
+    [
+      "spending quality time with her husband Tom and children, enjoying family bonding time (preparing snacks for the family game night)",
+      10
+    ],
+    [
+      "spending quality time with her husband Tom and children, enjoying family bonding time (organizing the game pieces and instructions)",
+      5
+    ],
+    [
+      "spending quality time with her husband Tom and children, enjoying family bonding time (teaching her children how to play a new board game)",
+      20
+    ],
+    [
+      "spending quality time with her husband Tom and children, enjoying family bonding time (facilitating turns and ensuring fair play)",
+      15
+    ],
+    [
+      "preparing and serving dinner for her family (1) Jane is gathering ingredients for dinner)",
+      30
+    ],
+    [
+      "preparing and serving dinner for her family (on the way to [n]) Jane is choosing a recipe)",
+      0
+    ],
+    [
+      "preparing and serving dinner for her family (conversing about Jane Moreno sharing her chicken and vegetable stir-fry recipe and time management tips for balancing work and family life with Carmen Ortiz.)",
+      7
+    ],
+    [
+      "preparing and serving dinner for her family (preparing the side dishes) (gathering ingredients)",
+      8
+    ],
+    [
+      "preparing and serving dinner for her family (preparing the side dishes) (preparing the side dishes)",
+      15
+    ],
+    [
+      "preparing and serving dinner for her family (preparing the side dishes) (setting the table)",
+      15
+    ],
+    [
+      "preparing and serving dinner for her family (preparing the side dishes) (serving the dinner)",
+      15
+    ],
+    [
+      "preparing and serving dinner for her family (cooking the main dish)",
+      45
+    ],
+    [
+      "preparing and serving dinner for her family (setting the table)",
+      10
+    ],
+    [
+      "preparing and serving dinner for her family (serving the dinner to her family)",
+      15
+    ],
+    [
+      "preparing and serving dinner for her family (conversing about Jane Moreno sharing her chicken and vegetable stir-fry recipe and time management tips for balancing work and family life with Carmen Ortiz.)",
+      20
+    ],
+    [
+      "spending quality time with her husband Tom and children, enjoying family bonding time (setting up a board game for family fun)",
+      5
+    ],
+    [
+      "spending quality time with her husband Tom and children, enjoying family bonding time (inviting her husband Tom and children to participate in the board game)",
+      5
+    ],
+    [
+      "spending quality time with her husband Tom and children, enjoying family bonding time (explaining the rules of the board game to everyone)",
+      10
+    ],
+    [
+      "spending quality time with her husband Tom and children, enjoying family bonding time (facilitating the board game and ensuring everyone has a turn)",
+      25
+    ],
+    [
+      "spending quality time with her husband Tom and children, enjoying family bonding time (engaging in conversation with her family during the board game)",
+      15
+    ],
+    [
+      "winding down and preparing for bedtime (cleaning up the living room)",
+      15
+    ],
+    [
+      "winding down and preparing for bedtime (putting away any unfinished tasks)",
+      15
+    ],
+    [
+      "winding down and preparing for bedtime (setting her alarm clock for the next day)",
+      5
+    ],
+    [
+      "winding down and preparing for bedtime (taking a shower to relax and prepare for bedtime)",
+      15
+    ],
+    [
+      "winding down and preparing for bedtime (brushing her teeth and washing her face)",
+      5
+    ],
+    [
+      "winding down and preparing for bedtime (changing into her pajamas)",
+      5
+    ],
+    [
+      "sleeping",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "preparing breakfast for her family",
+      60
+    ],
+    [
+      "helping her husband Tom with any errands or chores that need to be done around the house or store",
+      60
+    ],
+    [
+      "completing her morning errands and chores with her husband Tom",
+      60
+    ],
+    [
+      "helping her husband Tom with any errands or chores that need to be done around the house or store",
+      60
+    ],
+    [
+      "taking a mid-morning break to relax and enjoy some downtime before helping with lunch preparations",
+      120
+    ],
+    [
+      "preparing and serving an afternoon snack for her children",
+      60
+    ],
+    [
+      "preparing and serving dinner for her family",
+      60
+    ],
+    [
+      "Assisting with homework or any after-school activities with her kids",
+      60
+    ],
+    [
+      "spending quality time with her husband Tom and children, enjoying family bonding time",
+      60
+    ],
+    [
+      "preparing and serving dinner for her family",
+      180
+    ],
+    [
+      "spending quality time with her husband Tom and children, enjoying family bonding time",
+      60
+    ],
+    [
+      "winding down and preparing for bedtime",
+      60
+    ],
+    [
+      "sleeping",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Moreno family's house:Tom and Jane Moreno's bedroom:bed",
+  "act_start_time": "February 13, 2023, 22:03:00",
+  "act_duration": 120,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Jane Moreno",
+    "sleep",
+    "sleeping"
+  ],
+  "act_obj_description": "Step 2. Describe the bed's state: bed is being used for sleeping",
+  "act_obj_pronunciatio": "\ud83d\udecc\ud83d\udca4",
+  "act_obj_event": [
+    "bed",
+    "used for sleeping",
+    "sleeping"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Tom Moreno": -151,
+    "Yuriko Yamamoto": 9,
+    "Tamara Taylor": 210,
+    "Carmen Ortiz": 390
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

@@ -1,0 +1,794 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    73,
+    74
+  ],
+  "daily_plan_req": "",
+  "name": "Jane Moreno",
+  "first_name": "Jane",
+  "last_name": "Moreno",
+  "age": 46,
+  "innate": "friendly, helpful, organized",
+  "learned": "Jane Moreno is a housewife who loves to take care of her family. She is always looking for new ways to make life easier and more enjoyable for everyone.",
+  "currently": "Jane Moreno is living with her husband, Tom Moreno, who is a shop keeper at The Willow Market and Pharmacy.",
+  "lifestyle": "Jane Moreno goes to bed around 10pm, awakes up around 6am, eats dinner around 6pm.",
+  "living_area": "the Ville:Moreno family's house:Tom and Jane Moreno's bedroom",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 74,
+  "importance_ele_n": 84,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "",
+    "prepare breakfast at 6:30 am",
+    "clean the house from 7:00 to 9:00 am",
+    "have lunch at 12:00 pm",
+    " run errands (grocery shopping, post office",
+    "from 1:00 to 3:00 pm",
+    "prepare dinner at 5:00 pm",
+    "spend quality time with her husband Tom from 7:00 to 8:00 pm",
+    "watch TV from 8:00 to 9:00 pm, and",
+    "go to bed at 10:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "completing her morning routine (1) Jane is washing her face)",
+      5
+    ],
+    [
+      "completing her morning routine (styling her hair)",
+      10
+    ],
+    [
+      "completing her morning routine (putting on makeup)",
+      10
+    ],
+    [
+      "completing her morning routine (selecting her outfit for the day)",
+      5
+    ],
+    [
+      "completing her morning routine (putting on her clothes)",
+      10
+    ],
+    [
+      "completing her morning routine (tidying up her room)",
+      20
+    ],
+    [
+      "preparing breakfast (1) Jane is gathering ingredients for breakfast)",
+      5
+    ],
+    [
+      "preparing breakfast (preparing the egg dish)",
+      10
+    ],
+    [
+      "preparing breakfast (cooking bacon)",
+      10
+    ],
+    [
+      "preparing breakfast (on the way to toasting bread)",
+      0
+    ],
+    [
+      "preparing breakfast (conversing about Tom and Jane discussing their respective days at work, with a focus on how well the market went, challenges faced, and leisure time spent afterward.)",
+      5
+    ],
+    [
+      "preparing breakfast (toasting bread)",
+      10
+    ],
+    [
+      "cleaning the house (picking up items around the house)",
+      20
+    ],
+    [
+      "cleaning the house (vacuuming the living room and hallway)",
+      10
+    ],
+    [
+      "cleaning the house (dusting off surfaces and furniture)",
+      20
+    ],
+    [
+      "cleaning the house (wiping down countertops and tables)",
+      10
+    ],
+    [
+      "cleaning the house (sweeping the kitchen floor)",
+      10
+    ],
+    [
+      "preparing breakfast (setting the table)",
+      10
+    ],
+    [
+      "taking a morning walk with her dog (putting on her walking shoes)",
+      5
+    ],
+    [
+      "taking a morning walk with her dog (grabbing her dog's leash and treats)",
+      5
+    ],
+    [
+      "taking a morning walk with her dog (getting her dog ready for the walk)",
+      5
+    ],
+    [
+      "taking a morning walk with her dog (her dog are walking on the sidewalk)",
+      15
+    ],
+    [
+      "taking a morning walk with her dog (stopping to let her dog sniff around)",
+      5
+    ],
+    [
+      "taking a morning walk with her dog (taking pictures of her dog during the walk)",
+      5
+    ],
+    [
+      "taking a morning walk with her dog (her dog are returning home)",
+      20
+    ],
+    [
+      "preparing lunch (on the way to 1) Jane is gathering ingredients for the meal)",
+      0
+    ],
+    [
+      "preparing lunch (conversing about a children's book featuring a young girl named Emily who discovers her magical abilities and goes on thrilling adventures, with stunning illustrations by Tamara Taylor.)",
+      6
+    ],
+    [
+      "preparing lunch (preheating the oven)",
+      24
+    ],
+    [
+      "preparing lunch (preparing the meat dish)",
+      35
+    ],
+    [
+      "preparing lunch (cooking the side dishes)",
+      45
+    ],
+    [
+      "preparing lunch (setting the table)",
+      10
+    ],
+    [
+      "preparing lunch (plating the food)",
+      10
+    ],
+    [
+      "preparing lunch (clearing the counter space)",
+      5
+    ],
+    [
+      "preparing lunch (bringing the food to the table)",
+      45
+    ],
+    [
+      "shopping for groceries (making a grocery list)",
+      15
+    ],
+    [
+      "shopping for groceries (organizing her wallet, keys, and shopping list)",
+      5
+    ],
+    [
+      "shopping for groceries (taking public transportation to the grocery store)",
+      20
+    ],
+    [
+      "shopping for groceries (browsing through the weekly flyer for sales and discounts)",
+      20
+    ],
+    [
+      "preparing a healthy dinner for her family (planning the menu)",
+      15
+    ],
+    [
+      "preparing a healthy dinner for her family (making a shopping list based on the menu plan)",
+      10
+    ],
+    [
+      "preparing a healthy dinner for her family (cooking the main dish) (planning the main dish)",
+      10
+    ],
+    [
+      "preparing a healthy dinner for her family (cooking the main dish) (gathering ingredients and setting up the kitchen)",
+      15
+    ],
+    [
+      "preparing a healthy dinner for her family (cooking the main dish) (preparing vegetables)",
+      15
+    ],
+    [
+      "preparing a healthy dinner for her family (cooking the main dish) (cooking the main dish)",
+      20
+    ],
+    [
+      "preparing a healthy dinner for her family (preparing the vegetables)",
+      30
+    ],
+    [
+      "preparing a healthy dinner for her family (setting the table)",
+      10
+    ],
+    [
+      "preparing a healthy dinner for her family (preparing a salad)",
+      20
+    ],
+    [
+      "preparing a healthy dinner for her family (cooking the side dishes)",
+      40
+    ],
+    [
+      "preparing a healthy dinner for her family (getting the drinks ready)",
+      5
+    ],
+    [
+      "preparing a healthy dinner for her family (on the way to reheating leftovers)",
+      0
+    ],
+    [
+      "preparing a healthy dinner for her family (conversing about tax compliance and the importance of ensuring local businesses remain compliant with tax laws, with Yuriko discussing her enjoyment in organizing the project.)",
+      6
+    ],
+    [
+      "preparing a healthy dinner for her family (plating the food)",
+      4
+    ],
+    [
+      "preparing a healthy dinner for her family (conversing about tax compliance and the importance of ensuring local businesses remain compliant with tax laws, with Yuriko discussing her enjoyment in organizing the project.)",
+      6
+    ],
+    [
+      "preparing a healthy dinner for her family (bringing the food to the table)",
+      4
+    ],
+    [
+      "preparing a healthy dinner for her family (reheating leftovers)",
+      6
+    ],
+    [
+      "preparing a healthy dinner for her family (finishing up any remaining tasks and wrapping up the meal preparation)",
+      4
+    ],
+    [
+      "preparing a healthy dinner for her family (cleaning up the kitchen and completing post-meal tasks) (2) Jane is washing the dishes)",
+      15
+    ],
+    [
+      "preparing a healthy dinner for her family (cleaning up the kitchen and completing post-meal tasks) (wiping down the countertops and surfaces)",
+      15
+    ],
+    [
+      "preparing a healthy dinner for her family (cleaning up the kitchen and completing post-meal tasks) (sweeping the floor)",
+      10
+    ],
+    [
+      "preparing a healthy dinner for her family (cleaning up the kitchen and completing post-meal tasks) (taking out the trash)",
+      5
+    ],
+    [
+      "preparing a healthy dinner for her family (cleaning up the kitchen and completing post-meal tasks) (setting the table for the next meal)",
+      5
+    ],
+    [
+      "preparing a healthy dinner for her family (cleaning up the kitchen and completing post-meal tasks) (putting away any leftovers and ingredients)",
+      10
+    ],
+    [
+      "preparing a healthy dinner for her family (cleaning up the kitchen and completing post-meal tasks) (cleaning the kitchen sink)",
+      20
+    ],
+    [
+      "spending quality time with her husband Tom (1) Jane is setting up the living room for relaxation)",
+      5
+    ],
+    [
+      "spending quality time with her husband Tom (preparing a variety of snacks and drinks)",
+      10
+    ],
+    [
+      "spending quality time with her husband Tom (Tom sit down together to discuss their day)",
+      10
+    ],
+    [
+      "spending quality time with her husband Tom (Tom watch a favorite TV show together)",
+      35
+    ],
+    [
+      "watching TV with her husband Tom (preparing a snack for them to enjoy while watching TV)",
+      10
+    ],
+    [
+      "watching TV with her husband Tom (settling down with Tom on the couch)",
+      5
+    ],
+    [
+      "watching TV with her husband Tom (turning on the TV and selecting a show to watch)",
+      5
+    ],
+    [
+      "watching TV with her husband Tom (watching the chosen show with Tom)",
+      20
+    ],
+    [
+      "watching TV with her husband Tom (discussing the show with Tom during commercial breaks)",
+      20
+    ],
+    [
+      "washing dishes after dinner (on the way to 1) Jane is filling the sink with warm water and dish soap)",
+      0
+    ],
+    [
+      "washing dishes after dinner (conversing about Tom Moreno sharing his day at the store, discussing the upcoming mayor election with customers and emphasizing the importance of community engagement and local politics.)",
+      9
+    ],
+    [
+      "washing dishes after dinner (scraping off excess food from the dishes)",
+      6
+    ],
+    [
+      "washing dishes after dinner (washing each dish individually)",
+      20
+    ],
+    [
+      "washing dishes after dinner (rinsing the dishes with clean water)",
+      5
+    ],
+    [
+      "washing dishes after dinner (drying the dishes with a clean towel)",
+      10
+    ],
+    [
+      "washing dishes after dinner (putting the dishes away in their proper places)",
+      10
+    ],
+    [
+      "going to bed and preparing for a good night's sleep (1) Jane is turning off all electronic devices)",
+      5
+    ],
+    [
+      "going to bed and preparing for a good night's sleep (making sure the house is locked and secure)",
+      5
+    ],
+    [
+      "going to bed and preparing for a good night's sleep (taking a quick shower to relax)",
+      10
+    ],
+    [
+      "going to bed and preparing for a good night's sleep (brushing her teeth and washing her face)",
+      5
+    ],
+    [
+      "going to bed and preparing for a good night's sleep (putting on her comfortable pajamas)",
+      35
+    ],
+    [
+      "asleep and resting",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "completing her morning routine",
+      60
+    ],
+    [
+      "preparing breakfast",
+      60
+    ],
+    [
+      "cleaning the house",
+      60
+    ],
+    [
+      "taking a morning walk with her dog",
+      60
+    ],
+    [
+      "preparing lunch",
+      180
+    ],
+    [
+      "shopping for groceries",
+      60
+    ],
+    [
+      "preparing a healthy dinner for her family",
+      300
+    ],
+    [
+      "spending quality time with her husband Tom",
+      60
+    ],
+    [
+      "watching TV with her husband Tom",
+      60
+    ],
+    [
+      "washing dishes after dinner",
+      60
+    ],
+    [
+      "going to bed and preparing for a good night's sleep",
+      60
+    ],
+    [
+      "asleep and resting",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Moreno family's house:Tom and Jane Moreno's bedroom:bed",
+  "act_start_time": "February 13, 2023, 23:00:00",
+  "act_duration": 60,
+  "act_description": "asleep and resting",
+  "act_pronunciatio": "\ud83d\udca4\ud83d\udca5",
+  "act_event": [
+    "Jane Moreno",
+    "asleep",
+    "resting"
+  ],
+  "act_obj_description": "Step 1. Jane Moreno is using the bed for sleeping and resting.\nStep 2. Describe the bed's state: bed is comfortable and cozy, providing support and a place of relaxation for Jane",
+  "act_obj_pronunciatio": "\ud83d\udecc\u262f\ufe0f",
+  "act_obj_event": [
+    "bed",
+    "is",
+    "idle"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Tom Moreno": 620,
+    "Tamara Taylor": -49,
+    "Yuriko Yamamoto": 389
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

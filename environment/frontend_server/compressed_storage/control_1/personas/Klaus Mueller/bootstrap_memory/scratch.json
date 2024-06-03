@@ -1,0 +1,741 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    127,
+    46
+  ],
+  "daily_plan_req": "Klaus Mueller goes to the library at Oak Hill College early in the morning, spends his days writing, and eats at Hobbs Cafe.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Klaus Mueller is writing a research paper on the effects of gentrification in low-income communities.",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 46,
+  "importance_ele_n": 94,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "go to the library at Oak Hill College at 8:00 am",
+    "work on research paper about gentrification until lunch",
+    "have lunch at Hobbs Cafe at 12:30 pm",
+    "continue working on research paper in the afternoon",
+    "watch TV from 7 to 8 pm, and",
+    "go to bed around 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine (stretching his body)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (showering)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (making breakfast)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (eating breakfast)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (getting dressed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (checking his emails and messages)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (gathering his belongings for the day)",
+      25
+    ],
+    [
+      "going to the library at Oak Hill College (1) [12]) Klaus is having breakfast)",
+      5
+    ],
+    [
+      "going to the library at Oak Hill College (is brushing his teeth and getting dressed)",
+      5
+    ],
+    [
+      "going to the library at Oak Hill College (is putting on his coat and grabbing his bag)",
+      5
+    ],
+    [
+      "going to the library at Oak Hill College (is walking to the bus stop)",
+      5
+    ],
+    [
+      "going to the library at Oak Hill College (is waiting for the bus at the bus stop)",
+      5
+    ],
+    [
+      "going to the library at Oak Hill College (is riding the bus to Oak Hill College)",
+      20
+    ],
+    [
+      "going to the library at Oak Hill College (is getting off the bus at Oak Hill College and walking to the library)",
+      15
+    ],
+    [
+      "preparing for his day at the library (making a to-do list)",
+      15
+    ],
+    [
+      "preparing for his day at the library (gathering his research materials)",
+      20
+    ],
+    [
+      "preparing for his day at the library (packing his backpack with necessary items)",
+      15
+    ],
+    [
+      "preparing for his day at the library (checking his email for any last-minute updates)",
+      10
+    ],
+    [
+      "Working on his research paper about gentrification at the library (1) [1]) Klaus is gathering research materials)",
+      15
+    ],
+    [
+      "Working on his research paper about gentrification at the library (is organizing his research materials)",
+      10
+    ],
+    [
+      "Working on his research paper about gentrification at the library (is reviewing relevant articles and studies)",
+      15
+    ],
+    [
+      "Working on his research paper about gentrification at the library (is taking notes on interesting findings)",
+      10
+    ],
+    [
+      "Working on his research paper about gentrification at the library (is summarizing his research in a concise manner)",
+      10
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library ([1]) Klaus is reviewing previous research)",
+      15
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library (organizing his notes)",
+      15
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library (analyzing the data)",
+      15
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library (writing a conclusion)",
+      15
+    ],
+    [
+      "having lunch at Hobbs Cafe (walking to Hobbs Cafe)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (browsing the menu)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (ordering his food)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (waiting for his food to be prepared)",
+      10
+    ],
+    [
+      "having lunch at Hobbs Cafe (eating his lunch)",
+      20
+    ],
+    [
+      "having lunch at Hobbs Cafe (on the way to enjoying a cup of coffee)",
+      0
+    ],
+    [
+      "having lunch at Hobbs Cafe (conversing about Klaus Mueller and Wolfgang Schulz discussing their experiences and activities at Oak Hill College, including academics, sports, research, and extracurricular involvement.)",
+      10
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library (organizing his research materials)",
+      5
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library (reviewing relevant articles and books)",
+      20
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library (taking notes on key points)",
+      35
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library (on the way to analyzing the data and drawing conclusions)",
+      0
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library (conversing about Carlos working on a poetry collection, exploring themes of nature, human emotions, and abstract ideas, while Klaus appreciates its therapeutic and self-expressive qualities.)",
+      3
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library (writing his introduction and background)",
+      22
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library (completing and revising the sections)",
+      15
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library (finishing up and submitting the final draft)",
+      25
+    ],
+    [
+      "taking a short break to recharge at the library (sipping a hot coffee)",
+      10
+    ],
+    [
+      "taking a short break to recharge at the library (browsing through his social media)",
+      20
+    ],
+    [
+      "taking a short break to recharge at the library (jotting down ideas for his next research topic)",
+      30
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library (reviewing relevant literature)",
+      25
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library (organizing his research notes)",
+      15
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library (outlining the structure of his paper)",
+      20
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library (writing the introduction of his paper)",
+      20
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library (writing the main body of his paper)",
+      40
+    ],
+    [
+      "Going home from the library at Oak Hill College (packing his belongings)",
+      10
+    ],
+    [
+      "Going home from the library at Oak Hill College (double-checking his research paper materials)",
+      10
+    ],
+    [
+      "Going home from the library at Oak Hill College (putting away his research papers and notes)",
+      10
+    ],
+    [
+      "Going home from the library at Oak Hill College (gathering his personal belongings)",
+      10
+    ],
+    [
+      "Going home from the library at Oak Hill College (walking towards the exit of the library)",
+      5
+    ],
+    [
+      "Going home from the library at Oak Hill College (waiting for the shuttle bus to arrive)",
+      15
+    ],
+    [
+      "watching TV from 7 to 8 pm (choosing a show to watch)",
+      5
+    ],
+    [
+      "watching TV from 7 to 8 pm (watching the beginning of the show)",
+      10
+    ],
+    [
+      "watching TV from 7 to 8 pm (resuming the show and continuing to watch it)",
+      10
+    ],
+    [
+      "watching TV from 7 to 8 pm (stretching and taking a short break from watching the show)",
+      5
+    ],
+    [
+      "watching TV from 7 to 8 pm (returning to the show and finishing watching it)",
+      30
+    ],
+    [
+      "preparing dinner and enjoying some downtime before continuing his work on the research paper (1) Klaus is watching TV)",
+      5
+    ],
+    [
+      "preparing dinner and enjoying some downtime before continuing his work on the research paper (taking a short break to stretch his legs)",
+      5
+    ],
+    [
+      "preparing dinner and enjoying some downtime before continuing his work on the research paper (preparing the ingredients for dinner)",
+      10
+    ],
+    [
+      "preparing dinner and enjoying some downtime before continuing his work on the research paper (cooking dinner)",
+      20
+    ],
+    [
+      "preparing dinner and enjoying some downtime before continuing his work on the research paper (enjoying his dinner and relaxing)",
+      20
+    ],
+    [
+      "working on his research paper about gentrification at home ([n]) Klaus is making a list of the points he wants to cover in his research paper)",
+      15
+    ],
+    [
+      "working on his research paper about gentrification at home (doing some quick research on gentrification)",
+      20
+    ],
+    [
+      "working on his research paper about gentrification at home (jotting down the main arguments and examples he wants to use)",
+      10
+    ],
+    [
+      "working on his research paper about gentrification at home (organizing his research paper into sections)",
+      15
+    ],
+    [
+      "reviewing and editing his research paper about gentrification before continuing his work ([n=1] Klaus is making a list of points to address)",
+      5
+    ],
+    [
+      "reviewing and editing his research paper about gentrification before continuing his work (reviewing the research paper for grammar and structure)",
+      20
+    ],
+    [
+      "reviewing and editing his research paper about gentrification before continuing his work (making revisions to the research paper)",
+      10
+    ],
+    [
+      "reviewing and editing his research paper about gentrification before continuing his work (taking a short break to relax his eyes)",
+      5
+    ],
+    [
+      "reviewing and editing his research paper about gentrification before continuing his work (reading through the research paper again for consistency)",
+      20
+    ],
+    [
+      "going to bed and sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "going to the library at Oak Hill College",
+      60
+    ],
+    [
+      "preparing for his day at the library",
+      60
+    ],
+    [
+      "Working on his research paper about gentrification at the library",
+      60
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library",
+      60
+    ],
+    [
+      "having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library",
+      120
+    ],
+    [
+      "taking a short break to recharge at the library",
+      60
+    ],
+    [
+      "continuing to work on his research paper about gentrification at the library",
+      120
+    ],
+    [
+      "Going home from the library at Oak Hill College",
+      60
+    ],
+    [
+      "watching TV from 7 to 8 pm",
+      60
+    ],
+    [
+      "preparing dinner and enjoying some downtime before continuing his work on the research paper",
+      60
+    ],
+    [
+      "working on his research paper about gentrification at home",
+      60
+    ],
+    [
+      "reviewing and editing his research paper about gentrification before continuing his work",
+      60
+    ],
+    [
+      "going to bed and sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+  "act_start_time": "February 13, 2023, 23:00:00",
+  "act_duration": 60,
+  "act_description": "going to bed and sleeping",
+  "act_pronunciatio": "\ud83d\udecc\ud83d\udca4",
+  "act_event": [
+    "Klaus Mueller",
+    "going to bed and sleeping",
+    "bed"
+  ],
+  "act_obj_description": "used for resting and sleep",
+  "act_obj_pronunciatio": "\ud83d\udecc\ud83d\udca4",
+  "act_obj_event": [
+    "bed",
+    "used for",
+    "resting and sleep"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Wolfgang Schulz": 130,
+    "Carlos Gomez": 195
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

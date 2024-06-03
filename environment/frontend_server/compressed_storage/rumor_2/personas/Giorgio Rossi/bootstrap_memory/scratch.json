@@ -1,0 +1,636 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    87,
+    18
+  ],
+  "daily_plan_req": "",
+  "name": "Giorgio Rossi",
+  "first_name": "Giorgio",
+  "last_name": "Rossi",
+  "age": 41,
+  "innate": "analytical, logical, eccentric",
+  "learned": "Giorgio Rossi is a mathematician who loves to solve challenging problems. He is always looking for ways to apply his analytical skills.",
+  "currently": "Giorgio Rossi is working on a research project to explore mathematical patterns in nature. He is also taking classes to stay up to date on new mathematical theories. Giorgio is also curious about who will be running for the local mayor election next month and he talks about it a lot with others.",
+  "lifestyle": "Giorgio Rossi goes to bed around midnight, awakes up around 7am, eats dinner around 4pm.",
+  "living_area": "the Ville:Giorgio Rossi's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 151,
+  "importance_ele_n": 43,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "Have breakfast at 8:00 am",
+    "Begin work on research project about mathematical patterns in nature at 9:00 am",
+    "Take a short break and discuss local mayor election candidates with coworkers at 11:00 am",
+    "Have lunch at 12:00 pm",
+    "Continue working on research project until 3:00 pm",
+    "Attend a mathematics class to stay up-to-date on new theories from 4:00 pm to 5:00 pm",
+    "Have dinner at 4:30 pm",
+    " Discuss local mayor election candidates further with friends in the evening (7:00 pm - 8:00 pm",
+    ", and\n1",
+    "Go to bed around midnight"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "awake and completing morning routine (washing his face)",
+      5
+    ],
+    [
+      "awake and completing morning routine (showering)",
+      10
+    ],
+    [
+      "awake and completing morning routine (shaving)",
+      5
+    ],
+    [
+      "awake and completing morning routine (dressing)",
+      5
+    ],
+    [
+      "awake and completing morning routine (having a quick meditation session)",
+      5
+    ],
+    [
+      "awake and completing morning routine (preparing his lunch for the day)",
+      30
+    ],
+    [
+      "having breakfast (on the way to making a cup of coffee)",
+      0
+    ],
+    [
+      "having breakfast (conversing about Isabella inviting Giorgio to visit her cafe, Hobbs Cafe, later for some freshly made fruit salad and coffee, which he agrees to do.)",
+      4
+    ],
+    [
+      "having breakfast (preparing a bowl of cereal and milk)",
+      11
+    ],
+    [
+      "having breakfast (checking his phone for any important notifications or messages)",
+      5
+    ],
+    [
+      "having breakfast (eating his breakfast)",
+      15
+    ],
+    [
+      "having breakfast (enjoying a glass of orange juice)",
+      25
+    ],
+    [
+      "beginning work on his research project about mathematical patterns in nature (organizing his research materials)",
+      15
+    ],
+    [
+      "beginning work on his research project about mathematical patterns in nature (reviewing relevant literature on mathematical patterns in nature)",
+      30
+    ],
+    [
+      "beginning work on his research project about mathematical patterns in nature (on the way to setting up his workstation for data analysis)",
+      0
+    ],
+    [
+      "beginning work on his research project about mathematical patterns in nature (conversing about how art and science can interconnect through exploring emotions, experiences, and patterns found in nature.)",
+      10
+    ],
+    [
+      "taking a short break and discussing local mayor election candidates with coworkers ([1]) Giorgio is gathering information about the mayoral candidates)",
+      5
+    ],
+    [
+      "beginning work on his research project about mathematical patterns in nature (on the way to setting up his workstation for data analysis)",
+      0
+    ],
+    [
+      "beginning work on his research project about mathematical patterns in nature (conversing about how mathematical patterns are present in daily life, specifically through arranging products on shelves.)",
+      4
+    ],
+    [
+      "taking a short break and discussing local mayor election candidates with coworkers (discussing the strengths and weaknesses of each candidate with his coworkers)",
+      11
+    ],
+    [
+      "taking a short break and discussing local mayor election candidates with coworkers (comparing different political platforms and policies)",
+      30
+    ],
+    [
+      "taking a short break and discussing local mayor election candidates with coworkers (on the way to sharing his thoughts on the candidates with his colleagues)",
+      0
+    ],
+    [
+      "taking a short break and discussing local mayor election candidates with coworkers (conversing about how inspirational poetry podcasts influence Carlos' creative pursuits and how art and science can interconnect through exploring emotions, experiences, and patterns found in nature.)",
+      6
+    ],
+    [
+      "beginning work on his research project about mathematical patterns in nature (setting up his workstation for data analysis)",
+      9
+    ],
+    [
+      "beginning work on his research project about mathematical patterns in nature (on the way to analyzing the data)",
+      6
+    ],
+    [
+      "taking a short break and discussing local mayor election candidates with coworkers (sharing his thoughts on the candidates with his colleagues)",
+      14
+    ],
+    [
+      "beginning work on his research project about mathematical patterns in nature (analyzing the data)",
+      15
+    ],
+    [
+      "taking a short break and discussing local mayor election candidates with coworkers (on the way to listening to other opinions and perspectives)",
+      0
+    ],
+    [
+      "taking a short break and discussing local mayor election candidates with coworkers (conversing about the fascinating nature of mathematical patterns found in various aspects of life, including nature, human interactions, and gossip networks.)",
+      20
+    ],
+    [
+      "ending work on his research project about mathematical patterns in nature (summarizing the discussion for future reference and continuing data analysis)",
+      5
+    ],
+    [
+      "having lunch (1) [1] Giorgio is selecting a restaurant for lunch)",
+      5
+    ],
+    [
+      "having lunch (is walking to the chosen restaurant)",
+      10
+    ],
+    [
+      "having lunch (is waiting for his table at the restaurant)",
+      5
+    ],
+    [
+      "having lunch (is placing his lunch order)",
+      5
+    ],
+    [
+      "having lunch (is chatting with his coworkers about the local mayor election candidates)",
+      30
+    ],
+    [
+      "having lunch (on the way to on the way to on the way to [1]) Giorgio is setting up his workspace for lunch)",
+      0
+    ],
+    [
+      "having lunch (conversing about local mayor election candidates between Yuriko Yamamoto and Giorgio Rossi, where they discuss the importance of evaluating each candidate's policies and past experiences based on their ability to address local issues, track record of collaboration, commitment to transparency, accountability, and vision for the future.)",
+      6
+    ],
+    [
+      "having lunch (is eating his lunch) (heating up his meal)",
+      6
+    ],
+    [
+      "having lunch (is eating his lunch) (eating his lunch while reading the newspaper)",
+      8
+    ],
+    [
+      "having lunch (is eating his lunch) (enjoying a cup of tea with his meal)",
+      7
+    ],
+    [
+      "having lunch (is eating his lunch) (cleaning up his workspace after lunch)",
+      38
+    ],
+    [
+      "Taking a short break and discussing local mayor election candidates with coworkers ([1]) Giorgio is gathering information about the mayoral candidates)",
+      30
+    ],
+    [
+      "Taking a short break and discussing local mayor election candidates with coworkers (on the way to discussing his findings with coworkers)",
+      0
+    ],
+    [
+      "Taking a short break and discussing local mayor election candidates with coworkers (conversing about Giorgio and Wolfgang discussing their thoughts on the upcoming local mayor election, emphasizing the importance of candidates who prioritize education and sustainable development.)",
+      8
+    ],
+    [
+      "Taking a short break and discussing local mayor election candidates with coworkers (listening to different opinions about the candidates)",
+      22
+    ],
+    [
+      "Taking a short break and discussing local mayor election candidates with coworkers (sharing his thoughts on the candidates with the group)",
+      20
+    ],
+    [
+      "Taking a short break and discussing local mayor election candidates with coworkers (taking a break and stretching his legs)",
+      15
+    ],
+    [
+      "Taking a short break and discussing local mayor election candidates with coworkers (chatting casually with coworkers about non-work related topics)",
+      25
+    ],
+    [
+      "attending a mathematics class to stay up-to-date on new theories (preparing for the mathematics class)",
+      5
+    ],
+    [
+      "attending a mathematics class to stay up-to-date on new theories (attending the mathematics class)",
+      55
+    ],
+    [
+      "working on his research project about mathematical patterns in nature (1) Giorgio is reviewing his previous research notes)",
+      15
+    ],
+    [
+      "working on his research project about mathematical patterns in nature (brainstorming new ideas for exploring mathematical patterns in nature)",
+      30
+    ],
+    [
+      "working on his research project about mathematical patterns in nature (searching for relevant literature on the subject)",
+      15
+    ],
+    [
+      "attending a local meetup to discuss mathematical problems and theories (preparing for the meetup by reviewing mathematical concepts)",
+      30
+    ],
+    [
+      "attending a local meetup to discuss mathematical problems and theories (at the meetup location and socializes with other attendees)",
+      20
+    ],
+    [
+      "attending a local meetup to discuss mathematical problems and theories (his latest research findings on mathematical patterns in nature)",
+      45
+    ],
+    [
+      "attending a local meetup to discuss mathematical problems and theories (in a group discussion about various mathematical problems and theories) ([1] Giorgio is arriving at the meetup location)",
+      5
+    ],
+    [
+      "attending a local meetup to discuss mathematical problems and theories (in a group discussion about various mathematical problems and theories) (greeting fellow attendees and mingling)",
+      10
+    ],
+    [
+      "attending a local meetup to discuss mathematical problems and theories (in a group discussion about various mathematical problems and theories) (participating in group discussions about mathematical problems)",
+      25
+    ],
+    [
+      "attending a local meetup to discuss mathematical problems and theories (in a group discussion about various mathematical problems and theories) (listening to other mathematicians' theories and perspectives)",
+      15
+    ],
+    [
+      "attending a local meetup to discuss mathematical problems and theories (in a group discussion about various mathematical problems and theories) (engaging in individual discussions about specific mathematical topics)",
+      5
+    ],
+    [
+      "attending a local meetup to discuss mathematical problems and theories (in small breakout sessions to explore more complex mathematical concepts)",
+      25
+    ],
+    [
+      "engaging in leisure activities and catching up on news or articles related to mathematics (browsing recent mathematical papers)",
+      30
+    ],
+    [
+      "engaging in leisure activities and catching up on news or articles related to mathematics (watching a documentary on famous mathematicians)",
+      45
+    ],
+    [
+      "engaging in leisure activities and catching up on news or articles related to mathematics (listening to a podcast about math-related news)",
+      20
+    ],
+    [
+      "engaging in leisure activities and catching up on news or articles related to mathematics (discussing mathematical topics with friends online)",
+      25
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "awake and completing morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "beginning work on his research project about mathematical patterns in nature",
+      60
+    ],
+    [
+      "taking a short break and discussing local mayor election candidates with coworkers",
+      120
+    ],
+    [
+      "having lunch",
+      120
+    ],
+    [
+      "Taking a short break and discussing local mayor election candidates with coworkers",
+      120
+    ],
+    [
+      "attending a mathematics class to stay up-to-date on new theories",
+      60
+    ],
+    [
+      "working on his research project about mathematical patterns in nature",
+      60
+    ],
+    [
+      "attending a local meetup to discuss mathematical problems and theories",
+      180
+    ],
+    [
+      "engaging in leisure activities and catching up on news or articles related to mathematics",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Giorgio Rossi's apartment:main room:bed",
+  "act_start_time": "February 13, 2023, 23:04:00",
+  "act_duration": 60,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\ude34\ud83d\udca4",
+  "act_event": [
+    "Giorgio Rossi",
+    "sleep",
+    "sleeping"
+  ],
+  "act_obj_description": "being used for sleeping",
+  "act_obj_pronunciatio": "\ud83d\udecc\ud83d\udca4",
+  "act_obj_event": [
+    "bed",
+    "used for",
+    "sleeping"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Isabella Rodriguez": -178,
+    "Carlos Gomez": -77,
+    "Tom Moreno": -43,
+    "Jane Moreno": -13,
+    "Klaus Mueller": 61,
+    "Tamara Taylor": 113,
+    "Carmen Ortiz": 130,
+    "Yuriko Yamamoto": 137,
+    "Wolfgang Schulz": 227
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

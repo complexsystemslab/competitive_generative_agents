@@ -1,0 +1,680 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:59:00",
+  "curr_tile": [
+    58,
+    74
+  ],
+  "daily_plan_req": "Carmen opens Harvey Oak Supply Store at 8am, stands behind its counter, and closes it at 6pm, at which point, she likes to go to The Rose and Crown Pub to relax",
+  "name": "Carmen Ortiz",
+  "first_name": "Carmen",
+  "last_name": "Ortiz",
+  "age": 33,
+  "innate": "friendly, outgoing, helpful",
+  "learned": "Carmen Ortiz is a shopkeeper at Harvey Oak Supply Store who loves to help people find the supplies they need. She is always looking for ways to make her customers feel welcome.",
+  "currently": "Carmen Ortiz is managing Harvey Oak Supply Store and lives with a housemate, Tamara Taylor. She is also working on expanding her shop online.",
+  "lifestyle": "Carmen Ortiz goes to bed around 11pm, awakes up around 7am, eats dinner around 8pm.",
+  "living_area": "the Ville:Tamara Taylor and Carmen Ortiz's house:Carmen Ortiz's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 159,
+  "importance_ele_n": 44,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "open Harvey Oak Supply Store at 8:00 am",
+    "assist customers and manage the shop until 6:00 pm",
+    "go to The Rose and Crown Pub to relax from 6:30 to 9:00 pm, and",
+    "return home and go to bed around 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing morning routine (taking a shower)",
+      15
+    ],
+    [
+      "completing morning routine (getting dressed)",
+      10
+    ],
+    [
+      "completing morning routine (making breakfast)",
+      15
+    ],
+    [
+      "completing morning routine (on the way to eating breakfast)",
+      0
+    ],
+    [
+      "completing morning routine (conversing about Good morning, Carmen! How are you feeling today?\nCarmen Ortiz is feeling great and making scrambled eggs with toast and fresh fruit for breakfast.)",
+      4
+    ],
+    [
+      "completing morning routine (brushing her teeth and doing morning hygiene routines)",
+      10
+    ],
+    [
+      "opening Harvey Oak Supply Store (checking the security system)",
+      5
+    ],
+    [
+      "opening Harvey Oak Supply Store (turning on the lights)",
+      5
+    ],
+    [
+      "opening Harvey Oak Supply Store (setting up the cash register)",
+      10
+    ],
+    [
+      "opening Harvey Oak Supply Store (arranging merchandise)",
+      15
+    ],
+    [
+      "opening Harvey Oak Supply Store (placing signage)",
+      25
+    ],
+    [
+      "assisting customers and managing Harvey Oak Supply Store (checking inventory levels of stock)",
+      15
+    ],
+    [
+      "assisting customers and managing Harvey Oak Supply Store (greeting customers as they enter the store)",
+      15
+    ],
+    [
+      "assisting customers and managing Harvey Oak Supply Store (answering customer questions about products and their uses)",
+      15
+    ],
+    [
+      "assisting customers and managing Harvey Oak Supply Store (restocking shelves with new supplies)",
+      10
+    ],
+    [
+      "assisting customers and managing Harvey Oak Supply Store (handling transactions at the cash register)",
+      5
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (preparing the store for customers)",
+      5
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (greeting customers as they enter)",
+      15
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (helping customers find specific items)",
+      25
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments)",
+      20
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (restocking shelves as needed)",
+      15
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (on the way to greeting customers as they enter the store)",
+      0
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (conversing about Carlos complimenting Carmen on her work at Harvey Oak Supply Store, Carmen encouraging Carlos on his poetry collection, and discussing their personal interests and experiences in their respective fields.)",
+      5
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (answering customer questions about products) (assisting a customer with finding a specific product)",
+      20
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (answering customer questions about products) (answering questions about products and their uses)",
+      25
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (answering customer questions about products) (restocking shelves as needed)",
+      10
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (answering customer questions about products) (helping a customer with a purchase)",
+      15
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (greeting customers)",
+      5
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (answering customer inquiries)",
+      15
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (greeting customers as they enter)",
+      5
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (helping customers find the supplies they need) (helping a customer find the right tools)",
+      5
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (helping customers find the supplies they need) (processing a payment for a customer)",
+      10
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (helping customers find the supplies they need) (managing the cash register and counting the till)",
+      10
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (helping customers find the supplies they need) (restocking supplies on the shelves) ([1]) Carmen is managing the cash register and processing payments) (managing the cash register and processing payments)",
+      10
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (helping customers find the supplies they need) (restocking supplies on the shelves) ([1]) Carmen is managing the cash register and processing payments) (helping customers find the supplies they need)",
+      25
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (helping customers find the supplies they need) (restocking supplies on the shelves) ([1]) Carmen is managing the cash register and processing payments) (restocking supplies on the shelves)",
+      30
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (managing the cash register and processing payments) (greeting customers as they enter)",
+      5
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (managing the cash register and processing payments) (assisting customers with their questions about products)",
+      45
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (managing the cash register and processing payments) (restocking shelves with new inventory)",
+      40
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (managing the cash register and processing payments) (managing the cash register and processing payments) (greeting customers as they enter)",
+      5
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (managing the cash register and processing payments) (managing the cash register and processing payments) (helping customers find the products they need)",
+      30
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (on the way to restocking shelves)",
+      0
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (conversing about Carmen Ortiz's successful management of responsibilities at Harvey Oak Supply Store, with Tom Moreno expressing his pride and appreciation for her hard work.)",
+      3
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (helping customers carry their purchases to their vehicles)",
+      12
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (managing the cash register and processing payments) (helping customers carry their purchases to their vehicles)",
+      10
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (managing the cash register and processing payments) (helping customers carry their purchases to their vehicles) (answering customer questions about products)",
+      25
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (managing the cash register and processing payments) (helping customers carry their purchases to their vehicles)",
+      25
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (managing the cash register and processing payments) (helping customers find the products they need)",
+      15
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (managing the cash register and processing payments) (helping customers carry their purchases to their vehicles)",
+      15
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (managing the cash register and processing payments) (helping customers find the products they need)",
+      15
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (managing the cash register and processing payments) (helping customers carry their purchases to their vehicles)",
+      15
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments) (managing the cash register and processing payments) (answering customer questions about products)",
+      15
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (managing the cash register and processing payments) (managing the cash register and processing payments)",
+      15
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (greeting customers as they enter the store)",
+      5
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (helping a customer find a specific item)",
+      10
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (assisting another customer with their purchase)",
+      10
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (restocking shelves)",
+      10
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store (updating the store inventory on the computer)",
+      25
+    ],
+    [
+      "Going to The Rose and Crown Pub to relax ([1] Carmen is putting away the shop's remaining items)",
+      5
+    ],
+    [
+      "Going to The Rose and Crown Pub to relax (locking up Harvey Oak Supply Store)",
+      5
+    ],
+    [
+      "Going to The Rose and Crown Pub to relax (walking to The Rose and Crown Pub)",
+      10
+    ],
+    [
+      "Going to The Rose and Crown Pub to relax (taking a seat at the pub)",
+      5
+    ],
+    [
+      "Going to The Rose and Crown Pub to relax (ordering her favorite drink)",
+      5
+    ],
+    [
+      "Going to The Rose and Crown Pub to relax (chatting with other patrons at the pub)",
+      30
+    ],
+    [
+      "Going to bed at home ([1]) Carmen is locking up Harvey Oak Supply Store)",
+      5
+    ],
+    [
+      "Going to bed at home (saying goodbye to her customers)",
+      5
+    ],
+    [
+      "Going to bed at home (walking to her car)",
+      5
+    ],
+    [
+      "Going to bed at home (driving home)",
+      10
+    ],
+    [
+      "Going to bed at home (arriving at her home)",
+      5
+    ],
+    [
+      "Going to bed at home (changing into her pajamas)",
+      30
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      6
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      40
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing morning routine",
+      60
+    ],
+    [
+      "opening Harvey Oak Supply Store",
+      60
+    ],
+    [
+      "assisting customers and managing Harvey Oak Supply Store",
+      60
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store",
+      540
+    ],
+    [
+      "Going to The Rose and Crown Pub to relax",
+      60
+    ],
+    [
+      "Assisting customers and managing Harvey Oak Supply Store",
+      60
+    ],
+    [
+      "Going to The Rose and Crown Pub to relax",
+      60
+    ],
+    [
+      "Going to bed at home",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Tamara Taylor and Carmen Ortiz's house:Carmen Ortiz's room:bed",
+  "act_start_time": "February 13, 2023, 23:24:00",
+  "act_duration": 40,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\udca4\ud83c\udf1b",
+  "act_event": [
+    "Carmen Ortiz",
+    "sleep",
+    "sleeping"
+  ],
+  "act_obj_description": "used for sleeping",
+  "act_obj_pronunciatio": "\ud83d\udecc\ud83d\udca4",
+  "act_obj_event": [
+    "bed",
+    "used",
+    "sleeping"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Tamara Taylor": -189,
+    "Carlos Gomez": 33,
+    "Tom Moreno": 326
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}
